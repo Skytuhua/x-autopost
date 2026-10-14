@@ -5,6 +5,18 @@ on:
       text:
         description: Post text
         required: true
+      media:
+        description: "Optional. Up to 4 images, comma separated: repo paths (media/x.png) or https URLs"
+        required: false
+        default: ""
+      reply_to:
+        description: "Optional. Post ID to reply to (own post, or a post that mentions us)"
+        required: false
+        default: ""
+      dry_run:
+        description: "true = upload media only, do not post"
+        required: false
+        default: "false"
 permissions:
   contents: write
 jobs:
@@ -20,22 +32,58 @@ jobs:
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
           POST_TEXT: ${{ inputs.text }}
+          POST_MEDIA: ${{ inputs.media }}
+          REPLY_TO: ${{ inputs.reply_to }}
+          DRY_RUN: ${{ inputs.dry_run }}
         run: |
           python - <<'PY'
-          import os, json, datetime
+          import os, json, datetime, mimetypes, requests
           names = ["X_API_KEY","X_API_SECRET","X_ACCESS_TOKEN","X_ACCESS_TOKEN_SECRET"]
+          media = [m.strip() for m in os.environ.get("POST_MEDIA","").split(",") if m.strip()][:4]
+          reply_to = os.environ.get("REPLY_TO","").strip()
+          dry = os.environ.get("DRY_RUN","false").lower() == "true"
+          out = {"time": datetime.datetime.utcnow().isoformat()+"Z", "text": os.environ["POST_TEXT"],
+                 "media": media, "reply_to": reply_to, "dry_run": dry}
           missing = [n for n in names if not os.environ.get(n)]
-          out = {"time": datetime.datetime.utcnow().isoformat()+"Z", "text": os.environ["POST_TEXT"]}
           if missing:
               out.update(status=0, body="missing secrets: " + ",".join(missing))
           else:
               from requests_oauthlib import OAuth1Session
               s = OAuth1Session(*[os.environ[n] for n in names])
-              r = s.post("https://api.x.com/2/tweets", json={"text": os.environ["POST_TEXT"]})
-              out.update(status=r.status_code, body=r.text[:1000])
+              ids, err = [], None
+              for m in media:
+                  if m.startswith("http"):
+                      r = requests.get(m, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
+                      data, ctype = r.content, r.headers.get("content-type","image/png").split(";")[0]
+                  else:
+                      data, ctype = open(m,"rb").read(), mimetypes.guess_type(m)[0] or "image/png"
+                  r = s.post("https://api.x.com/2/media/upload",
+                             files={"media": ("img", data, ctype)},
+                             data={"media_category": "tweet_image", "media_type": ctype})
+                  try:
+                      d = r.json().get("data", {})
+                      mid = d.get("id") or d.get("media_id_string") or d.get("media_id")
+                  except Exception:
+                      mid = None
+                  if not mid:
+                      err = f"media upload failed for {m}: {r.status_code} {r.text[:500]}"
+                      break
+                  ids.append(str(mid))
+              out["media_ids"] = ids
+              if err:
+                  out.update(status=0, body=err)
+              elif dry:
+                  out.update(status=200, body="dry run: media uploaded, nothing posted")
+              else:
+                  payload = {"text": os.environ["POST_TEXT"]}
+                  if ids: payload["media"] = {"media_ids": ids}
+                  if reply_to: payload["reply"] = {"in_reply_to_tweet_id": reply_to}
+                  r = s.post("https://api.x.com/2/tweets", json=payload)
+                  out.update(status=r.status_code, body=r.text[:1000])
           print(out)
           json.dump(out, open("last_result.json","w"), indent=1)
-          with open("posted.jsonl","a") as f: f.write(json.dumps(out)+"\n")
+          if not dry:
+              with open("posted.jsonl","a") as f: f.write(json.dumps(out)+"\n")
           PY
       - name: Save result
         run: |
