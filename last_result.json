@@ -1,6 +1,6 @@
 {
- "time": "2026-10-14T22:13:10.017236Z",
+ "time": "2026-10-14T22:18:24.278889Z",
  "text": "Google just made Gemini 4 Argon generally available on the API. It costs $2 per million input tokens and $10 per million output until Nov 30, then $4 and $20. Google also claims a 1M token limit.\n\nSource: Google blog",
- "status": 0,
- "body": "missing secrets: X_API_KEY,X_API_SECRET,X_ACCESS_TOKEN,X_ACCESS_TOKEN_SECRET"
+ "status": 403,
+ "body": "{\"detail\":\"Your client app is not configured with the appropriate oauth1 app permissions for this endpoint.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"https://api.x.com/2/problems/oauth1-permissions\"}"
 }
