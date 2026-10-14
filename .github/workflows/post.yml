@@ -90,6 +90,6 @@ jobs:
           git config user.name x-autopost-bot
           git config user.email actions@users.noreply.github.com
           git add last_result.json posted.jsonl
-          git commit -m "post result" && git push
+          git commit -m "post result" && (git push || (git pull --rebase && git push))
       - name: Fail if post failed
         run: python -c "import json,sys; sys.exit(0 if json.load(open('last_result.json'))['status'] in (200,201) else 1)"
