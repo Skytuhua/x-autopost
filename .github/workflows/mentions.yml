@@ -23,7 +23,12 @@ jobs:
           state = json.load(open("mentions_state.json")) if os.path.exists("mentions_state.json") else {}
           uid = state.get("user_id")
           if not uid:
-              uid = s.get("https://api.x.com/2/users/me").json()["data"]["id"]
+              me = s.get("https://api.x.com/2/users/me")
+              print("users/me", me.status_code, me.text[:500])
+              uid = me.json().get("data", {}).get("id")
+              if not uid:
+                  json.dump({"status": me.status_code, "body": me.text[:1000]}, open("mentions.json","w"), indent=1)
+                  raise SystemExit(0)
           params = {"max_results": 10, "tweet.fields": "author_id,conversation_id,created_at,in_reply_to_user_id,referenced_tweets",
                     "expansions": "author_id", "user.fields": "username"}
           if state.get("since_id"): params["since_id"] = state["since_id"]
@@ -41,4 +46,4 @@ jobs:
           git config user.name x-autopost-bot
           git config user.email actions@users.noreply.github.com
           git add mentions.json mentions_state.json
-          git commit -m "mentions" && git push
+          git commit -m "mentions" && (git push || (git pull --rebase && git push))
