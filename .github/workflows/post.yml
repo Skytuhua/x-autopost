@@ -1,0 +1,29 @@
+name: Post to X
+on:
+  workflow_dispatch:
+    inputs:
+      text:
+        description: Post text
+        required: true
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - run: pip install requests-oauthlib
+      - name: Post
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          POST_TEXT: ${{ inputs.text }}
+        run: |
+          python - <<'PY'
+          import os, sys
+          from requests_oauthlib import OAuth1Session
+          s = OAuth1Session(os.environ["X_API_KEY"], os.environ["X_API_SECRET"],
+                            os.environ["X_ACCESS_TOKEN"], os.environ["X_ACCESS_TOKEN_SECRET"])
+          r = s.post("https://api.x.com/2/tweets", json={"text": os.environ["POST_TEXT"]})
+          print(r.status_code, r.text)
+          sys.exit(0 if r.status_code in (200, 201) else 1)
+          PY
