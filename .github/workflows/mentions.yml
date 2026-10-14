@@ -1,0 +1,44 @@
+name: Fetch mentions and replies
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests-oauthlib
+      - name: Fetch
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: |
+          python - <<'PY'
+          import os, json, datetime
+          from requests_oauthlib import OAuth1Session
+          s = OAuth1Session(*[os.environ[n] for n in ["X_API_KEY","X_API_SECRET","X_ACCESS_TOKEN","X_ACCESS_TOKEN_SECRET"]])
+          state = json.load(open("mentions_state.json")) if os.path.exists("mentions_state.json") else {}
+          uid = state.get("user_id")
+          if not uid:
+              uid = s.get("https://api.x.com/2/users/me").json()["data"]["id"]
+          params = {"max_results": 10, "tweet.fields": "author_id,conversation_id,created_at,in_reply_to_user_id,referenced_tweets",
+                    "expansions": "author_id", "user.fields": "username"}
+          if state.get("since_id"): params["since_id"] = state["since_id"]
+          r = s.get(f"https://api.x.com/2/users/{uid}/mentions", params=params)
+          out = {"time": datetime.datetime.utcnow().isoformat()+"Z", "status": r.status_code, "body": r.json() if r.ok else r.text[:1000]}
+          if r.ok and r.json().get("meta", {}).get("newest_id"):
+              state["since_id"] = r.json()["meta"]["newest_id"]
+          state["user_id"] = uid
+          json.dump(state, open("mentions_state.json","w"), indent=1)
+          json.dump(out, open("mentions.json","w"), indent=1)
+          print(json.dumps(out)[:2000])
+          PY
+      - name: Save
+        run: |
+          git config user.name x-autopost-bot
+          git config user.email actions@users.noreply.github.com
+          git add mentions.json mentions_state.json
+          git commit -m "mentions" && git push
