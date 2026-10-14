@@ -1,14 +1,14 @@
 {
- "time": "2026-10-14T23:18:16.715161Z",
- "text": "Anthropic made $16.8 billion in revenue last quarter, up 45% from $11.6 billion in Q2, Reuters reports. The company told prospective IPO investors it was profitable on an adjusted basis.",
+ "time": "2026-10-14T23:19:42.031846Z",
+ "text": "Eight US states sued OpenAI today, each in its own state court, claiming ChatGPT is unsafe and has harmed children. OpenAI says it has age-specific protections that many other AI products lack.",
  "media": [
-  "media/2026-10-14-anthropic-q3.png"
+  "media/2026-10-14-openai-states.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "media_ids": [
-  "2110510533224898560"
+  "2110510890344906753"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110510535120736454\",\"text\":\"Anthropic made $16.8 billion in revenue last quarter, up 45% from $11.6 billion in Q2, Reuters reports. The company told prospective IPO investors it was profitable on an adjusted basis. https://t.co/XCP1XGvVRF\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110510891817157065\",\"text\":\"Eight US states sued OpenAI today, each in its own state court, claiming ChatGPT is unsafe and has harmed children. OpenAI says it has age-specific protections that many other AI products lack. https://t.co/6Zd3gjBDCO\"}}"
 }
