@@ -1,42 +1,42 @@
 {
- "time": "2026-10-15T12:16:54.041283Z",
+ "time": "2026-10-15T14:17:48.971747Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "MistralAI",
-   "created_at": "2026-10-15T10:50:30.000Z",
+   "user": "AnthropicAI",
+   "created_at": "2026-10-15T13:14:22.000Z",
    "edit_history_tweet_ids": [
-    "2110684735412576689"
+    "2110720940665372825"
    ],
-   "id": "2110684735412576689",
+   "id": "2110720940665372825",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 2915,
-    "like_count": 58,
-    "quote_count": 1,
-    "reply_count": 1,
-    "retweet_count": 3
+    "bookmark_count": 899,
+    "impression_count": 126189,
+    "like_count": 1713,
+    "quote_count": 48,
+    "reply_count": 149,
+    "retweet_count": 125
    },
-   "text": "Designed to support multiple tasks:\n\n- reconstructing particle collisions\n- identifying particles\n- flagging unexpected signals\n- evaluating future detector designs"
+   "text": "Applications are now open for two new Anthropic Fellowships.\n\nSTEM Fellows (science and engineering) and Conceptual Reasoning Fellows (philosophy, cognitive science, economics, policy, and law) will spend four months at Anthropic from January 2027, working to help Claude reason"
   },
   {
-   "user": "MistralAI",
-   "created_at": "2026-10-15T10:50:29.000Z",
+   "user": "GoogleDeepMind",
+   "created_at": "2026-10-15T12:53:09.000Z",
    "edit_history_tweet_ids": [
-    "2110684732103041474"
+    "2110715601454784965"
    ],
-   "id": "2110684732103041474",
+   "id": "2110715601454784965",
    "public_metrics": {
-    "bookmark_count": 37,
-    "impression_count": 15041,
-    "like_count": 667,
-    "quote_count": 23,
-    "reply_count": 45,
-    "retweet_count": 83
+    "bookmark_count": 33,
+    "impression_count": 22531,
+    "like_count": 284,
+    "quote_count": 15,
+    "reply_count": 81,
+    "retweet_count": 20
    },
-   "text": "What can large-scale AI models bring to the growing complexity of particle physics?\n\n@CERN  and Mistral join forces to explore this question.\n\nThe ambition: a single Large Physics Model, trained on billions of simulated collisions. https://t.co/nrdCfcBI3k"
+   "text": "SynthID has been named one of @TIME's Best Inventions of 2026.\n\nWith over 180 billion images and videos already watermarked, it\u2019s making it easier for people to distinguish AI-generated content from other media \u2192 https://t.co/ClIEdQLgV1 https://t.co/STbjqj9iUu"
   }
  ]
 }
