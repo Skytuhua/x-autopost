@@ -1,14 +1,14 @@
 {
- "time": "2026-10-15T12:17:03.287268Z",
- "text": "Amazon launched two new Bee AI wearables. The Bee Frontier is $74.99 and out today. The Bee Eclipse, a card that snaps onto a phone, is $99.99 and coming soon. A new Bee Pro plan is $11.99 a month, The Verge reports.",
+ "time": "2026-10-15T14:18:00.378844Z",
+ "text": "Google launched Universal Cart in the US today, in Search and the Gemini app. It saves items from different stores in one cart, alerts you to price drops and restocks, and shows promo codes. Checkout runs through Google Pay.",
  "media": [
-  "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/BEE_FAMILY_02_1600x900.jpg"
+  "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.width-1300.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "media_ids": [
-  "2110706519222398976"
+  "2110736957127245824"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110706520464007385\",\"text\":\"Amazon launched two new Bee AI wearables. The Bee Frontier is $74.99 and out today. The Bee Eclipse, a card that snaps onto a phone, is $99.99 and coming soon. A new Bee Pro plan is $11.99 a month, The Verge reports. https://t.co/fvfF1ZtAK9\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110736958834311665\",\"text\":\"Google launched Universal Cart in the US today, in Search and the Gemini app. It saves items from different stores in one cart, alerts you to price drops and restocks, and shows promo codes. Checkout runs through Google Pay. https://t.co/cYMKcLZltR\"}}"
 }
