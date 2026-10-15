@@ -1,42 +1,7 @@
 {
- "time": "2026-10-15T12:16:54.041283Z",
- "action": "scan",
- "target": "",
+ "time": "2026-10-15T12:18:33.804412Z",
+ "action": "repost",
+ "target": "2110684732103041474",
  "status": 200,
- "posts": [
-  {
-   "user": "MistralAI",
-   "created_at": "2026-10-15T10:50:30.000Z",
-   "edit_history_tweet_ids": [
-    "2110684735412576689"
-   ],
-   "id": "2110684735412576689",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 2915,
-    "like_count": 58,
-    "quote_count": 1,
-    "reply_count": 1,
-    "retweet_count": 3
-   },
-   "text": "Designed to support multiple tasks:\n\n- reconstructing particle collisions\n- identifying particles\n- flagging unexpected signals\n- evaluating future detector designs"
-  },
-  {
-   "user": "MistralAI",
-   "created_at": "2026-10-15T10:50:29.000Z",
-   "edit_history_tweet_ids": [
-    "2110684732103041474"
-   ],
-   "id": "2110684732103041474",
-   "public_metrics": {
-    "bookmark_count": 37,
-    "impression_count": 15041,
-    "like_count": 667,
-    "quote_count": 23,
-    "reply_count": 45,
-    "retweet_count": 83
-   },
-   "text": "What can large-scale AI models bring to the growing complexity of particle physics?\n\n@CERN  and Mistral join forces to explore this question.\n\nThe ambition: a single Large Physics Model, trained on billions of simulated collisions. https://t.co/nrdCfcBI3k"
-  }
- ]
+ "body": "{\"data\":{\"rest_id\":\"2110706897049526321\",\"retweeted\":true}}"
 }
