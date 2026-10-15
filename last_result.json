@@ -1,12 +1,14 @@
 {
- "time": "2026-10-15T09:48:05.412372Z",
+ "time": "2026-10-15T09:49:44.996725Z",
  "text": "Cohere signed a letter of intent to buy AISLE, a startup founded in 2025 that builds AI to find and fix unknown software vulnerabilities, Cohere says. Reuters also reports the deal.",
  "media": [
   "media/2026-10-15-cohere-aisle.png"
  ],
  "reply_to": "",
  "dry_run": false,
- "media_ids": [],
- "status": 0,
- "body": "media upload failed for media/2026-10-15-cohere-aisle.png: 400 {\"detail\":\"Bad Request\",\"status\":400,\"title\":\"Bad Request\",\"type\":\"about:blank\"}"
+ "media_ids": [
+  "2110669447778516992"
+ ],
+ "status": 201,
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110669449292615970\",\"text\":\"Cohere signed a letter of intent to buy AISLE, a startup founded in 2025 that builds AI to find and fix unknown software vulnerabilities, Cohere says. Reuters also reports the deal. https://t.co/k1yJyHCVyB\"}}"
 }
