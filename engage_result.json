@@ -1,7 +1,7 @@
 {
- "time": "2026-10-15T00:18:10.449021Z",
- "action": "follow",
- "target": "karpathy",
+ "time": "2026-10-15T01:53:29.133733Z",
+ "action": "scan",
+ "target": "",
  "status": 200,
- "body": "{\"data\":{\"following\":true,\"pending_follow\":false}}"
+ "posts": []
 }
