@@ -6,6 +6,11 @@ Read this whole file before writing or sending any post or reply. It overrides o
 
 - Big tech and AI news that just broke: model launches, major product launches, big funding or acquisitions, outages, security incidents, court rulings, regulation, earnings that move the industry.
 - Important comments from notable people in tech/AI (CEOs, founders, top researchers).
+- **Free tech stuff and deals (Leo, 2026-10-14):** free tiers or big free upgrades, student programs (GitHub Student Pack style perks, free Pro plans for students), API or cloud credits, open-source/open-weight model releases anyone can use free, free courses or certifications from major companies, notable hackathons with real prizes, and real discounts on tech (big price cuts on devices, software, or AI plans). Rules:
+  - Verify on the company's own page that it's live right now, who qualifies, and the end date. Skip expired, invite-only, referral, affiliate, "up to X% off" fluff, crypto airdrops, and giveaways that need follows or retweets.
+  - Freebies may be up to 48 hours old (big news stays at about 2 hours). Max 3 freebie/deal posts a day, inside the 10-post cap.
+  - Say who it's for, what you get, how to get it, and the deadline. Still no URLs: name where to get it in words ("in the Claude app under Settings", "on GitHub Education"). Example: "Google is giving students a free year of Gemini Pro. Sign up with a school email on the Gemini students page before Dec 31."
+  - Image: the official promo image, or a simple data card (what you get, who qualifies, deadline).
 - Only genuinely significant items from about the last 2 hours. Skip rumors unless a major outlet reports them, and say it's reported.
 - Limits: 0 to 3 new posts per run (runs every 30 min), 10 per Pacific day. Replies (section 5) are separate: up to 5 per day.
 - Never post the same story twice. Check `posted.jsonl` first.
