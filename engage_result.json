@@ -1,42 +1,7 @@
 {
- "time": "2026-10-15T14:17:48.971747Z",
- "action": "scan",
- "target": "",
+ "time": "2026-10-15T14:19:30.307889Z",
+ "action": "repost",
+ "target": "2110720940665372825",
  "status": 200,
- "posts": [
-  {
-   "user": "AnthropicAI",
-   "created_at": "2026-10-15T13:14:22.000Z",
-   "edit_history_tweet_ids": [
-    "2110720940665372825"
-   ],
-   "id": "2110720940665372825",
-   "public_metrics": {
-    "bookmark_count": 899,
-    "impression_count": 126189,
-    "like_count": 1713,
-    "quote_count": 48,
-    "reply_count": 149,
-    "retweet_count": 125
-   },
-   "text": "Applications are now open for two new Anthropic Fellowships.\n\nSTEM Fellows (science and engineering) and Conceptual Reasoning Fellows (philosophy, cognitive science, economics, policy, and law) will spend four months at Anthropic from January 2027, working to help Claude reason"
-  },
-  {
-   "user": "GoogleDeepMind",
-   "created_at": "2026-10-15T12:53:09.000Z",
-   "edit_history_tweet_ids": [
-    "2110715601454784965"
-   ],
-   "id": "2110715601454784965",
-   "public_metrics": {
-    "bookmark_count": 33,
-    "impression_count": 22531,
-    "like_count": 284,
-    "quote_count": 15,
-    "reply_count": 81,
-    "retweet_count": 20
-   },
-   "text": "SynthID has been named one of @TIME's Best Inventions of 2026.\n\nWith over 180 billion images and videos already watermarked, it\u2019s making it easier for people to distinguish AI-generated content from other media \u2192 https://t.co/ClIEdQLgV1 https://t.co/STbjqj9iUu"
-  }
- ]
+ "body": "{\"data\":{\"rest_id\":\"2110737333192392850\",\"retweeted\":true}}"
 }
