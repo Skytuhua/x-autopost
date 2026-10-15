@@ -22,6 +22,7 @@ Short, straight to the point, easy to understand. Follow https://github.com/blad
 - One idea per post. Two or three short sentences. Under 240 characters is best; 280 is the hard cap.
 - Lead with the news itself. Who did what, then the one number that matters.
 - Plain words a non-engineer gets. Explain jargon or drop it.
+- Names that look like web addresses (Character.AI, Perplexity.ai, X.com) get auto-linked by X, which looks bad and is billed as a URL. Write them without the dot: "Character AI", "Perplexity".
 - No source line. No "Source:". No URLs (a link costs $0.20 vs $0.015).
 - No hashtags, no emoji, no em dashes, no bold, no title case.
 - Hedge company claims: "Google says", "OpenAI claims".
