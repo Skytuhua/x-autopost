@@ -1,13 +1,13 @@
 # X Posting Playbook (@skytuhua1)
 
-Read this whole file before writing or sending any post or reply. It overrides older instructions. Owner: Leo (Xian Le Huang). Last updated 2026-10-14.
+Read this whole file before writing or sending any post or reply. It overrides older instructions. Owner: Leo (Xian Le Huang). Last updated 2026-10-14 (community section added).
 
 ## 1. What we post
 
 - Big tech and AI news that just broke: model launches, major product launches, big funding or acquisitions, outages, security incidents, court rulings, regulation, earnings that move the industry.
 - Important comments from notable people in tech/AI (CEOs, founders, top researchers).
 - Only genuinely significant items from about the last 2 hours. Skip rumors unless a major outlet reports them, and say it's reported.
-- Limits: 0 to 3 new posts per hourly run, 10 per Pacific day. Replies (section 5) are separate: up to 5 per day.
+- Limits: 0 to 3 new posts per run (runs every 30 min), 10 per Pacific day. Replies (section 5) are separate: up to 5 per day.
 - Never post the same story twice. Check `posted.jsonl` first.
 
 ## 2. How to write (Leo's rules, 2026-10-14)
@@ -67,7 +67,7 @@ Steps (shell with github credentials):
 X's self-serve API only allows replies to (a) our own posts, or (b) posts that @mention or quote @skytuhua1. Replies to anyone else get rejected, so never try.
 
 - **Own posts (threads):** reply to our earlier post when there's a real follow-up on the same story within 24 h: a benchmark chart that came out later, a price change, a rival's response, a correction. Use `reply_to` = our post ID from `posted.jsonl`. A correction is always worth a reply.
-- **Mentions:** each run, dispatch `.github/workflows/mentions.yml`, wait ~40 s, read `mentions.json`. Reply when someone asks a real question or adds something worth answering about our post. Answer in 1 or 2 short sentences, same writing rules, facts only. Skip spam, insults, bots, crypto shills, and anything political or personal. Never argue.
+- **Mentions: PAUSED (Leo, 2026-10-14).** X's automation rules say AI-written reply bots need X's prior written approval, so do not reply to mentions or to other people's replies until this line is changed. Still dispatch mentions.yml each run so we keep the log. Replies to our own posts (threads) are still fine.
 - Max 5 replies a day. Log check: replies show `reply_to` in `posted.jsonl`.
 
 ## 6. Costs (X pay-per-use, Aug 2026 rate card)
@@ -80,3 +80,15 @@ Post $0.015, post with URL $0.20, summoned reply $0.01, media upload about $0.00
 - 402 or credit errors: X API credits ran out.
 - Media upload failed: retry once without the image rather than skip the news, and log it.
 - Report failures to Leo in one or two plain sentences. Stay silent when everything works.
+
+## 8. Community (Leo, 2026-10-14)
+
+X rules (help.x.com automation rules, Apr 2026): NEVER auto-like, never hide replies, never reply to strangers found by search, never follow/unfollow in bulk. Reposts and follows are allowed in small numbers.
+
+Workflow `.github/workflows/engage.yml`, input `action` = `scan` | `repost` | `follow`, `target` = post ID (repost) or username (follow). Result in `engage_result.json` (repost/follow success = status 200). Log in `engaged.jsonl`.
+
+- **Scan:** about every 2 hours (runs at an even Pacific hour, first half hour), dispatch `scan`, wait ~80 s, read `watch.json`. It lists new original posts from `watchlist.txt` accounts since the last scan. Costs a read per post returned, so never scan more often.
+- **Reposts:** max 3 per Pacific day, never 2 in one run. Only repost a watchlist post that is itself real news or a notable comment (a launch, a big number, a research result) with strong early engagement. Skip promos, event plugs, hiring posts, link-only posts, and anything already covered by our own post on the same story. Check `engaged.jsonl` so we never repost the same ID twice.
+- **Question posts:** at most 1 per day, as one of the 10 posts. A genuine, specific question to followers about a story we just covered ("Anyone moved their coding workflow to Muse Wonder yet? What broke?"). Plain, no bait. Don't reply to the answers while mention replies are paused.
+- **Follows:** max 2 per day. Only follow a company, founder, or researcher who is the subject of a story we posted today, or a watchlist account we don't follow yet. Never unfollow. Never follow back automatically.
+- **Watchlist:** add an account to `watchlist.txt` only when they've been the source of a story we posted at least twice. Keep it under 20 accounts.
