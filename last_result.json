@@ -1,14 +1,14 @@
 {
- "time": "2026-10-15T11:47:20.899186Z",
- "text": "The FTC sent civil subpoenas to OpenAI and Anthropic on Wednesday, Axios reports, citing a person familiar. Each runs 50+ pages and asks about safety incidents, safeguards, marketing and privacy policies. The FTC has not commented.",
+ "time": "2026-10-15T12:17:03.287268Z",
+ "text": "Amazon launched two new Bee AI wearables. The Bee Frontier is $74.99 and out today. The Bee Eclipse, a card that snaps onto a phone, is $99.99 and coming soon. A new Bee Pro plan is $11.99 a month, The Verge reports.",
  "media": [
-  "media/2026-10-15-ftc-subpoenas.png"
+  "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/BEE_FAMILY_02_1600x900.jpg"
  ],
  "reply_to": "",
  "dry_run": false,
  "media_ids": [
-  "2110699042120634369"
+  "2110706519222398976"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110699044708450384\",\"text\":\"The FTC sent civil subpoenas to OpenAI and Anthropic on Wednesday, Axios reports, citing a person familiar. Each runs 50+ pages and asks about safety incidents, safeguards, marketing and privacy policies. The FTC has not commented. https://t.co/8AhUe5ff9M\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110706520464007385\",\"text\":\"Amazon launched two new Bee AI wearables. The Bee Frontier is $74.99 and out today. The Bee Eclipse, a card that snaps onto a phone, is $99.99 and coming soon. A new Bee Pro plan is $11.99 a month, The Verge reports. https://t.co/fvfF1ZtAK9\"}}"
 }
