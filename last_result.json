@@ -1,14 +1,14 @@
 {
- "time": "2026-10-15T01:56:15.257496Z",
- "text": "Free Cursor Pro for anyone who signs up for MLH's Global Hack Week: Hacktoberfest. Join the Cursor Pro challenge on the MLH site and they email you a promo code. It ends Oct 15 at 10 AM Pacific.",
+ "time": "2026-10-15T06:16:46.172746Z",
+ "text": "TSMC made a record NT$763.1 billion (about $23.6 billion) in net profit last quarter, up 69% from a year ago, Reuters reports. It beat analyst estimates, and TSMC cites AI chip demand.",
  "media": [
-  "media/2026-10-14-mlh-cursor-pro.png"
+  "media/2026-10-14-tsmc-q3.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "media_ids": [
-  "2110550289535127553"
+  "2110615849870434304"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110550291099656456\",\"text\":\"Free Cursor Pro for anyone who signs up for MLH's Global Hack Week: Hacktoberfest. Join the Cursor Pro challenge on the MLH site and they email you a promo code. It ends Oct 15 at 10 AM Pacific. https://t.co/JqzriUg27L\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110615851560751546\",\"text\":\"TSMC made a record NT$763.1 billion (about $23.6 billion) in net profit last quarter, up 69% from a year ago, Reuters reports. It beat analyst estimates, and TSMC cites AI chip demand. https://t.co/3ftoOSSeix\"}}"
 }
