@@ -1,14 +1,10 @@
 {
- "time": "2026-10-15T14:18:00.378844Z",
- "text": "Google launched Universal Cart in the US today, in Search and the Gemini app. It saves items from different stores in one cart, alerts you to price drops and restocks, and shows promo codes. Checkout runs through Google Pay.",
- "media": [
-  "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.width-1300.png"
- ],
+ "time": "2026-10-15T15:17:59.651871Z",
+ "text": "New York City Comptroller Mark Levine urged Anthropic to delay its US IPO until it addresses safety and governance concerns, Reuters reports. NYC pension funds have about $7 million of exposure to Anthropic. Anthropic had not yet responded.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
- "media_ids": [
-  "2110736957127245824"
- ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110736958834311665\",\"text\":\"Google launched Universal Cart in the US today, in Search and the Gemini app. It saves items from different stores in one cart, alerts you to price drops and restocks, and shows promo codes. Checkout runs through Google Pay. https://t.co/cYMKcLZltR\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110752053211402677\",\"text\":\"New York City Comptroller Mark Levine urged Anthropic to delay its US IPO until it addresses safety and governance concerns, Reuters reports. NYC pension funds have about $7 million of exposure to Anthropic. Anthropic had not yet responded.\"}}"
 }
