@@ -1,14 +1,14 @@
 {
- "time": "2026-10-15T16:47:16.776799Z",
- "text": "Nvidia released Nemotron 3.5 Super VL, an open-weight model that reads text, images and PDFs. It has 120B parameters, 12B active at a time. Nvidia says it is 5x faster than the next best open model in its class. Weights are on Hugging Face.",
+ "time": "2026-10-15T17:17:16.493078Z",
+ "text": "Meta released Muse Spark Open, an open-weight model with 816B parameters, 42B active at a time and a 1M token context window. It takes text, image, video and audio. Meta says it is the most capable US open-weight model to date. Weights are on Hugging Face.",
  "media": [
-  "media/2026-10-15-nemotron-vl.png"
+  "media/2026-10-15-muse-spark-open.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "media_ids": [
-  "2110774522940977152"
+  "2110782071866060800"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110774524966830300\",\"text\":\"Nvidia released Nemotron 3.5 Super VL, an open-weight model that reads text, images and PDFs. It has 120B parameters, 12B active at a time. Nvidia says it is 5x faster than the next best open model in its class. Weights are on Hugging Face. https://t.co/lMwnG5rYdw\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110782073900318774\",\"text\":\"Meta released Muse Spark Open, an open-weight model with 816B parameters, 42B active at a time and a 1M token context window. It takes text, image, video and audio. Meta says it is the most capable US open-weight model to date. Weights are on Hugging Face. https://t.co/oXSMsTGK3C\"}}"
 }
