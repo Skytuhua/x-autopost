@@ -1,10 +1,14 @@
 {
- "time": "2026-10-15T15:17:59.651871Z",
- "text": "New York City Comptroller Mark Levine urged Anthropic to delay its US IPO until it addresses safety and governance concerns, Reuters reports. NYC pension funds have about $7 million of exposure to Anthropic. Anthropic had not yet responded.",
- "media": [],
+ "time": "2026-10-15T16:16:13.762807Z",
+ "text": "Ramp raised $1.85 billion at a $60 billion valuation, up from $44 billion four months ago. The expense software company says its annualized revenue passed $2 billion and it has 85,000 customers, TechCrunch reports.",
+ "media": [
+  "media/2026-10-15-ramp.png"
+ ],
  "reply_to": "",
  "dry_run": false,
- "media_ids": [],
+ "media_ids": [
+  "2110766708461834240"
+ ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110752053211402677\",\"text\":\"New York City Comptroller Mark Levine urged Anthropic to delay its US IPO until it addresses safety and governance concerns, Reuters reports. NYC pension funds have about $7 million of exposure to Anthropic. Anthropic had not yet responded.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110766710202482911\",\"text\":\"Ramp raised $1.85 billion at a $60 billion valuation, up from $44 billion four months ago. The expense software company says its annualized revenue passed $2 billion and it has 85,000 customers, TechCrunch reports. https://t.co/fL6NOjPECF\"}}"
 }
