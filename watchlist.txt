@@ -1,0 +1,13 @@
+# Accounts the bot watches for reposts. One username per line, no @.
+OpenAI
+AnthropicAI
+GoogleDeepMind
+xai
+AIatMeta
+MistralAI
+nvidia
+sama
+karpathy
+demishassabis
+sundarpichai
+satyanadella
