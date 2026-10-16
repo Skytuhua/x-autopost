@@ -1,14 +1,10 @@
 {
- "time": "2026-10-16T12:46:55.373981Z",
- "text": "China proposed export controls on 23 AI technologies, including large models, agents, chip designs and computing clusters. Bloomberg reports model weights above certain thresholds would be restricted. Open-source work is exempt. Comments are open until Nov 15.",
- "media": [
-  "media/2026-10-16-china-export.png"
- ],
+ "time": "2026-10-16T13:16:56.012959Z",
+ "text": "Reflection released the weights for Beam, its first open model, on Hugging Face under Apache 2.0. It has 501 billion parameters, 23 billion active per token, and a 1 million token context. Reflection says it matches GLM 5.2 on reasoning with 3 to 4 times less compute.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
- "media_ids": [
-  "2111076423372824576"
- ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111076425579024858\",\"text\":\"China proposed export controls on 23 AI technologies, including large models, agents, chip designs and computing clusters. Bloomberg reports model weights above certain thresholds would be restricted. Open-source work is exempt. Comments are open until Nov 15. https://t.co/AGhiR92qhl\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111083975368151213\",\"text\":\"Reflection released the weights for Beam, its first open model, on Hugging Face under Apache 2.0. It has 501 billion parameters, 23 billion active per token, and a 1 million token context. Reflection says it matches GLM 5.2 on reasoning with 3 to 4 times less compute.\"}}"
 }
