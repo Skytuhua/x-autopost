@@ -1,14 +1,14 @@
 {
- "time": "2026-10-16T00:46:23.224273Z",
- "text": "Microsoft AI says it finished pre-training MAI-Base-2, a 2.8 trillion parameter model trained on 16,000 Nvidia GB200 chips in 38 days. CEO Mustafa Suleyman told staff it beats the base model behind GPT 5.6 Sol using a quarter of OpenAI's compute.",
+ "time": "2026-10-16T12:46:55.373981Z",
+ "text": "China proposed export controls on 23 AI technologies, including large models, agents, chip designs and computing clusters. Bloomberg reports model weights above certain thresholds would be restricted. Open-source work is exempt. Comments are open until Nov 15.",
  "media": [
-  "media/2026-10-15-mai-base-2.png"
+  "media/2026-10-16-china-export.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "media_ids": [
-  "2110895095029325824"
+  "2111076423372824576"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110895097017426287\",\"text\":\"Microsoft AI says it finished pre-training MAI-Base-2, a 2.8 trillion parameter model trained on 16,000 Nvidia GB200 chips in 38 days. CEO Mustafa Suleyman told staff it beats the base model behind GPT 5.6 Sol using a quarter of OpenAI's compute. https://t.co/KbZBt20Yq4\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111076425579024858\",\"text\":\"China proposed export controls on 23 AI technologies, including large models, agents, chip designs and computing clusters. Bloomberg reports model weights above certain thresholds would be restricted. Open-source work is exempt. Comments are open until Nov 15. https://t.co/AGhiR92qhl\"}}"
 }
