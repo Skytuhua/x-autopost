@@ -1,25 +1,43 @@
 {
- "time": "2026-10-16T19:45:44.533675Z",
+ "time": "2026-10-16T21:46:13.525049Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "AnthropicAI",
-   "created_at": "2026-10-16T17:47:58.000Z",
+   "user": "OpenAI",
+   "created_at": "2026-10-16T20:27:13.000Z",
    "edit_history_tweet_ids": [
-    "2111152183240511640"
+    "2111185504746213705",
+    "2111192259073094035"
    ],
-   "id": "2111152183240511640",
+   "id": "2111192259073094035",
    "public_metrics": {
-    "bookmark_count": 371,
-    "impression_count": 128106,
-    "like_count": 2011,
-    "quote_count": 126,
-    "reply_count": 200,
-    "retweet_count": 182
+    "bookmark_count": 311,
+    "impression_count": 165142,
+    "like_count": 3149,
+    "quote_count": 79,
+    "reply_count": 254,
+    "retweet_count": 144
    },
-   "text": "New from our STEM Fellows Program: Designing more efficient quantum circuits with Claude.\n\nGiven plain-language instructions, Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more.\n\nMore efficient circuits"
+   "text": "GPT-6 Astra Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools.\n\nAnd now, multiple agents can tackle different parts of a task in parallel. You can follow each agent\u2019s progress and open completed tasks to review their work.\n\nNow available to"
+  },
+  {
+   "user": "satyanadella",
+   "created_at": "2026-10-16T21:17:37.000Z",
+   "edit_history_tweet_ids": [
+    "2111204941801128366"
+   ],
+   "id": "2111204941801128366",
+   "public_metrics": {
+    "bookmark_count": 21,
+    "impression_count": 11369,
+    "like_count": 137,
+    "quote_count": 4,
+    "reply_count": 28,
+    "retweet_count": 17
+   },
+   "text": "In @Nature this week, our new research shows how machine learning can improve weather forecasts two to six weeks out, a timeframe that's historically been very difficult to predict.\n\nIt's exciting to see the potential of this work to help us better prepare for extreme weather,"
   }
  ]
 }
