@@ -1,43 +1,7 @@
 {
- "time": "2026-10-16T21:46:13.525049Z",
+ "time": "2026-10-16T23:46:46.990210Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": [
-  {
-   "user": "OpenAI",
-   "created_at": "2026-10-16T20:27:13.000Z",
-   "edit_history_tweet_ids": [
-    "2111185504746213705",
-    "2111192259073094035"
-   ],
-   "id": "2111192259073094035",
-   "public_metrics": {
-    "bookmark_count": 311,
-    "impression_count": 165142,
-    "like_count": 3149,
-    "quote_count": 79,
-    "reply_count": 254,
-    "retweet_count": 144
-   },
-   "text": "GPT-6 Astra Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools.\n\nAnd now, multiple agents can tackle different parts of a task in parallel. You can follow each agent\u2019s progress and open completed tasks to review their work.\n\nNow available to"
-  },
-  {
-   "user": "satyanadella",
-   "created_at": "2026-10-16T21:17:37.000Z",
-   "edit_history_tweet_ids": [
-    "2111204941801128366"
-   ],
-   "id": "2111204941801128366",
-   "public_metrics": {
-    "bookmark_count": 21,
-    "impression_count": 11369,
-    "like_count": 137,
-    "quote_count": 4,
-    "reply_count": 28,
-    "retweet_count": 17
-   },
-   "text": "In @Nature this week, our new research shows how machine learning can improve weather forecasts two to six weeks out, a timeframe that's historically been very difficult to predict.\n\nIt's exciting to see the potential of this work to help us better prepare for extreme weather,"
-  }
- ]
+ "posts": []
 }
