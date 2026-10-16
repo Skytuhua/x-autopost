@@ -1,14 +1,14 @@
 {
- "time": "2026-10-15T17:17:16.493078Z",
- "text": "Meta released Muse Spark Open, an open-weight model with 816B parameters, 42B active at a time and a 1M token context window. It takes text, image, video and audio. Meta says it is the most capable US open-weight model to date. Weights are on Hugging Face.",
+ "time": "2026-10-16T00:46:23.224273Z",
+ "text": "Microsoft AI says it finished pre-training MAI-Base-2, a 2.8 trillion parameter model trained on 16,000 Nvidia GB200 chips in 38 days. CEO Mustafa Suleyman told staff it beats the base model behind GPT 5.6 Sol using a quarter of OpenAI's compute.",
  "media": [
-  "media/2026-10-15-muse-spark-open.png"
+  "media/2026-10-15-mai-base-2.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "media_ids": [
-  "2110782071866060800"
+  "2110895095029325824"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110782073900318774\",\"text\":\"Meta released Muse Spark Open, an open-weight model with 816B parameters, 42B active at a time and a 1M token context window. It takes text, image, video and audio. Meta says it is the most capable US open-weight model to date. Weights are on Hugging Face. https://t.co/oXSMsTGK3C\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2110895097017426287\",\"text\":\"Microsoft AI says it finished pre-training MAI-Base-2, a 2.8 trillion parameter model trained on 16,000 Nvidia GB200 chips in 38 days. CEO Mustafa Suleyman told staff it beats the base model behind GPT 5.6 Sol using a quarter of OpenAI's compute. https://t.co/KbZBt20Yq4\"}}"
 }
