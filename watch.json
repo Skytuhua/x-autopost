@@ -1,25 +1,25 @@
 {
- "time": "2026-10-16T09:17:34.950222Z",
+ "time": "2026-10-16T11:16:12.673358Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "nvidia",
-   "created_at": "2026-10-16T08:03:53.000Z",
+   "user": "GoogleDeepMind",
+   "created_at": "2026-10-16T10:15:04.000Z",
    "edit_history_tweet_ids": [
-    "2111005194058179020"
+    "2111038207240388770"
    ],
-   "id": "2111005194058179020",
+   "id": "2111038207240388770",
    "public_metrics": {
-    "bookmark_count": 17,
-    "impression_count": 17727,
-    "like_count": 410,
-    "quote_count": 10,
+    "bookmark_count": 25,
+    "impression_count": 14875,
+    "like_count": 142,
+    "quote_count": 7,
     "reply_count": 44,
-    "retweet_count": 44
+    "retweet_count": 15
    },
-   "text": "The next decade of driving, built together.\n\nWe\u2019re expanding our strategic partnership with @MercedesBenz AG to develop the next generation of driver assistance and automated driving systems.\n\nAll while upholding the high safety standards expected from a Mercedes-Benz.\n\nLearn https://t.co/M5b3Z8Cnlx"
+   "text": "Together with scientists around the world, our models and tools are helping make disease more detectable, treatable, and preventable. \ud83e\uddec\n\nFrom pinpointing rare genetic variants to speeding up drug discovery, here\u2019s how we\u2019re helping turn lab breakthroughs into real-world care \u2192 https://t.co/pSGAGqwOSx"
   }
  ]
 }
