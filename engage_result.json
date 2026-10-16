@@ -1,25 +1,7 @@
 {
- "time": "2026-10-16T19:45:44.533675Z",
- "action": "scan",
- "target": "",
+ "time": "2026-10-16T19:47:10.653064Z",
+ "action": "repost",
+ "target": "2111152183240511640",
  "status": 200,
- "posts": [
-  {
-   "user": "AnthropicAI",
-   "created_at": "2026-10-16T17:47:58.000Z",
-   "edit_history_tweet_ids": [
-    "2111152183240511640"
-   ],
-   "id": "2111152183240511640",
-   "public_metrics": {
-    "bookmark_count": 371,
-    "impression_count": 128106,
-    "like_count": 2011,
-    "quote_count": 126,
-    "reply_count": 200,
-    "retweet_count": 182
-   },
-   "text": "New from our STEM Fellows Program: Designing more efficient quantum circuits with Claude.\n\nGiven plain-language instructions, Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more.\n\nMore efficient circuits"
-  }
- ]
+ "body": "{\"data\":{\"rest_id\":\"2111182182320402904\",\"retweeted\":true}}"
 }
