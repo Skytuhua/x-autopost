@@ -1,43 +1,7 @@
 {
- "time": "2026-10-15T23:16:49.449716Z",
+ "time": "2026-10-16T00:47:49.532284Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": [
-  {
-   "user": "AnthropicAI",
-   "created_at": "2026-10-15T21:31:45.000Z",
-   "edit_history_tweet_ids": [
-    "2110846112152105136"
-   ],
-   "id": "2110846112152105136",
-   "public_metrics": {
-    "bookmark_count": 107,
-    "impression_count": 69815,
-    "like_count": 899,
-    "quote_count": 15,
-    "reply_count": 97,
-    "retweet_count": 61
-   },
-   "text": "Working out how best to use AI in mathematics research\u2014and in science more generally\u2014will take time, effort, and resources. We\u2019re eager to support mathematicians as they drive scientific progress and define the future of their field.\n\nWe\u2019ve committed $5 million of funding, https://t.co/GzFchwMukC"
-  },
-  {
-   "user": "AIatMeta",
-   "created_at": "2026-10-15T22:32:35.000Z",
-   "edit_history_tweet_ids": [
-    "2110861010496315632",
-    "2110861420321759269"
-   ],
-   "id": "2110861420321759269",
-   "public_metrics": {
-    "bookmark_count": 12,
-    "impression_count": 6366,
-    "like_count": 111,
-    "quote_count": 3,
-    "reply_count": 15,
-    "retweet_count": 16
-   },
-   "text": "We\u2019re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME\u2019s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before https://t.co/pQjBPvE5XG"
-  }
- ]
+ "posts": []
 }
