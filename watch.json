@@ -1,25 +1,7 @@
 {
- "time": "2026-10-18T18:46:51.992273Z",
+ "time": "2026-10-18T20:17:14.233579Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": [
-  {
-   "user": "AnthropicAI",
-   "created_at": "2026-10-18T18:07:51.000Z",
-   "edit_history_tweet_ids": [
-    "2111881963657412903"
-   ],
-   "id": "2111881963657412903",
-   "public_metrics": {
-    "bookmark_count": 321,
-    "impression_count": 84183,
-    "like_count": 1939,
-    "quote_count": 109,
-    "reply_count": 190,
-    "retweet_count": 123
-   },
-   "text": "We\u2019re committing a portion of Anthropic\u2019s shares to the Anthropic Public Benefit Fund, a new wholly owned entity dedicated entirely to the public benefit.\n\nIt will start off with 5% of our shares. For every 50% increase in the company\u2019s value over a set baseline, we can"
-  }
- ]
+ "posts": []
 }
