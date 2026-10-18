@@ -1,14 +1,14 @@
 {
- "time": "2026-10-17T22:46:27.368711Z",
- "text": "DeepSeek released V4.1 Flash 1017, an update to its fast model. It scores 77.0 on DeepSWE v1.1, up from 74.2. DeepSeek also opened its Search and Fetch APIs to everyone at $0.75 per 1,000 calls.",
- "media": [
-  "media/2026-10-17-deepseek.png"
- ],
+ "time": "2026-10-18T04:46:19.490464Z",
+ "text": "Bolt is giving every account free use of its GLM 5.3 Flash model until Sunday 11:59 PM Pacific. Pick it in the model picker, no code or plan change needed. Free usage comes in six-hour blocks. Bolt's $10,000 build contest closes Tuesday.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
- "media_ids": [
-  "2111589687966269440"
+ "preview": false,
+ "warnings": [
+  "Story image omitted: Image layout rejected: text outside its region: GLM 5.3 Flash is free on Bolt all weekend; text outside its region: Every Bolt account, free or paid. No plan change o"
  ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111589689694310682\",\"text\":\"DeepSeek released V4.1 Flash 1017, an update to its fast model. It scores 77.0 on DeepSWE v1.1, up from 74.2. DeepSeek also opened its Search and Fetch APIs to everyone at $0.75 per 1,000 calls. https://t.co/wX1daxhv2m\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111680251432411527\",\"text\":\"Bolt is giving every account free use of its GLM 5.3 Flash model until Sunday 11:59 PM Pacific. Pick it in the model picker, no code or plan change needed. Free usage comes in six-hour blocks. Bolt's $10,000 build contest closes Tuesday.\"}}"
 }
