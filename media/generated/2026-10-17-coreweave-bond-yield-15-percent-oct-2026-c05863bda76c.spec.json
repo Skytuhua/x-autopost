@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "story_id": "coreweave-bond-yield-15-percent-oct-2026",
+  "story_type": "funding",
+  "subject": "CoreWeave bond selloff",
+  "headline": "CoreWeave bond yield tops 15%",
+  "source": {
+    "name": "The New York Times",
+    "url": "https://www.nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html",
+      "value": "15%+",
+      "label": "CoreWeave bond yield, per The New York Times",
+      "period": "Week of Oct 12 to 17, 2026",
+      "change": "-24%",
+      "change_label": "CoreWeave stock drop this week"
+    }
+  },
+  "summary": "Investors sold CoreWeave bonds this week amid worries over AI data center debt."
+}

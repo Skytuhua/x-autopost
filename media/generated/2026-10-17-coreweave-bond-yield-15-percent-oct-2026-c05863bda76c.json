@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "coreweave-bond-yield-15-percent-oct-2026",
+  "subject": "CoreWeave bond selloff",
+  "source_urls": [
+    "https://www.nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "b443407428444d0e2110a1c6cd40599312c8d86a0d10f218ff7661740428e411",
+  "image_sha256": "5520262bdeaf5d4e2bf8fb6e55d3624ac2c6f02ce402f4fae78ee8d23a9258f0",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
