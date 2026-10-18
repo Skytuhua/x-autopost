@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "story_id": "demo-model-evaluation",
+  "story_type": "model_release",
+  "subject": "Fictional demo model evaluation",
+  "headline": "DEMO: A clearer model comparison",
+  "summary": "Illustrative evaluation values for preview testing only.",
+  "source": {"name": "Demo evaluation", "url": "https://example.com/demo-evaluation"},
+  "content": {"benchmark": {"metric": "Demo task completion", "unit": "%", "maximum": 100,
+    "comparable": true, "methodology": "Fictional values; identical demo harness and task set.",
+    "values": [{"label": "Demo model A", "value": 68}, {"label": "Demo model B", "value": 82}]}}
+}

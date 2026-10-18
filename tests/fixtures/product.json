@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "story_id": "demo-workspace-launch",
+  "story_type": "product_launch",
+  "subject": "Fictional demo workspace interface",
+  "headline": "DEMO: Plans become a shared workspace",
+  "summary": "Fictional interface for verifying supplied story artwork.",
+  "source": {"name": "Demo workspace", "url": "https://example.com/demo-workspace"},
+  "content": {"product": {"features": ["Shared project context", "A visible review queue", "One place for decisions"]}},
+  "asset": {"path": "tests/fixtures/product-interface.png", "source_url": "https://example.com/demo-workspace",
+    "credit": "Original demo illustration", "alt": "A fictional workspace with a plan, review queue and decision panel",
+    "subject": "Fictional demo workspace interface; matches the fictional product described by this preview",
+    "kind": "editorial_illustration"}
+}

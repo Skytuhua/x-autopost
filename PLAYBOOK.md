@@ -1,6 +1,6 @@
 # X Posting Playbook (@skytuhua1)
 
-Read this whole file before writing or sending any post or reply. It overrides older instructions. Owner: Leo (Xian Le Huang). Last updated 2026-10-14 (community section added).
+Read this whole file before writing or sending any post or reply. It overrides older instructions. Owner: Leo (Xian Le Huang). Last updated 2026-10-17 (story-aware images).
 
 ## 1. What we post
 
@@ -10,7 +10,7 @@ Read this whole file before writing or sending any post or reply. It overrides o
   - Verify on the company's own page that it's live right now, who qualifies, and the end date. Skip expired, invite-only, referral, affiliate, "up to X% off" fluff, crypto airdrops, and giveaways that need follows or retweets.
   - Freebies may be up to 48 hours old (big news stays at about 2 hours). Max 3 freebie/deal posts a day, inside the 10-post cap.
   - Say who it's for, what you get, how to get it, and the deadline. Still no URLs: name where to get it in words ("in the Claude app under Settings", "on GitHub Education"). Example: "Google is giving students a free year of Gemini Pro. Sign up with a school email on the Gemini students page before Dec 31."
-  - Image: the official promo image, or a simple data card (what you get, who qualifies, deadline).
+  - Image: use the offer brief in [docs/IMAGES.md](docs/IMAGES.md); make the benefit, eligibility and deadline visible. Add official promo imagery only when it depicts this offer.
 - Only genuinely significant items from about the last 2 hours. Skip rumors unless a major outlet reports them, and say it's reported.
 - Limits: 0 to 3 new posts per run (runs every 30 min), 10 per Pacific day. Replies (section 5) are separate: up to 5 per day.
 - Never post the same story twice. Check `posted.jsonl` first.
@@ -40,33 +40,33 @@ Bad:
 
 ## 3. Pictures (every post that can have one)
 
-Attach 1 image (max 4) whenever there's a useful one. Priority:
+Read [docs/IMAGES.md](docs/IMAGES.md) before preparing images on every run. The normal path is a fresh, source-backed `visual_spec` JSON brief sent to the existing posting workflow. GitHub renders one 1600 x 900 PNG under 5 MB; the caller does not need to generate or commit artwork itself.
 
-1. **Benchmark chart for model launches.** Compare the new model against 2 to 4 current rivals on the benchmarks the launch post reports (e.g. SWE-bench Verified, GPQA Diamond, AIME, Humanity's Last Exam, ARC-AGI). Build it ourselves with matplotlib from numbers in the official launch post or model card:
-   - Horizontal or grouped bar chart, 1600x900 px PNG, white background, large readable fonts.
-   - Title = model name + "vs" rivals. Each bar labeled with its score. New model in a strong color, rivals in grey.
-   - Small footer text: "Scores as reported by <company>" (this is a chart caption, allowed even though posts have no source line).
-   - Only use scores the company or a well-known leaderboard published. If rivals' numbers aren't in the same table, take them from the rival's own model card. If you can't verify, leave that model out.
-2. **Official image** from the announcement (product shot, chart the company published). Use its direct https image URL.
-3. **Simple data card** we make for non-model news: price table, funding amount and valuation, outage timeline, short key quote card with the person's name.
-4. No image if none of these fit. Never use stock photos, AI-generated images of real people, or images from random accounts.
+- Match the composition to the story: a comparable benchmark, actual product/interface imagery, an offer with visible terms, a financial statement, a factual relationship diagram, or a research/process explanation. Supply only content that the sources support. A model launch does not automatically require a chart.
+- Comparative bars require `comparable: true` and verified matching benchmark settings and units. Explain the methodology. If the results are not comparable, use relevant official product imagery or a supported process explanation; otherwise post text only.
+- Assets must depict the actual subject. Supply provenance, a credit, alt text and an explanation of how the depicted subject matches this story; declare `asset.kind` as `official` or `editorial_illustration`. Never reuse the example wafer, an unrelated logo, a stock photo, a fictional interface or AI-generated images of real people. Label an illustration as such.
+- Verify every offer is live before posting. Keep benefit, eligibility and deadline visible. `archived: true` is for historical review images, never a way to publish an expired deal as live news.
+- Let the renderer choose among the six approved families and 12 compositions using the last six successful image posts. Relevance comes first: never invent content or force a family or palette just to rotate designs. Omit `preferred_family` and `palette` unless the story gives a clear reason to set them.
+- Keep one clear focal point and text readable on a phone. The renderer checks fit, assets and output size; the caller remains responsible for factual accuracy and subject matching. If no useful supported image fits, post text only. Never recycle the six demonstration stories or their facts as new news.
 
-Image files: save to `media/YYYY-MM-DD-<slug>.png` in this repo (contents_put, base64), under 5 MB.
+Legacy `media` accepts up to four supplied images for manual use. New automated story images must use `visual_spec`.
 
 ## 4. How to post
 
 Workflow `.github/workflows/post.yml`, inputs:
 - `text` (required)
-- `media`: comma-separated repo paths (`media/2026-10-14-gemini.png`) or https image URLs, up to 4
+- `visual_spec`: JSON **string** following [docs/IMAGES.md](docs/IMAGES.md); normal image path
+- `media`: legacy/manual comma-separated repo paths or HTTPS image URLs, up to 4; ignored when `visual_spec` is present
 - `reply_to`: post ID, only for replies (section 5)
-- `dry_run`: `true` uploads media without posting (test only)
+- `preview`: boolean `true` renders and validates only; no X upload, post or publication-history change
+- `dry_run`: legacy string `"true"` uploads media to X without posting; this is **not** an offline preview
 
-Steps (shell with github credentials):
-1. Commit the image to `media/` if we made one.
-2. Write inputs with python `json.dump` to `in.json`, e.g. `{"text": "...", "media": "media/x.png"}`.
-3. `apicall github workflow_dispatch owner=Skytuhua repo=x-autopost workflow_id=post.yml ref=main inputs="$(cat in.json)"`
-4. Wait ~70 s, read `last_result.json` (contents_get, base64). Success = `"status": 201`. The post ID is in `body.data.id`.
-5. One post at a time; wait for each result.
+Steps (existing caller with GitHub credentials):
+1. Read this playbook, `docs/IMAGES.md` and `posted.jsonl`. Verify fresh facts and assets, then construct a new brief. The external service only needs to dispatch the workflow; rendering runs in GitHub Actions.
+2. Serialize the brief as a JSON string inside the inputs, e.g. `{"text": story_text, "visual_spec": json.dumps(brief), "preview": False}`. Use the caller's JSON serializer, not string concatenation. See the complete example and preview payload in `docs/IMAGES.md`.
+3. Dispatch `post.yml` on `main`, with the existing API tool or `apicall github workflow_dispatch owner=Skytuhua repo=x-autopost workflow_id=post.yml ref=main inputs="$(cat in.json)"` after serializing inputs to `in.json`. Normal approved automation uses `preview: false`; use `preview: true` for a render-only check when needed.
+4. Wait for that workflow run to finish. For previews, inspect its `story-image-<run_id>` artifact: full-size PNG, phone PNG, metadata and `prepared.json` diagnostics. Previews do not update `last_result.json` or `posted.jsonl`. For sending, read `last_result.json` (contents_get, base64), confirm it belongs to this dispatch, and inspect warnings. Success = `"status": 201`; parse `body` as JSON to get `data.id`.
+5. Send one post at a time and wait for its result. Rendering or asset failure falls back to text only with a warning. Successful image posts record the selected style and asset provenance; previews, failures and text-only posts do not affect image variety. A timed-out post request may already have published: check the result and existing posts before any retry.
 
 ## 5. Replies
 

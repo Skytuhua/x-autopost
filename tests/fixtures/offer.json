@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "story_id": "demo-archived-student-offer",
+  "story_type": "offer",
+  "subject": "Fictional expired student workspace offer",
+  "headline": "DEMO: A student workspace offer",
+  "summary": "Archived fictional offer for preview testing; unavailable.",
+  "source": {"name": "Demo offer archive", "url": "https://example.com/demo-offer"},
+  "content": {"offer": {"benefit": "6 months of Demo Pro", "eligibility": "Fictional verified student accounts only",
+    "deadline": "Expired September 30, 2026", "archived": true}}
+}
