@@ -1,0 +1,36 @@
+{
+  "family": "offer",
+  "variant": "split",
+  "palette": "acid",
+  "story_id": "vercel-beam-free-ai-gateway-oct-2026",
+  "subject": "Reflection Beam free on Vercel AI Gateway",
+  "source_urls": [
+    "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "5450ea1fc1bb1486ae0f93df36d3f9b3e713880e28cbafcc12bcf6ec8343e19e",
+  "image_sha256": "2e1e509641a7afa81ecca1a288131a2c20974dfb724de65359e98eb6ec55becc",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

@@ -1,14 +1,52 @@
 {
- "time": "2026-10-18T09:47:07.789778Z",
- "text": "Together AI is offering Meta's Muse Spark Open free on its API through Oct 18. Normal price is $1.25 per million input tokens and $4.25 per million output. Use the promo version of the model in Together's model library with an account.",
- "media": [],
+ "time": "2026-10-18T10:16:50.247375Z",
+ "text": "Vercel is offering Reflection's Beam model free on its AI Gateway for a limited time, with no end date posted. Use the model name reflection/beam-free. It stops serving when the offer ends, while plain reflection/beam switches to paid pricing.",
+ "media": [
+  "media/generated/2026-10-18-vercel-beam-free-ai-gateway-oct-2026-0438c78c4c82.png"
+ ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: Promo listing of Meta's open-weight model, normall"
+ "warnings": [],
+ "media_ids": [
+  "2111763428406951937"
  ],
- "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111755951917146544\",\"text\":\"Together AI is offering Meta's Muse Spark Open free on its API through Oct 18. Normal price is $1.25 per million input tokens and $4.25 per million output. Use the promo version of the model in Together's model library with an account.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111763430013280613\",\"text\":\"Vercel is offering Reflection's Beam model free on its AI Gateway for a limited time, with no end date posted. Use the model name reflection/beam-free. It stops serving when the offer ends, while plain reflection/beam switches to paid pricing. https://t.co/hI6nVjpCOk\"}}",
+ "visual": {
+  "family": "offer",
+  "variant": "split",
+  "palette": "acid",
+  "story_id": "vercel-beam-free-ai-gateway-oct-2026",
+  "subject": "Reflection Beam free on Vercel AI Gateway",
+  "source_urls": [
+   "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free"
+  ],
+  "dimensions": [
+   1600,
+   900
+  ],
+  "content_sha256": "5450ea1fc1bb1486ae0f93df36d3f9b3e713880e28cbafcc12bcf6ec8343e19e",
+  "image_sha256": "2e1e509641a7afa81ecca1a288131a2c20974dfb724de65359e98eb6ec55becc",
+  "qa": {
+   "width": 1600,
+   "height": 900,
+   "issues": [],
+   "fonts": [
+    {
+     "family": "Manrope",
+     "status": "loaded"
+    },
+    {
+     "family": "Space",
+     "status": "loaded"
+    },
+    {
+     "family": "Instrument",
+     "status": "loaded"
+    }
+   ]
+  },
+  "warnings": []
+ }
 }

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "vercel-beam-free-ai-gateway-oct-2026",
+  "story_type": "offer",
+  "subject": "Reflection Beam free on Vercel AI Gateway",
+  "headline": "Beam is free on Vercel AI Gateway",
+  "source": {
+    "name": "Vercel changelog",
+    "url": "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free"
+  },
+  "content": {
+    "offer": {
+      "source_url": "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free",
+      "benefit": "Free use of Reflection's Beam model",
+      "eligibility": "Developers calling Vercel AI Gateway",
+      "deadline": "Limited time, no end date posted"
+    }
+  }
+}
