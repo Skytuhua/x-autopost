@@ -1,14 +1,14 @@
 {
- "time": "2026-10-18T09:18:56.575826Z",
- "text": "Microsoft has pulled out of Nscale's Essex data center deal, the Telegraph reports. It had agreed to rent 23,000 Nvidia chips there. Grid operators told Nscale power won't arrive until the 2030s. Nscale says it remains committed to the site.",
+ "time": "2026-10-18T09:47:07.789778Z",
+ "text": "Together AI is offering Meta's Muse Spark Open free on its API through Oct 18. Normal price is $1.25 per million input tokens and $4.25 per million output. Use the promo version of the model in Together's model library with an account.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: Microsoft pulls out of Nscale's UK data center dea"
+  "Story image omitted: Image layout rejected: text outside its region: Promo listing of Meta's open-weight model, normall"
  ],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111748858350874629\",\"text\":\"Microsoft has pulled out of Nscale's Essex data center deal, the Telegraph reports. It had agreed to rent 23,000 Nvidia chips there. Grid operators told Nscale power won't arrive until the 2030s. Nscale says it remains committed to the site.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111755951917146544\",\"text\":\"Together AI is offering Meta's Muse Spark Open free on its API through Oct 18. Normal price is $1.25 per million input tokens and $4.25 per million output. Use the promo version of the model in Together's model library with an account.\"}}"
 }
