@@ -1,14 +1,14 @@
 {
- "time": "2026-10-18T11:18:01.891499Z",
- "text": "A German court has barred Google from showing false claims about a doctor in its AI Mode search. The Aachen court treated the AI text as Google's own statement. The Decoder reports it follows an earlier Munich ruling. Google can still challenge it.",
+ "time": "2026-10-18T11:48:17.052047Z",
+ "text": "Tencent's WorkBuddy is giving free use of DeepSeek's new V4.1 Flash 1017 model through Oct 31. Download the WorkBuddy international app, sign in, and pick DeepSeek V4.1 Flash. Calls use no credits, and free use has a rate cap.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: German court holds Google responsible for false AI"
+  "Story image omitted: Image layout rejected: text outside its region: DeepSeek V4.1 Flash is free in WorkBuddy"
  ],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111778827856753111\",\"text\":\"A German court has barred Google from showing false claims about a doctor in its AI Mode search. The Aachen court treated the AI text as Google's own statement. The Decoder reports it follows an earlier Munich ruling. Google can still challenge it.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111786441382752668\",\"text\":\"Tencent's WorkBuddy is giving free use of DeepSeek's new V4.1 Flash 1017 model through Oct 31. Download the WorkBuddy international app, sign in, and pick DeepSeek V4.1 Flash. Calls use no credits, and free use has a rate cap.\"}}"
 }
