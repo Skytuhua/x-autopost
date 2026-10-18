@@ -1,52 +1,14 @@
 {
- "time": "2026-10-18T10:16:50.247375Z",
- "text": "Vercel is offering Reflection's Beam model free on its AI Gateway for a limited time, with no end date posted. Use the model name reflection/beam-free. It stops serving when the offer ends, while plain reflection/beam switches to paid pricing.",
- "media": [
-  "media/generated/2026-10-18-vercel-beam-free-ai-gateway-oct-2026-0438c78c4c82.png"
- ],
+ "time": "2026-10-18T11:18:01.891499Z",
+ "text": "A German court has barred Google from showing false claims about a doctor in its AI Mode search. The Aachen court treated the AI text as Google's own statement. The Decoder reports it follows an earlier Munich ruling. Google can still challenge it.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [],
- "media_ids": [
-  "2111763428406951937"
+ "warnings": [
+  "Story image omitted: Image layout rejected: text outside its region: German court holds Google responsible for false AI"
  ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111763430013280613\",\"text\":\"Vercel is offering Reflection's Beam model free on its AI Gateway for a limited time, with no end date posted. Use the model name reflection/beam-free. It stops serving when the offer ends, while plain reflection/beam switches to paid pricing. https://t.co/hI6nVjpCOk\"}}",
- "visual": {
-  "family": "offer",
-  "variant": "split",
-  "palette": "acid",
-  "story_id": "vercel-beam-free-ai-gateway-oct-2026",
-  "subject": "Reflection Beam free on Vercel AI Gateway",
-  "source_urls": [
-   "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "5450ea1fc1bb1486ae0f93df36d3f9b3e713880e28cbafcc12bcf6ec8343e19e",
-  "image_sha256": "2e1e509641a7afa81ecca1a288131a2c20974dfb724de65359e98eb6ec55becc",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111778827856753111\",\"text\":\"A German court has barred Google from showing false claims about a doctor in its AI Mode search. The Aachen court treated the AI text as Google's own statement. The Decoder reports it follows an earlier Munich ruling. Google can still challenge it.\"}}"
 }
