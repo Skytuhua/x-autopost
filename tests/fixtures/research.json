@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "story_id": "demo-research-process",
+  "story_type": "research",
+  "subject": "Fictional demo research validation process",
+  "headline": "DEMO: Show how the finding happened",
+  "summary": "A fictional method with clear evidence stages.",
+  "source": {"name": "Demo research notes", "url": "https://example.com/demo-research"},
+  "content": {"research": {"steps": [{"title": "Observe", "detail": "Collect the fictional input pattern"},
+    {"title": "Reproduce", "detail": "Test a candidate mechanism"},
+    {"title": "Validate", "detail": "Compare outputs against held-out examples"}],
+    "conclusion": "A testable explanation, with limits visible."}}
+}

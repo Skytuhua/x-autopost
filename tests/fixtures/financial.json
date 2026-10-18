@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "story_id": "demo-quarterly-earnings",
+  "story_type": "earnings",
+  "subject": "Fictional demo company quarterly revenue",
+  "headline": "DEMO: Revenue sets the story's scale",
+  "summary": "Illustrative figures for visual testing; no real company results.",
+  "source": {"name": "Demo financial results", "url": "https://example.com/demo-results"},
+  "content": {"financial": {"value": "$12.4B", "label": "Fictional revenue", "period": "Demo Q3 2026",
+    "change": "+18%", "change_label": "Versus the fictional prior-year quarter"}}
+}

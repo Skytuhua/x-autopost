@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "story_id": "demo-reported-policy-review",
+  "story_type": "policy",
+  "subject": "Fictional reported review of demo services",
+  "headline": "DEMO: Who is reviewing what?",
+  "summary": "Fictional relationship diagram; reported review, no finding.",
+  "source": {"name": "Demo policy record", "url": "https://example.com/demo-policy"},
+  "content": {"policy": {"actor": "Demo review office", "action": "Requests information from",
+    "targets": ["Demo service A", "Demo service B"], "topics": ["Data access", "User controls"], "status": "reported"}}
+}
