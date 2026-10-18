@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "anthropic-public-benefit-fund-oct-2026",
+  "subject": "Anthropic Public Benefit Fund",
+  "source_urls": [
+    "https://www.anthropic.com/news/public-benefit-fund"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "1847dbc122d1d48d528e0a42e71f2c62c4a8493f189b8eb1e101d0134e3f205e",
+  "image_sha256": "0d9e1ba2df9c2effa58d24181a4727aba723a1fdc2c86b46ac19d969ba98ed1f",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "story_id": "anthropic-public-benefit-fund-oct-2026",
+  "story_type": "policy",
+  "subject": "Anthropic Public Benefit Fund",
+  "headline": "Anthropic commits 5% of shares",
+  "source": {
+    "name": "Anthropic",
+    "url": "https://www.anthropic.com/news/public-benefit-fund"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.anthropic.com/news/public-benefit-fund",
+      "actor": "Anthropic",
+      "action": "Commits 5% of its shares",
+      "status": "confirmed",
+      "targets": [
+        "Public Benefit Fund"
+      ],
+      "topics": [
+        "Needs stockholder approval"
+      ]
+    }
+  }
+}
