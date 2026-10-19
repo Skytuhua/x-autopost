@@ -1,14 +1,14 @@
 {
- "time": "2026-10-19T09:46:42.582799Z",
- "text": "Nebius is putting $10 million into European AI builders, with Accel and NVIDIA joining. Open-source projects made in Europe can apply for free compute grants. Apply on the Nebius AI Builder Program page. No deadline is posted.",
+ "time": "2026-10-19T10:18:59.531023Z",
+ "text": "Foxconn will pay 115 billion yen, about $727 million, for 50% of Mitsubishi Electric's car parts unit. They plan to run it jointly and grow it past 1 trillion yen in sales, Bloomberg reports. The deal is expected to close in October 2027.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: Free compute grants for European open-source AI"
+  "Story image omitted: Image layout rejected: text outside its region: Foxconn buys 50% of Mitsubishi Electric's car part"
  ],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112118233561989406\",\"text\":\"Nebius is putting $10 million into European AI builders, with Accel and NVIDIA joining. Open-source projects made in Europe can apply for free compute grants. Apply on the Nebius AI Builder Program page. No deadline is posted.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112126358956691692\",\"text\":\"Foxconn will pay 115 billion yen, about $727 million, for 50% of Mitsubishi Electric's car parts unit. They plan to run it jointly and grow it past 1 trillion yen in sales, Bloomberg reports. The deal is expected to close in October 2027.\"}}"
 }
