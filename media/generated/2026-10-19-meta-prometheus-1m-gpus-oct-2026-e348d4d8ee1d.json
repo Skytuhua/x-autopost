@@ -1,0 +1,36 @@
+{
+  "family": "research",
+  "variant": "vertical",
+  "palette": "clay",
+  "story_id": "meta-prometheus-1m-gpus-oct-2026",
+  "subject": "Meta Prometheus supercluster",
+  "source_urls": [
+    "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "474e570fa592ddcd4a4190a1d615d654b9ee63b8848a6cabed9c488d626fdda9",
+  "image_sha256": "8b1e6b407c5f3abca8d867e5a5b3a9ecaa1ccf5aaca7e07b8f41a5bfe30153d0",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

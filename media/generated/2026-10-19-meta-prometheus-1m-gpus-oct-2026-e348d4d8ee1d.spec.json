@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "story_id": "meta-prometheus-1m-gpus-oct-2026",
+  "story_type": "product_launch",
+  "subject": "Meta Prometheus supercluster",
+  "headline": "Meta's Prometheus heads toward 1M GPUs",
+  "source": {
+    "name": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+  },
+  "content": {
+    "research": {
+      "source_url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+      "conclusion": "Meta says Prometheus is scaling from hundreds of thousands of GPUs toward about 1 million.",
+      "steps": [
+        {
+          "title": "Phase one is built",
+          "detail": "Meta says the first phase in New Albany, Ohio is complete.",
+          "source_url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+        },
+        {
+          "title": "Muse models trained",
+          "detail": "Meta says it trained its Muse models, including Muse Wonder, there.",
+          "source_url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+        },
+        {
+          "title": "Hundreds of thousands",
+          "detail": "Meta says it runs hundreds of thousands of GPUs today.",
+          "source_url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+        },
+        {
+          "title": "Scaling up",
+          "detail": "Meta is working toward roughly 1 million GPUs at full scale.",
+          "source_url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+        }
+      ]
+    }
+  }
+}
