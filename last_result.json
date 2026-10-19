@@ -1,33 +1,33 @@
 {
- "time": "2026-10-18T18:18:33.510020Z",
- "text": "Anthropic is committing 5% of its shares to a new Public Benefit Fund, pending stockholder approval. The board can add 2% for each 50% rise in company value. With founder and employee pledges, Anthropic says about 20% of shares go to public good.",
+ "time": "2026-10-19T03:47:34.384493Z",
+ "text": "Meta says a Claude AI tool's activity got the No Kings Coalition's Instagram account suspended by mistake on Saturday. Meta says the tool read posts at about 4 times the normal rate and looked like a bot. It apologized and restored access.",
  "media": [
-  "media/generated/2026-10-18-anthropic-public-benefit-fund-oct-2026-5636050dec6c.png"
+  "media/generated/2026-10-18-meta-no-kings-claude-suspension-oct-2026-cd464f0acb79.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2111884657411469312"
+  "2112027854384848896"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2111884659135267055\",\"text\":\"Anthropic is committing 5% of its shares to a new Public Benefit Fund, pending stockholder approval. The board can add 2% for each 50% rise in company value. With founder and employee pledges, Anthropic says about 20% of shares go to public good. https://t.co/bkUYR1hBrE\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112027856125505612\",\"text\":\"Meta says a Claude AI tool's activity got the No Kings Coalition's Instagram account suspended by mistake on Saturday. Meta says the tool read posts at about 4 times the normal rate and looked like a bot. It apologized and restored access. https://t.co/pYJ0VCNbOs\"}}",
  "visual": {
   "family": "policy",
-  "variant": "stack",
+  "variant": "branch",
   "palette": "ivory",
-  "story_id": "anthropic-public-benefit-fund-oct-2026",
-  "subject": "Anthropic Public Benefit Fund",
+  "story_id": "meta-no-kings-claude-suspension-oct-2026",
+  "subject": "Meta and No Kings Instagram suspension",
   "source_urls": [
-   "https://www.anthropic.com/news/public-benefit-fund"
+   "https://www.bloomberg.com/news/articles/2026-10-18/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "1847dbc122d1d48d528e0a42e71f2c62c4a8493f189b8eb1e101d0134e3f205e",
-  "image_sha256": "0d9e1ba2df9c2effa58d24181a4727aba723a1fdc2c86b46ac19d969ba98ed1f",
+  "content_sha256": "6600dac35215ae7b5a914337a74898dfac0b20b8184ba58b1c3e478c2c31e267",
+  "image_sha256": "7d19d395f77e0bb8429a9bf0d83fe48d25eb757104238abeec53037db54f6217",
   "qa": {
    "width": 1600,
    "height": 900,

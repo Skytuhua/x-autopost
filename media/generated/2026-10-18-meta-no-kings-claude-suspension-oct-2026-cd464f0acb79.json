@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "meta-no-kings-claude-suspension-oct-2026",
+  "subject": "Meta and No Kings Instagram suspension",
+  "source_urls": [
+    "https://www.bloomberg.com/news/articles/2026-10-18/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "6600dac35215ae7b5a914337a74898dfac0b20b8184ba58b1c3e478c2c31e267",
+  "image_sha256": "7d19d395f77e0bb8429a9bf0d83fe48d25eb757104238abeec53037db54f6217",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

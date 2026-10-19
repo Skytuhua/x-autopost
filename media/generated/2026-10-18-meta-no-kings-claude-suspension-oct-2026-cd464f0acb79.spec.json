@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "story_id": "meta-no-kings-claude-suspension-oct-2026",
+  "story_type": "policy",
+  "subject": "Meta and No Kings Instagram suspension",
+  "headline": "Meta blames a Claude tool for the suspension",
+  "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-18/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension",
+      "actor": "Meta",
+      "action": "Says a Claude tool tripped its bot filter",
+      "status": "confirmed",
+      "targets": [
+        "No Kings Instagram account"
+      ],
+      "topics": [
+        "About 4x normal read rate",
+        "Apology issued"
+      ]
+    }
+  }
+}
