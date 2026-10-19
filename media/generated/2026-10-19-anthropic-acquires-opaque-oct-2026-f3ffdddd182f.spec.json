@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "story_id": "anthropic-acquires-opaque-oct-2026",
+  "story_type": "acquisition",
+  "subject": "Anthropic and Opaque Systems",
+  "headline": "Anthropic acquires Opaque Systems",
+  "source": {
+    "name": "SecurityWeek",
+    "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
+      "actor": "Anthropic",
+      "action": "Acquired confidential AI startup",
+      "status": "confirmed",
+      "targets": [
+        "Opaque Systems"
+      ],
+      "topics": [
+        "Terms not disclosed",
+        "Opaque winding down"
+      ]
+    }
+  }
+}

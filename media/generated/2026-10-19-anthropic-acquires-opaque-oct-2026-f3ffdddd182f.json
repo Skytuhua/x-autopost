@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "anthropic-acquires-opaque-oct-2026",
+  "subject": "Anthropic and Opaque Systems",
+  "source_urls": [
+    "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "82de1f75105c67df16e08afe2416aea515c55d09177145c4f4591d487139158f",
+  "image_sha256": "308ae427d474b0a2ec362ba7f850faa102af5fd19cb1306189c44b812dda7d99",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

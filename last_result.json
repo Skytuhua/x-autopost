@@ -1,33 +1,33 @@
 {
- "time": "2026-10-19T11:18:18.354353Z",
- "text": "Salesforce says it will invest $1 billion in Spain over five years. It opened a new Madrid headquarters today, home to engineers who build AI agents with Spanish customers. Graduates from across its EMEA South region will train there for a year.",
+ "time": "2026-10-19T11:19:59.626551Z",
+ "text": "Anthropic has acquired Opaque Systems, a confidential computing startup, SecurityWeek reports. Opaque says its team is joining Anthropic and the company is winding down. Terms weren't disclosed. Opaque raised a $24 million Series B this year.",
  "media": [
-  "media/generated/2026-10-19-salesforce-spain-1b-oct-2026-fe3625c94a4d.png"
+  "media/generated/2026-10-19-anthropic-acquires-opaque-oct-2026-f3ffdddd182f.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2112141284966010880"
+  "2112141709970694144"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112141286534705244\",\"text\":\"Salesforce says it will invest $1 billion in Spain over five years. It opened a new Madrid headquarters today, home to engineers who build AI agents with Spanish customers. Graduates from across its EMEA South region will train there for a year. https://t.co/e33ymVANK3\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112141711656808648\",\"text\":\"Anthropic has acquired Opaque Systems, a confidential computing startup, SecurityWeek reports. Opaque says its team is joining Anthropic and the company is winding down. Terms weren't disclosed. Opaque raised a $24 million Series B this year. https://t.co/3UPqNsznpR\"}}",
  "visual": {
-  "family": "financial",
-  "variant": "statement",
-  "palette": "ink",
-  "story_id": "salesforce-spain-1b-oct-2026",
-  "subject": "Salesforce",
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "anthropic-acquires-opaque-oct-2026",
+  "subject": "Anthropic and Opaque Systems",
   "source_urls": [
-   "https://www.salesforce.com/news/press-releases/2026/10/19/1-billion-ai-leadership-investment-spain/"
+   "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "c8627d0b73e825fd70c6f0d93759af78ca56f640a238a5d36fa078c855ee9369",
-  "image_sha256": "041c92a63fc485f902d844cb0a9d3c9340f64d791355d31baa3677a68872f73a",
+  "content_sha256": "82de1f75105c67df16e08afe2416aea515c55d09177145c4f4591d487139158f",
+  "image_sha256": "308ae427d474b0a2ec362ba7f850faa102af5fd19cb1306189c44b812dda7d99",
   "qa": {
    "width": 1600,
    "height": 900,
