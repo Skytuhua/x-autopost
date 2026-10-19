@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "salesforce-spain-1b-oct-2026",
+  "subject": "Salesforce",
+  "source_urls": [
+    "https://www.salesforce.com/news/press-releases/2026/10/19/1-billion-ai-leadership-investment-spain/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "c8627d0b73e825fd70c6f0d93759af78ca56f640a238a5d36fa078c855ee9369",
+  "image_sha256": "041c92a63fc485f902d844cb0a9d3c9340f64d791355d31baa3677a68872f73a",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

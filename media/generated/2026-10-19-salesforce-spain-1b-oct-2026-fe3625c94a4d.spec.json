@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "salesforce-spain-1b-oct-2026",
+  "story_type": "funding",
+  "subject": "Salesforce",
+  "headline": "Salesforce to invest $1B in Spain",
+  "source": {
+    "name": "Salesforce",
+    "url": "https://www.salesforce.com/news/press-releases/2026/10/19/1-billion-ai-leadership-investment-spain/"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.salesforce.com/news/press-releases/2026/10/19/1-billion-ai-leadership-investment-spain/",
+      "value": "$1B",
+      "label": "Planned Spain investment",
+      "period": "Over five years"
+    }
+  }
+}
