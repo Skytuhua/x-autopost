@@ -1,33 +1,33 @@
 {
- "time": "2026-10-19T11:19:59.626551Z",
- "text": "Anthropic has acquired Opaque Systems, a confidential computing startup, SecurityWeek reports. Opaque says its team is joining Anthropic and the company is winding down. Terms weren't disclosed. Opaque raised a $24 million Series B this year.",
+ "time": "2026-10-19T12:18:18.128281Z",
+ "text": "Vercel is offering MiniMax's new M3.1 Flash model free on its AI Gateway through Oct 20. Use the model name minimax/minimax-m3.1-flash and put MiniMax first in provider order, since the free rate only applies when MiniMax serves it.",
  "media": [
-  "media/generated/2026-10-19-anthropic-acquires-opaque-oct-2026-f3ffdddd182f.png"
+  "media/generated/2026-10-19-vercel-minimax-m31-flash-free-oct-2026-ffdbd9e345d5.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2112141709970694144"
+  "2112156383625785344"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112141711656808648\",\"text\":\"Anthropic has acquired Opaque Systems, a confidential computing startup, SecurityWeek reports. Opaque says its team is joining Anthropic and the company is winding down. Terms weren't disclosed. Opaque raised a $24 million Series B this year. https://t.co/3UPqNsznpR\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112156385349701711\",\"text\":\"Vercel is offering MiniMax's new M3.1 Flash model free on its AI Gateway through Oct 20. Use the model name minimax/minimax-m3.1-flash and put MiniMax first in provider order, since the free rate only applies when MiniMax serves it. https://t.co/QYl8o7AL98\"}}",
  "visual": {
-  "family": "policy",
-  "variant": "branch",
-  "palette": "ivory",
-  "story_id": "anthropic-acquires-opaque-oct-2026",
-  "subject": "Anthropic and Opaque Systems",
+  "family": "offer",
+  "variant": "split",
+  "palette": "acid",
+  "story_id": "vercel-minimax-m31-flash-free-oct-2026",
+  "subject": "MiniMax M3.1 Flash free on Vercel AI Gateway",
   "source_urls": [
-   "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/"
+   "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "82de1f75105c67df16e08afe2416aea515c55d09177145c4f4591d487139158f",
-  "image_sha256": "308ae427d474b0a2ec362ba7f850faa102af5fd19cb1306189c44b812dda7d99",
+  "content_sha256": "569e9f83c7369238316c8c3410517ae40f0e6ad0f9388589412cc92a8e990dda",
+  "image_sha256": "b95ae753a70c907a7e38d41776a100d0c3d230be425c441c7095bae2b50651db",
   "qa": {
    "width": 1600,
    "height": 900,

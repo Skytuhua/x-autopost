@@ -1,0 +1,36 @@
+{
+  "family": "offer",
+  "variant": "split",
+  "palette": "acid",
+  "story_id": "vercel-minimax-m31-flash-free-oct-2026",
+  "subject": "MiniMax M3.1 Flash free on Vercel AI Gateway",
+  "source_urls": [
+    "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "569e9f83c7369238316c8c3410517ae40f0e6ad0f9388589412cc92a8e990dda",
+  "image_sha256": "b95ae753a70c907a7e38d41776a100d0c3d230be425c441c7095bae2b50651db",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

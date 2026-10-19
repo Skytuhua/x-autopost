@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "vercel-minimax-m31-flash-free-oct-2026",
+  "story_type": "offer",
+  "subject": "MiniMax M3.1 Flash free on Vercel AI Gateway",
+  "headline": "MiniMax M3.1 Flash is free on Vercel",
+  "source": {
+    "name": "Vercel changelog",
+    "url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free"
+  },
+  "content": {
+    "offer": {
+      "source_url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
+      "benefit": "Free MiniMax M3.1 Flash on AI Gateway",
+      "eligibility": "Any AI Gateway user. MiniMax must serve it.",
+      "deadline": "Until Oct 20"
+    }
+  }
+}
