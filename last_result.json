@@ -1,33 +1,33 @@
 {
- "time": "2026-10-19T12:18:18.128281Z",
- "text": "Vercel is offering MiniMax's new M3.1 Flash model free on its AI Gateway through Oct 20. Use the model name minimax/minimax-m3.1-flash and put MiniMax first in provider order, since the free rate only applies when MiniMax serves it.",
+ "time": "2026-10-19T12:47:23.620370Z",
+ "text": "Reuters reports a hacker handed most of a break-in spree to AI agents, which got into websites of more than 100 companies, including Deere and SharkNinja. A NorForge researcher puts the cost at about $5,000 in tokens, or $50 a hack.",
  "media": [
-  "media/generated/2026-10-19-vercel-minimax-m31-flash-free-oct-2026-ffdbd9e345d5.png"
+  "media/generated/2026-10-19-ai-agents-hacker-100-sites-oct-2026-fcc44bd05cdf.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2112156383625785344"
+  "2112163704859168768"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112156385349701711\",\"text\":\"Vercel is offering MiniMax's new M3.1 Flash model free on its AI Gateway through Oct 20. Use the model name minimax/minimax-m3.1-flash and put MiniMax first in provider order, since the free rate only applies when MiniMax serves it. https://t.co/QYl8o7AL98\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112163706402734302\",\"text\":\"Reuters reports a hacker handed most of a break-in spree to AI agents, which got into websites of more than 100 companies, including Deere and SharkNinja. A NorForge researcher puts the cost at about $5,000 in tokens, or $50 a hack. https://t.co/psiFZPJjUS\"}}",
  "visual": {
-  "family": "offer",
-  "variant": "split",
-  "palette": "acid",
-  "story_id": "vercel-minimax-m31-flash-free-oct-2026",
-  "subject": "MiniMax M3.1 Flash free on Vercel AI Gateway",
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "ai-agents-hacker-100-sites-oct-2026",
+  "subject": "AI-agent hacking campaign",
   "source_urls": [
-   "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free"
+   "https://ca.finance.yahoo.com/news/exclusive-one-hacker-used-ai-100625294.html"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "569e9f83c7369238316c8c3410517ae40f0e6ad0f9388589412cc92a8e990dda",
-  "image_sha256": "b95ae753a70c907a7e38d41776a100d0c3d230be425c441c7095bae2b50651db",
+  "content_sha256": "3e11ec15ed54178874d88b110fb7d3afdb9d7855fcfc154d2efe6fc5bb44a571",
+  "image_sha256": "9b72631f850368e89720400fd8f7bc90eaff6820d68602b4beb3fcfdebb27038",
   "qa": {
    "width": 1600,
    "height": 900,

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "story_id": "ai-agents-hacker-100-sites-oct-2026",
+  "story_type": "security",
+  "subject": "AI-agent hacking campaign",
+  "headline": "AI agents breach 100+ company sites",
+  "source": {
+    "name": "Reuters",
+    "url": "https://ca.finance.yahoo.com/news/exclusive-one-hacker-used-ai-100625294.html"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://ca.finance.yahoo.com/news/exclusive-one-hacker-used-ai-100625294.html",
+      "actor": "Chinese-speaking hacker",
+      "action": "Ran AI agents to break into sites",
+      "status": "reported",
+      "targets": [
+        "Deere",
+        "SharkNinja",
+        "Cummins"
+      ],
+      "topics": [
+        "1,200+ sites targeted",
+        "About $50 per breach"
+      ]
+    }
+  }
+}
