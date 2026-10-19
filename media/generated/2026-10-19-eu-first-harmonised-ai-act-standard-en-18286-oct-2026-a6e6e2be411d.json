@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "eu-first-harmonised-ai-act-standard-en-18286-oct-2026",
+  "subject": "EU AI Act harmonised standard EN 18286",
+  "source_urls": [
+    "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "118a720d636a82755bbc23b282ee02fbf2ca55a742ac05a45063bfbfbe3fd95f",
+  "image_sha256": "fbed91483ae1328d3d399313c0f893759026794383c43aab2a72c5b9d6e37234",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "story_id": "eu-first-harmonised-ai-act-standard-en-18286-oct-2026",
+  "story_type": "policy",
+  "subject": "EU AI Act harmonised standard EN 18286",
+  "headline": "First AI Act harmonised standard published",
+  "source": {
+    "name": "European Commission",
+    "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "actor": "European Commission",
+      "action": "Published first AI Act standard",
+      "status": "confirmed",
+      "targets": [
+        "EN 18286 quality management system"
+      ],
+      "topics": [
+        "Article 17",
+        "High-risk AI"
+      ]
+    }
+  }
+}
