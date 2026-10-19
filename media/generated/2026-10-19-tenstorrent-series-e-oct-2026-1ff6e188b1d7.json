@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "tenstorrent-series-e-oct-2026",
+  "subject": "Tenstorrent",
+  "source_urls": [
+    "https://www.bloomberg.com/news/articles/2026-10-19/ai-chip-startup-tenstorrent-raises-funds-at-6-2-billion-value"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "4446fb75c925c91f2ac0a27a2f079f677cc0a44d6cd587abae71ba9de2005db0",
+  "image_sha256": "a50648cf6dcee51b9a7ec82e7792c5a5322a969ef1263b8b1b8e9416d0210f8f",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

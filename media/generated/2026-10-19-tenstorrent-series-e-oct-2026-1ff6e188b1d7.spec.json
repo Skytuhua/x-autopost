@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "tenstorrent-series-e-oct-2026",
+  "story_type": "funding",
+  "subject": "Tenstorrent",
+  "headline": "Tenstorrent raises $1.5B",
+  "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-19/ai-chip-startup-tenstorrent-raises-funds-at-6-2-billion-value"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/ai-chip-startup-tenstorrent-raises-funds-at-6-2-billion-value",
+      "value": "$1.5B",
+      "label": "Series E round",
+      "period": "Oct 19, 2026",
+      "change": "$6.2B",
+      "change_label": "valuation after the round"
+    }
+  }
+}
