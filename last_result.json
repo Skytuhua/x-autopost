@@ -1,52 +1,12 @@
 {
- "time": "2026-10-19T12:47:23.620370Z",
- "text": "Reuters reports a hacker handed most of a break-in spree to AI agents, which got into websites of more than 100 companies, including Deere and SharkNinja. A NorForge researcher puts the cost at about $5,000 in tokens, or $50 a hack.",
- "media": [
-  "media/generated/2026-10-19-ai-agents-hacker-100-sites-oct-2026-fcc44bd05cdf.png"
- ],
+ "time": "2026-10-19T12:48:48.837703Z",
+ "text": "Elon Musk says he will give one of his SpaceX shares to every child in the US next year, and calls it the first of many. CNBC puts the total at about $10.5 billion. Musk gave no details on how it would work.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
- "media_ids": [
-  "2112163704859168768"
- ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112163706402734302\",\"text\":\"Reuters reports a hacker handed most of a break-in spree to AI agents, which got into websites of more than 100 companies, including Deere and SharkNinja. A NorForge researcher puts the cost at about $5,000 in tokens, or $50 a hack. https://t.co/psiFZPJjUS\"}}",
- "visual": {
-  "family": "policy",
-  "variant": "stack",
-  "palette": "ivory",
-  "story_id": "ai-agents-hacker-100-sites-oct-2026",
-  "subject": "AI-agent hacking campaign",
-  "source_urls": [
-   "https://ca.finance.yahoo.com/news/exclusive-one-hacker-used-ai-100625294.html"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "3e11ec15ed54178874d88b110fb7d3afdb9d7855fcfc154d2efe6fc5bb44a571",
-  "image_sha256": "9b72631f850368e89720400fd8f7bc90eaff6820d68602b4beb3fcfdebb27038",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112164061689389383\",\"text\":\"Elon Musk says he will give one of his SpaceX shares to every child in the US next year, and calls it the first of many. CNBC puts the total at about $10.5 billion. Musk gave no details on how it would work.\"}}"
 }
