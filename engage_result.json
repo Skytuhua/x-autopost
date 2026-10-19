@@ -1,42 +1,7 @@
 {
- "time": "2026-10-19T20:17:18.934097Z",
- "action": "scan",
- "target": "",
+ "time": "2026-10-19T20:18:51.921789Z",
+ "action": "repost",
+ "target": "2112265822274302066",
  "status": 200,
- "posts": [
-  {
-   "user": "AIatMeta",
-   "created_at": "2026-10-19T19:33:10.000Z",
-   "edit_history_tweet_ids": [
-    "2112265822274302066"
-   ],
-   "id": "2112265822274302066",
-   "public_metrics": {
-    "bookmark_count": 105,
-    "impression_count": 18038,
-    "like_count": 287,
-    "quote_count": 23,
-    "reply_count": 33,
-    "retweet_count": 32
-   },
-   "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and https://t.co/PssTwoaTAZ"
-  },
-  {
-   "user": "nvidia",
-   "created_at": "2026-10-19T19:46:41.000Z",
-   "edit_history_tweet_ids": [
-    "2112269224949485860"
-   ],
-   "id": "2112269224949485860",
-   "public_metrics": {
-    "bookmark_count": 9,
-    "impression_count": 10621,
-    "like_count": 98,
-    "quote_count": 3,
-    "reply_count": 20,
-    "retweet_count": 17
-   },
-   "text": "Germany knows how to build, and now it\u2019s bringing that expertise to industrial AI. \ud83c\udde9\ud83c\uddea\n\nTonight in Berlin, @JensenHuang and Chancellor @_FriedrichMerz discussed combining German engineering with NVIDIA AI to advance manufacturing and automotive.\n\nWe\u2019re also backing Germany\u2019s https://t.co/9uwH0rYYLk"
-  }
- ]
+ "body": "{\"data\":{\"rest_id\":\"2112277320333439116\",\"retweeted\":true}}"
 }
