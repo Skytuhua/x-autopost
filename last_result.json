@@ -1,14 +1,52 @@
 {
- "time": "2026-10-20T07:18:31.453329Z",
- "text": "DHS has ordered federal civilian agencies to remove DeepSeek from their IT systems and stop buying its products, CNBC reports. The order was issued July 24 and made public Monday. It cites data and security risks and excludes the Defense Department.",
- "media": [],
+ "time": "2026-10-20T07:20:25.244017Z",
+ "text": "Nvidia plans to invest in four German startups: Agile Robots, Avelios Medical, Mirelo and Reflex Aerospace, CNBC reports. Amounts weren't disclosed. It's part of Nvidia's nearly $10 billion commitment to European AI, announced at a Berlin summit Monday.",
+ "media": [
+  "media/generated/2026-10-20-nvidia-four-german-startups-oct-2026-ffa9724057d9.png"
+ ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: DHS bars DeepSeek from federal civilian agencies; text outside its region: Issued July 24, made public Oct 19 · Cites data tr"
+ "warnings": [],
+ "media_ids": [
+  "2112443806943436800"
  ],
- "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112443329992351762\",\"text\":\"DHS has ordered federal civilian agencies to remove DeepSeek from their IT systems and stop buying its products, CNBC reports. The order was issued July 24 and made public Monday. It cites data and security risks and excludes the Defense Department.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112443808377901207\",\"text\":\"Nvidia plans to invest in four German startups: Agile Robots, Avelios Medical, Mirelo and Reflex Aerospace, CNBC reports. Amounts weren't disclosed. It's part of Nvidia's nearly $10 billion commitment to European AI, announced at a Berlin summit Monday. https://t.co/LjRVdWvGPZ\"}}",
+ "visual": {
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "nvidia-four-german-startups-oct-2026",
+  "subject": "Nvidia Europe AI investments",
+  "source_urls": [
+   "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html"
+  ],
+  "dimensions": [
+   1600,
+   900
+  ],
+  "content_sha256": "ba0825a70510e43350101f96aa03f2edd3e593a74dd945500356eb4f9fd117c3",
+  "image_sha256": "a699d5437d58cd8912699373eed5cda8cb94caef3fff0ad1996dc3f3d82e93e4",
+  "qa": {
+   "width": 1600,
+   "height": 900,
+   "issues": [],
+   "fonts": [
+    {
+     "family": "Manrope",
+     "status": "loaded"
+    },
+    {
+     "family": "Space",
+     "status": "loaded"
+    },
+    {
+     "family": "Instrument",
+     "status": "loaded"
+    }
+   ]
+  },
+  "warnings": []
+ }
 }

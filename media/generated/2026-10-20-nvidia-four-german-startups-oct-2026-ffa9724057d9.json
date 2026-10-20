@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "nvidia-four-german-startups-oct-2026",
+  "subject": "Nvidia Europe AI investments",
+  "source_urls": [
+    "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "ba0825a70510e43350101f96aa03f2edd3e593a74dd945500356eb4f9fd117c3",
+  "image_sha256": "a699d5437d58cd8912699373eed5cda8cb94caef3fff0ad1996dc3f3d82e93e4",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

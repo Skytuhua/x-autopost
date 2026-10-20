@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "nvidia-four-german-startups-oct-2026",
+  "story_type": "funding",
+  "subject": "Nvidia Europe AI investments",
+  "headline": "Nvidia backs four German startups",
+  "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+      "value": "Nearly $10B",
+      "label": "Nvidia commitment to Europe's AI sector",
+      "period": "Announced Oct 19, 2026"
+    }
+  }
+}
