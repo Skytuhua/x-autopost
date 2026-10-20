@@ -1,15 +1,12 @@
 {
- "time": "2026-10-20T09:17:03.060924Z",
- "text": "Microsoft expanded its Sovereign Cloud for governments and regulated industries. A Sovereign Control Panel enters public preview, and Microsoft says Foundry Local and GitHub Enterprise Local go generally available at Ignite on customer-run Azure Local.",
+ "time": "2026-10-20T09:46:06.662314Z",
+ "text": "DeepSeek open-sourced DeepInfer, the inference framework it uses to serve DeepSeek V4.1 Flash. The code is on GitHub under Apache 2.0 and runs on Nvidia and Huawei Ascend chips. DeepSeek also released deepseek-recipe, its token encoding component.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [
-  "Supplied asset omitted: Asset redirects are not allowed",
-  "Story image omitted: Product artwork unavailable and no other suitable content supplied"
- ],
+ "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112473157864985073\",\"text\":\"Microsoft expanded its Sovereign Cloud for governments and regulated industries. A Sovereign Control Panel enters public preview, and Microsoft says Foundry Local and GitHub Enterprise Local go generally available at Ignite on customer-run Azure Local.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112480470776627396\",\"text\":\"DeepSeek open-sourced DeepInfer, the inference framework it uses to serve DeepSeek V4.1 Flash. The code is on GitHub under Apache 2.0 and runs on Nvidia and Huawei Ascend chips. DeepSeek also released deepseek-recipe, its token encoding component.\"}}"
 }
