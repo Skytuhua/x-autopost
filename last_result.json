@@ -1,52 +1,14 @@
 {
- "time": "2026-10-19T13:17:15.868994Z",
- "text": "Meta says the first phase of its Prometheus supercluster in Ohio is finished and is being scaled toward about 1 million GPUs. It runs hundreds of thousands today, and Meta says it trained its Muse Wonder models there.",
- "media": [
-  "media/generated/2026-10-19-meta-prometheus-1m-gpus-oct-2026-e348d4d8ee1d.png"
- ],
+ "time": "2026-10-20T07:18:31.453329Z",
+ "text": "DHS has ordered federal civilian agencies to remove DeepSeek from their IT systems and stop buying its products, CNBC reports. The order was issued July 24 and made public Monday. It cites data and security risks and excludes the Defense Department.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [],
- "media_ids": [
-  "2112171221932539904"
+ "warnings": [
+  "Story image omitted: Image layout rejected: text outside its region: DHS bars DeepSeek from federal civilian agencies; text outside its region: Issued July 24, made public Oct 19 · Cites data tr"
  ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112171223601864837\",\"text\":\"Meta says the first phase of its Prometheus supercluster in Ohio is finished and is being scaled toward about 1 million GPUs. It runs hundreds of thousands today, and Meta says it trained its Muse Wonder models there. https://t.co/DOVWzSqVZU\"}}",
- "visual": {
-  "family": "research",
-  "variant": "vertical",
-  "palette": "clay",
-  "story_id": "meta-prometheus-1m-gpus-oct-2026",
-  "subject": "Meta Prometheus supercluster",
-  "source_urls": [
-   "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "474e570fa592ddcd4a4190a1d615d654b9ee63b8848a6cabed9c488d626fdda9",
-  "image_sha256": "8b1e6b407c5f3abca8d867e5a5b3a9ecaa1ccf5aaca7e07b8f41a5bfe30153d0",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112443329992351762\",\"text\":\"DHS has ordered federal civilian agencies to remove DeepSeek from their IT systems and stop buying its products, CNBC reports. The order was issued July 24 and made public Monday. It cites data and security risks and excludes the Defense Department.\"}}"
 }
