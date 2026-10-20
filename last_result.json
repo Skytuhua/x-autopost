@@ -1,52 +1,12 @@
 {
- "time": "2026-10-20T08:19:02.968107Z",
- "text": "Neolix says it raised nearly $400 million in a Series E led by Boyu Capital and a national-level fund. The Chinese self-driving delivery van maker also took money from an Alibaba fund. It plans to expand its global network and train driving models.",
- "media": [
-  "media/generated/2026-10-20-neolix-series-e-2026-10-20-cbd0a8aa34db.png"
- ],
+ "time": "2026-10-20T08:20:30.203146Z",
+ "text": "Meta released Muse Glimmer, a 30B open-weight model for agent tasks, under the Apache 2.0 license. Meta says it runs on one consumer GPU at 4-bit precision and beats Gemma4-31B and Qwen3.6-27B on tool use. The technical report is on arXiv.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
- "media_ids": [
-  "2112458561905168384"
- ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112458563633176597\",\"text\":\"Neolix says it raised nearly $400 million in a Series E led by Boyu Capital and a national-level fund. The Chinese self-driving delivery van maker also took money from an Alibaba fund. It plans to expand its global network and train driving models. https://t.co/kWsUDDRt5X\"}}",
- "visual": {
-  "family": "financial",
-  "variant": "statement",
-  "palette": "ink",
-  "story_id": "neolix-series-e-2026-10-20",
-  "subject": "Neolix",
-  "source_urls": [
-   "https://technode.com/2026/10/20/autonomous-delivery-vehicle-maker-neolix-raises-nearly-400-million-in-series-e-funding/"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "993da231e2d48580b9eada4d4097e29987c77f1051b9f96251b55cdf9d81b59f",
-  "image_sha256": "d17fcf027003efcd1b5fa029e9d9a03f1004ea60ee3cfd7daea499b00c3a9724",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112458927073845483\",\"text\":\"Meta released Muse Glimmer, a 30B open-weight model for agent tasks, under the Apache 2.0 license. Meta says it runs on one consumer GPU at 4-bit precision and beats Gemma4-31B and Qwen3.6-27B on tool use. The technical report is on arXiv.\"}}"
 }
