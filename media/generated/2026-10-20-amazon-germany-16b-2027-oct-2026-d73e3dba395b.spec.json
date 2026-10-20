@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "amazon-germany-16b-2027-oct-2026",
+  "story_type": "funding",
+  "subject": "Amazon Germany investment",
+  "headline": "Amazon plans €16B in Germany for 2027",
+  "source": {
+    "name": "Amazon",
+    "url": "https://www.aboutamazon.com/company-news/amazon-germany-investment"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.aboutamazon.com/company-news/amazon-germany-investment",
+      "value": "€16B+",
+      "label": "Amazon planned Germany investment",
+      "period": "Planned for 2027",
+      "change": "€4.8B",
+      "change_label": "Of it goes to the AWS Frankfurt region and AI infrastructure"
+    }
+  }
+}

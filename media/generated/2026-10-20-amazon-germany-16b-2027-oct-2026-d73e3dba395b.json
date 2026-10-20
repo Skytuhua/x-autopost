@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "amazon-germany-16b-2027-oct-2026",
+  "subject": "Amazon Germany investment",
+  "source_urls": [
+    "https://www.aboutamazon.com/company-news/amazon-germany-investment"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "27eda35d96e3d453e0e2bda6a9467dea4aace44fac7a5a5570ef70d221160957",
+  "image_sha256": "306670f9fd4cc44a9615aeaf9c9802a7f5fe93830f489630e0904da0d402be9b",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
