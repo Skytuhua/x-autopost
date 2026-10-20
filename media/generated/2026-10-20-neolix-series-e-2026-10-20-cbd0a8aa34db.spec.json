@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "neolix-series-e-2026-10-20",
+  "story_type": "funding",
+  "subject": "Neolix",
+  "headline": "Neolix raises nearly $400M",
+  "source": {
+    "name": "TechNode",
+    "url": "https://technode.com/2026/10/20/autonomous-delivery-vehicle-maker-neolix-raises-nearly-400-million-in-series-e-funding/"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://technode.com/2026/10/20/autonomous-delivery-vehicle-maker-neolix-raises-nearly-400-million-in-series-e-funding/",
+      "value": "~$400M",
+      "label": "Series E, led by Boyu Capital",
+      "period": "Announced Oct 20, 2026",
+      "change": ">$600M",
+      "change_label": "Series D round last year"
+    }
+  }
+}

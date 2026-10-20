@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "neolix-series-e-2026-10-20",
+  "subject": "Neolix",
+  "source_urls": [
+    "https://technode.com/2026/10/20/autonomous-delivery-vehicle-maker-neolix-raises-nearly-400-million-in-series-e-funding/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "993da231e2d48580b9eada4d4097e29987c77f1051b9f96251b55cdf9d81b59f",
+  "image_sha256": "d17fcf027003efcd1b5fa029e9d9a03f1004ea60ee3cfd7daea499b00c3a9724",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
