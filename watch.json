@@ -1,42 +1,7 @@
 {
- "time": "2026-10-20T11:45:26.525903Z",
+ "time": "2026-10-20T13:18:06.698233Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": [
-  {
-   "user": "satyanadella",
-   "created_at": "2026-10-20T10:59:13.000Z",
-   "edit_history_tweet_ids": [
-    "2112498871368892527"
-   ],
-   "id": "2112498871368892527",
-   "public_metrics": {
-    "bookmark_count": 5,
-    "impression_count": 6617,
-    "like_count": 5,
-    "quote_count": 0,
-    "reply_count": 4,
-    "retweet_count": 1
-   },
-   "text": "Read more: https://t.co/nMV6v8eheh"
-  },
-  {
-   "user": "satyanadella",
-   "created_at": "2026-10-20T10:59:13.000Z",
-   "edit_history_tweet_ids": [
-    "2112498869531754900"
-   ],
-   "id": "2112498869531754900",
-   "public_metrics": {
-    "bookmark_count": 14,
-    "impression_count": 22739,
-    "like_count": 130,
-    "quote_count": 2,
-    "reply_count": 31,
-    "retweet_count": 17
-   },
-   "text": "Great to meet with the @saintgobain team in Paris today and learn how they\u2019re using Microsoft Discovery to help accelerate the development of new more-efficient construction materials. https://t.co/GSZ9MKxkxp"
-  }
- ]
+ "posts": []
 }
