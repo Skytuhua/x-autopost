@@ -1,12 +1,52 @@
 {
- "time": "2026-10-20T08:20:30.203146Z",
- "text": "Meta released Muse Glimmer, a 30B open-weight model for agent tasks, under the Apache 2.0 license. Meta says it runs on one consumer GPU at 4-bit precision and beats Gemma4-31B and Qwen3.6-27B on tool use. The technical report is on arXiv.",
- "media": [],
+ "time": "2026-10-20T08:47:29.160109Z",
+ "text": "Blackwall raised $100 million at a $2.2 billion valuation, TechCrunch reports. AVP led the Series C. The Estonian company sells bot and AI agent traffic filtering to hosting providers, and says the valuation is four times its 2025 round.",
+ "media": [
+  "media/generated/2026-10-20-blackwall-series-c-oct-2026-82eec1fd02a5.png"
+ ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
- "media_ids": [],
+ "media_ids": [
+  "2112465717937483776"
+ ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112458927073845483\",\"text\":\"Meta released Muse Glimmer, a 30B open-weight model for agent tasks, under the Apache 2.0 license. Meta says it runs on one consumer GPU at 4-bit precision and beats Gemma4-31B and Qwen3.6-27B on tool use. The technical report is on arXiv.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112465719409643760\",\"text\":\"Blackwall raised $100 million at a $2.2 billion valuation, TechCrunch reports. AVP led the Series C. The Estonian company sells bot and AI agent traffic filtering to hosting providers, and says the valuation is four times its 2025 round. https://t.co/S6hqKaENyz\"}}",
+ "visual": {
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "blackwall-series-c-oct-2026",
+  "subject": "Blackwall",
+  "source_urls": [
+   "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
+  ],
+  "dimensions": [
+   1600,
+   900
+  ],
+  "content_sha256": "3134581a7837f0985d7c58d385525237b4787df84671ebf3cfc2c82cbf1d4fcf",
+  "image_sha256": "888dc8a7fa622eb11d8048b76831048011e3a8581a7ea2c001871022e848f64b",
+  "qa": {
+   "width": 1600,
+   "height": 900,
+   "issues": [],
+   "fonts": [
+    {
+     "family": "Manrope",
+     "status": "loaded"
+    },
+    {
+     "family": "Space",
+     "status": "loaded"
+    },
+    {
+     "family": "Instrument",
+     "status": "loaded"
+    }
+   ]
+  },
+  "warnings": []
+ }
 }

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "blackwall-series-c-oct-2026",
+  "story_type": "funding",
+  "subject": "Blackwall",
+  "headline": "Blackwall raises $100M at $2.2B valuation",
+  "source": {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "value": "$100M",
+      "label": "Series C led by AVP",
+      "period": "Announced Oct 20, 2026",
+      "change": "4x",
+      "change_label": "Valuation vs its 2025 round, per its chairman"
+    }
+  }
+}

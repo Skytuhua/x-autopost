@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "blackwall-series-c-oct-2026",
+  "subject": "Blackwall",
+  "source_urls": [
+    "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "3134581a7837f0985d7c58d385525237b4787df84671ebf3cfc2c82cbf1d4fcf",
+  "image_sha256": "888dc8a7fa622eb11d8048b76831048011e3a8581a7ea2c001871022e848f64b",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
