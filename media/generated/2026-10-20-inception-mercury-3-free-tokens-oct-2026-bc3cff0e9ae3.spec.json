@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "inception-mercury-3-free-tokens-oct-2026",
+  "story_type": "offer",
+  "subject": "Inception Mercury 3 free API tokens",
+  "headline": "100M free tokens for Mercury 3",
+  "source": {
+    "name": "Inception docs",
+    "url": "https://docs.inceptionlabs.ai/get-started/get-started"
+  },
+  "content": {
+    "offer": {
+      "source_url": "https://docs.inceptionlabs.ai/get-started/get-started",
+      "benefit": "100 million free tokens on Mercury 3, no card",
+      "eligibility": "Every new Inception Platform account",
+      "deadline": "No end date listed by Inception"
+    }
+  }
+}

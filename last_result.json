@@ -1,33 +1,33 @@
 {
- "time": "2026-10-20T07:20:25.244017Z",
- "text": "Nvidia plans to invest in four German startups: Agile Robots, Avelios Medical, Mirelo and Reflex Aerospace, CNBC reports. Amounts weren't disclosed. It's part of Nvidia's nearly $10 billion commitment to European AI, announced at a Berlin summit Monday.",
+ "time": "2026-10-20T07:48:54.664771Z",
+ "text": "Inception is giving every new API account 100 million free tokens to try Mercury 3, no card needed. Sign up on the Inception platform, create an API key and call mercury-3. Launch pricing is also half off, $0.10 per million input tokens.",
  "media": [
-  "media/generated/2026-10-20-nvidia-four-german-startups-oct-2026-ffa9724057d9.png"
+  "media/generated/2026-10-20-inception-mercury-3-free-tokens-oct-2026-bc3cff0e9ae3.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2112443806943436800"
+  "2112450977513025536"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112443808377901207\",\"text\":\"Nvidia plans to invest in four German startups: Agile Robots, Avelios Medical, Mirelo and Reflex Aerospace, CNBC reports. Amounts weren't disclosed. It's part of Nvidia's nearly $10 billion commitment to European AI, announced at a Berlin summit Monday. https://t.co/LjRVdWvGPZ\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112450979165503664\",\"text\":\"Inception is giving every new API account 100 million free tokens to try Mercury 3, no card needed. Sign up on the Inception platform, create an API key and call mercury-3. Launch pricing is also half off, $0.10 per million input tokens. https://t.co/k1Y4eKTfSQ\"}}",
  "visual": {
-  "family": "financial",
-  "variant": "split",
-  "palette": "ink",
-  "story_id": "nvidia-four-german-startups-oct-2026",
-  "subject": "Nvidia Europe AI investments",
+  "family": "offer",
+  "variant": "poster",
+  "palette": "acid",
+  "story_id": "inception-mercury-3-free-tokens-oct-2026",
+  "subject": "Inception Mercury 3 free API tokens",
   "source_urls": [
-   "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html"
+   "https://docs.inceptionlabs.ai/get-started/get-started"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "ba0825a70510e43350101f96aa03f2edd3e593a74dd945500356eb4f9fd117c3",
-  "image_sha256": "a699d5437d58cd8912699373eed5cda8cb94caef3fff0ad1996dc3f3d82e93e4",
+  "content_sha256": "1cc13c5c2dab6dadcda62fa8bee2296840edac3e3173fa3333eec279fd3b1c42",
+  "image_sha256": "1a55af88a27592a2d305a8544c000d30827fd742ff8399ff41105c98c659411f",
   "qa": {
    "width": 1600,
    "height": 900,

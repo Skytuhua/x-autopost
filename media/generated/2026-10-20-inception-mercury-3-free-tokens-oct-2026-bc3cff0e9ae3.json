@@ -1,0 +1,36 @@
+{
+  "family": "offer",
+  "variant": "poster",
+  "palette": "acid",
+  "story_id": "inception-mercury-3-free-tokens-oct-2026",
+  "subject": "Inception Mercury 3 free API tokens",
+  "source_urls": [
+    "https://docs.inceptionlabs.ai/get-started/get-started"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "1cc13c5c2dab6dadcda62fa8bee2296840edac3e3173fa3333eec279fd3b1c42",
+  "image_sha256": "1a55af88a27592a2d305a8544c000d30827fd742ff8399ff41105c98c659411f",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
