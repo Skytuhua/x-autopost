@@ -1,7 +1,42 @@
 {
- "time": "2026-10-20T19:17:00.260970Z",
- "action": "repost",
- "target": "2112607347688583586",
+ "time": "2026-10-20T21:17:13.974547Z",
+ "action": "scan",
+ "target": "",
  "status": 200,
- "body": "{\"data\":{\"rest_id\":\"2112624140343505308\",\"retweeted\":true}}"
+ "posts": [
+  {
+   "user": "sama",
+   "created_at": "2026-10-20T21:10:19.000Z",
+   "edit_history_tweet_ids": [
+    "2112652656602923366"
+   ],
+   "id": "2112652656602923366",
+   "public_metrics": {
+    "bookmark_count": 24,
+    "impression_count": 29200,
+    "like_count": 280,
+    "quote_count": 1,
+    "reply_count": 60,
+    "retweet_count": 13
+   },
+   "text": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this. https://t.co/myODbyruRO"
+  },
+  {
+   "user": "sundarpichai",
+   "created_at": "2026-10-20T20:52:34.000Z",
+   "edit_history_tweet_ids": [
+    "2112648189656616999"
+   ],
+   "id": "2112648189656616999",
+   "public_metrics": {
+    "bookmark_count": 23,
+    "impression_count": 18443,
+    "like_count": 244,
+    "quote_count": 3,
+    "reply_count": 38,
+    "retweet_count": 15
+   },
+   "text": "Sound on! https://t.co/my7Qa7yKMJ"
+  }
+ ]
 }
