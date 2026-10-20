@@ -1,7 +1,25 @@
 {
- "time": "2026-10-19T22:16:49.389706Z",
+ "time": "2026-10-20T00:15:13.923567Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": []
+ "posts": [
+  {
+   "user": "OpenAI",
+   "created_at": "2026-10-19T22:30:05.000Z",
+   "edit_history_tweet_ids": [
+    "2112310345863930168"
+   ],
+   "id": "2112310345863930168",
+   "public_metrics": {
+    "bookmark_count": 554,
+    "impression_count": 234269,
+    "like_count": 2748,
+    "quote_count": 129,
+    "reply_count": 267,
+    "retweet_count": 192
+   },
+   "text": "Our latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran, and Visual Basic.\n\nThese languages power software that banks, governments, and businesses depend on. Progress here means https://t.co/Mulo5P3iCO"
+  }
+ ]
 }
