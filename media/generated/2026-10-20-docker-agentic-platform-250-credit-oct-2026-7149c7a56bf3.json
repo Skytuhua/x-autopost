@@ -1,0 +1,36 @@
+{
+  "family": "offer",
+  "variant": "split",
+  "palette": "acid",
+  "story_id": "docker-agentic-platform-250-credit-oct-2026",
+  "subject": "Docker Agentic Platform cloud sandbox credit",
+  "source_urls": [
+    "https://www.docker.com/c/sbx-promo/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "b742258ab072e3f2f7adb3371393fdb54137dd531095d5ac53002609ec9e6982",
+  "image_sha256": "02cfb62e36fcc79e6c584215f834f0165bfaf72164c1347fb719739ff18ae2eb",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

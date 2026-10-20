@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "docker-agentic-platform-250-credit-oct-2026",
+  "story_type": "offer",
+  "subject": "Docker Agentic Platform cloud sandbox credit",
+  "headline": "$250 free Docker cloud sandbox credit",
+  "source": {
+    "name": "Docker",
+    "url": "https://www.docker.com/c/sbx-promo/"
+  },
+  "content": {
+    "offer": {
+      "source_url": "https://www.docker.com/c/sbx-promo/",
+      "benefit": "$250 cloud sandbox compute credit, up from $25",
+      "eligibility": "New Docker Agentic Platform signups. Credit card required; one per account.",
+      "deadline": "Sign up by Oct 31, 2026, 11:59 PM PT"
+    }
+  }
+}
