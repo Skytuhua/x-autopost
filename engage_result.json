@@ -1,59 +1,42 @@
 {
- "time": "2026-10-21T17:17:19.326532Z",
+ "time": "2026-10-21T19:16:14.919512Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "OpenAI",
-   "created_at": "2026-10-21T16:35:11.000Z",
-   "edit_history_tweet_ids": [
-    "2112945805686604033"
-   ],
-   "id": "2112945805686604033",
-   "public_metrics": {
-    "bookmark_count": 1121,
-    "impression_count": 185410,
-    "like_count": 2422,
-    "quote_count": 89,
-    "reply_count": 150,
-    "retweet_count": 320
-   },
-   "text": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.\n\nPoint your Codex at this repo to guide you through it: https://t.co/XUEbOwXuQC https://t.co/BDaIIaJ4yK"
-  },
-  {
    "user": "AnthropicAI",
-   "created_at": "2026-10-21T16:38:56.000Z",
+   "created_at": "2026-10-21T17:59:12.000Z",
    "edit_history_tweet_ids": [
-    "2112946750264676743"
+    "2112966949273801086"
    ],
-   "id": "2112946750264676743",
+   "id": "2112966949273801086",
    "public_metrics": {
-    "bookmark_count": 42,
-    "impression_count": 45554,
-    "like_count": 540,
-    "quote_count": 13,
-    "reply_count": 75,
-    "retweet_count": 38
+    "bookmark_count": 206,
+    "impression_count": 80270,
+    "like_count": 1179,
+    "quote_count": 38,
+    "reply_count": 107,
+    "retweet_count": 100
    },
-   "text": "Dr. Christopher Stubbs is joining our Long-Term Benefit Trust. Chris is an experimental physicist and a former Dean of Science at Harvard University. He has also advised the US government on national security and arms control.\n\nRead more: https://t.co/8RzH8UujRU"
+   "text": "Anthropic is a Public Benefit Corporation. Today, we\u2019re publishing our annual Public Benefit Report. This report shares our five pillars and takes stock of the actions we\u2019re taking to advance them. \n\nRead the full report at this page: https://t.co/MTCgtzCoPH"
   },
   {
-   "user": "sundarpichai",
-   "created_at": "2026-10-21T16:34:47.000Z",
+   "user": "GoogleDeepMind",
+   "created_at": "2026-10-21T18:30:05.000Z",
    "edit_history_tweet_ids": [
-    "2112945705757315307"
+    "2112974723659247896"
    ],
-   "id": "2112945705757315307",
+   "id": "2112974723659247896",
    "public_metrics": {
-    "bookmark_count": 30,
-    "impression_count": 26730,
-    "like_count": 252,
-    "quote_count": 5,
-    "reply_count": 46,
-    "retweet_count": 19
+    "bookmark_count": 80,
+    "impression_count": 18510,
+    "like_count": 416,
+    "quote_count": 9,
+    "reply_count": 73,
+    "retweet_count": 21
    },
-   "text": "Great to sit down with @alexeheath to talk about Argon, the frontier, and our plans for personal agents! https://t.co/rWhlWu3qXU"
+   "text": "Gemini 4 Argon combined three open-source datasets to build an interactive 3D visualization of human anatomy.\n\nToggle different layers in motion, isolate muscles, or zoom inside a beating heart. https://t.co/60nfQ0QVkl"
   }
  ]
 }
