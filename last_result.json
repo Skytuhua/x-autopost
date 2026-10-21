@@ -1,52 +1,14 @@
 {
- "time": "2026-10-21T07:22:54.451510Z",
- "text": "Paris AI planning startup Pigment raised $250 million at a $2.3 billion valuation. EQT's Scaleup Europe Fund led the Series E, and Nvidia plans to invest. Pigment says the money goes toward autonomous planning software.",
- "media": [
-  "media/generated/2026-10-21-pigment-series-e-250m-oct-2026-80b049b8df09.png"
- ],
+ "time": "2026-10-21T07:46:28.496743Z",
+ "text": "Anthropic's draft IPO prospectus shows an $80.7 billion net loss in the first half of 2026, the Wall Street Journal reports. Revenue was $16.3 billion, up from $1.1 billion a year earlier. The WSJ says accounting adjustments drove the loss.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [],
- "media_ids": [
-  "2112806821333544960"
+ "warnings": [
+  "Story image omitted: story_type must be one of model_release, product_launch, offer, earnings, funding, acquisition, policy, security, research, outage, quote"
  ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112806822814052780\",\"text\":\"Paris AI planning startup Pigment raised $250 million at a $2.3 billion valuation. EQT's Scaleup Europe Fund led the Series E, and Nvidia plans to invest. Pigment says the money goes toward autonomous planning software. https://t.co/Lfb9pqv4bH\"}}",
- "visual": {
-  "family": "financial",
-  "variant": "split",
-  "palette": "ink",
-  "story_id": "pigment-series-e-250m-oct-2026",
-  "subject": "Pigment Series E",
-  "source_urls": [
-   "https://www.prnewswire.com/news-releases/pigment-raises-250m-at-2-3b-valuation-302914892.html"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "6a2a20d07d8f56bb3b824f656b52abb1f7ede810632af7f87a73b1523d35be38",
-  "image_sha256": "26b215580f439ea2de4957d694cda7aef358e071bbda24b18e41347a8921025a",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112812751684841932\",\"text\":\"Anthropic's draft IPO prospectus shows an $80.7 billion net loss in the first half of 2026, the Wall Street Journal reports. Revenue was $16.3 billion, up from $1.1 billion a year earlier. The WSJ says accounting adjustments drove the loss.\"}}"
 }
