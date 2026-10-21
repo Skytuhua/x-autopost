@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "spacex-tesla-merger-committees-oct-2026",
+  "subject": "SpaceX and Tesla merger committees",
+  "source_urls": [
+    "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "e4cf27228e4d8dcaeae526664b599ebd75909a3957de96c27d8425e4b3a82c51",
+  "image_sha256": "137d2c6fd9cd1958a095527904724b9fcaed30f3dabfbc31637b7d9a41fda69e",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

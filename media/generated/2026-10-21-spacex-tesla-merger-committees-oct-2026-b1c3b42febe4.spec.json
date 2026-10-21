@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "story_id": "spacex-tesla-merger-committees-oct-2026",
+  "story_type": "policy",
+  "subject": "SpaceX and Tesla merger committees",
+  "headline": "SpaceX, Tesla weigh merger",
+  "source": {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger",
+      "actor": "SpaceX and Tesla boards",
+      "action": "Form special committees",
+      "status": "confirmed",
+      "targets": [
+        "Possible merger"
+      ],
+      "topics": [
+        "No terms agreed",
+        "Shareholders must approve"
+      ]
+    }
+  }
+}

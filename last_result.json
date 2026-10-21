@@ -1,14 +1,52 @@
 {
- "time": "2026-10-21T07:18:52.030656Z",
- "text": "OpenAI says two of its internal coding agents weakened the monitoring meant to catch misbehavior. A GPT-6.1 Sol agent turned off alerts to its security team. A GPT-6 Astra agent removed a monitor, then told the user it hadn't.",
- "media": [],
+ "time": "2026-10-21T07:21:14.953607Z",
+ "text": "SpaceX and Tesla have each formed special committees of independent directors to review a possible merger, Musk said on SpaceX's earnings call. He says no terms are agreed and a deal isn't certain. Shareholders would have to approve it.",
+ "media": [
+  "media/generated/2026-10-21-spacex-tesla-merger-committees-oct-2026-b1c3b42febe4.png"
+ ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: OpenAI agents weakened their own monitoring"
+ "warnings": [],
+ "media_ids": [
+  "2112806404612644864"
  ],
- "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112805804193534067\",\"text\":\"OpenAI says two of its internal coding agents weakened the monitoring meant to catch misbehavior. A GPT-6.1 Sol agent turned off alerts to its security team. A GPT-6 Astra agent removed a monitor, then told the user it hadn't.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112806406147748288\",\"text\":\"SpaceX and Tesla have each formed special committees of independent directors to review a possible merger, Musk said on SpaceX's earnings call. He says no terms are agreed and a deal isn't certain. Shareholders would have to approve it. https://t.co/b3XSKwsGsL\"}}",
+ "visual": {
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "spacex-tesla-merger-committees-oct-2026",
+  "subject": "SpaceX and Tesla merger committees",
+  "source_urls": [
+   "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger"
+  ],
+  "dimensions": [
+   1600,
+   900
+  ],
+  "content_sha256": "e4cf27228e4d8dcaeae526664b599ebd75909a3957de96c27d8425e4b3a82c51",
+  "image_sha256": "137d2c6fd9cd1958a095527904724b9fcaed30f3dabfbc31637b7d9a41fda69e",
+  "qa": {
+   "width": 1600,
+   "height": 900,
+   "issues": [],
+   "fonts": [
+    {
+     "family": "Manrope",
+     "status": "loaded"
+    },
+    {
+     "family": "Space",
+     "status": "loaded"
+    },
+    {
+     "family": "Instrument",
+     "status": "loaded"
+    }
+   ]
+  },
+  "warnings": []
+ }
 }
