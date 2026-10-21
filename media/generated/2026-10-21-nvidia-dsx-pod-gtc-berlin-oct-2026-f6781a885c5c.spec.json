@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "story_id": "nvidia-dsx-pod-gtc-berlin-oct-2026",
+  "story_type": "product_launch",
+  "subject": "NVIDIA DSX POD",
+  "headline": "NVIDIA DSX POD modular AI factories",
+  "source": {
+    "name": "NVIDIA Newsroom",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment"
+  },
+  "content": {
+    "product": {
+      "source_url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
+      "features": [
+        "Vera Rubin AI factory built in modular containers",
+        "Site setup cut from six months to as little as 14 days",
+        "Partners deliver worldwide in early 2027"
+      ]
+    }
+  },
+  "summary": "Reference design for Vera Rubin AI factories built in modular containers by partners.",
+  "asset": {
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
+    "kind": "official",
+    "credit": "NVIDIA",
+    "alt": "NVIDIA DSX POD modular AI factory container",
+    "subject": "Official NVIDIA press image titled NVIDIA DSX POD, published with the DSX POD announcement at GTC Berlin.",
+    "url": "https://iprsoftwaremedia.com/219/files/202610/37e892449c48767de17d929f36b4d469/6ad84e8c3d6332fa2ecb7555_nvidia-dsx-pod/nvidia-dsx-pod_mid.jpg?v=bdc77880-16cd-4f2a-8ad8-83c2e848fae8"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "family": "product",
+  "variant": "split",
+  "palette": "ivory",
+  "story_id": "nvidia-dsx-pod-gtc-berlin-oct-2026",
+  "subject": "NVIDIA DSX POD",
+  "source_urls": [
+    "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "d0611769056a221cb97b718e4414acb3d3e752d35bc005c7cf0c734168f39bca",
+  "image_sha256": "2e60dea236b6b387db929ba9402987d8862033a5c9544a95988afe6e9ce4245c",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": [],
+  "asset_credit": "NVIDIA",
+  "asset_kind": "official",
+  "asset_subject": "Official NVIDIA press image titled NVIDIA DSX POD, published with the DSX POD announcement at GTC Berlin."
+}
