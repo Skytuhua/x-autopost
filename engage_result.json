@@ -1,7 +1,76 @@
 {
- "time": "2026-10-21T13:17:22.491158Z",
+ "time": "2026-10-21T15:16:15.289007Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": []
+ "posts": [
+  {
+   "user": "OpenAI",
+   "created_at": "2026-10-21T14:04:23.000Z",
+   "edit_history_tweet_ids": [
+    "2112907856018309586"
+   ],
+   "id": "2112907856018309586",
+   "public_metrics": {
+    "bookmark_count": 979,
+    "impression_count": 620146,
+    "like_count": 5068,
+    "quote_count": 573,
+    "reply_count": 243,
+    "retweet_count": 1150
+   },
+   "text": "OpenAI models helped researchers\u2014operating as part of our Patch the Planet initiative\u2014discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.\n\nOver the past two months, we led a coalition of maintainers, researchers,"
+  },
+  {
+   "user": "OpenAI",
+   "created_at": "2026-10-21T13:32:36.000Z",
+   "edit_history_tweet_ids": [
+    "2112899856205578486"
+   ],
+   "id": "2112899856205578486",
+   "public_metrics": {
+    "bookmark_count": 10,
+    "impression_count": 38191,
+    "like_count": 235,
+    "quote_count": 0,
+    "reply_count": 14,
+    "retweet_count": 15
+   },
+   "text": "In the same mouse-brain dataset, GPT-Rosalind found a possible clue to why TSC2 mutations tend to cause more severe tuberous sclerosis than TSC1 mutations.\n\nThe two genes work together to regulate mTOR. Yet in one group of cerebellar neurons, disrupting TSC2 changed the"
+  },
+  {
+   "user": "OpenAI",
+   "created_at": "2026-10-21T13:32:35.000Z",
+   "edit_history_tweet_ids": [
+    "2112899854569762936"
+   ],
+   "id": "2112899854569762936",
+   "public_metrics": {
+    "bookmark_count": 376,
+    "impression_count": 194386,
+    "like_count": 2437,
+    "quote_count": 90,
+    "reply_count": 215,
+    "retweet_count": 246
+   },
+   "text": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?\n\nDCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in"
+  },
+  {
+   "user": "nvidia",
+   "created_at": "2026-10-21T14:54:03.000Z",
+   "edit_history_tweet_ids": [
+    "2112920354230296993"
+   ],
+   "id": "2112920354230296993",
+   "public_metrics": {
+    "bookmark_count": 3,
+    "impression_count": 10360,
+    "like_count": 69,
+    "quote_count": 2,
+    "reply_count": 13,
+    "retweet_count": 12
+   },
+   "text": "Demand for compute is extraordinary. NVIDIA and our partners are building new capacity to meet it.\n\nWe\u2019re working with Amkor, IBIDEN, KYEC, Samsung Mechanics, SPIL, and Unimicron to expand our supply around the world, from essential components to advanced packaging and testing. https://t.co/oUjDOuiIZr"
+  }
+ ]
 }
