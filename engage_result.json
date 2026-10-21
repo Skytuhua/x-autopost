@@ -1,59 +1,7 @@
 {
- "time": "2026-10-21T12:46:36.443346Z",
- "action": "scan",
- "target": "",
+ "time": "2026-10-21T12:48:05.895697Z",
+ "action": "repost",
+ "target": "2112870261829603589",
  "status": 200,
- "posts": [
-  {
-   "user": "MistralAI",
-   "created_at": "2026-10-21T11:35:00.000Z",
-   "edit_history_tweet_ids": [
-    "2112870261829603589"
-   ],
-   "id": "2112870261829603589",
-   "public_metrics": {
-    "bookmark_count": 45,
-    "impression_count": 20361,
-    "like_count": 663,
-    "quote_count": 26,
-    "reply_count": 42,
-    "retweet_count": 65
-   },
-   "text": "Today we\u2019re announcing a new collaboration with @nvidia to bring AI to industrial engineering: \n\n- faster simulation\n- open benchmarks and supporting datasets for physics AI\n- evaluations for agentic AI in CAE and EDA\n\nMore here: https://t.co/HXFVBqJSP1 https://t.co/OTb24yjOUQ"
-  },
-  {
-   "user": "nvidia",
-   "created_at": "2026-10-21T12:23:26.000Z",
-   "edit_history_tweet_ids": [
-    "2112882451978784980"
-   ],
-   "id": "2112882451978784980",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 3565,
-    "like_count": 12,
-    "quote_count": 0,
-    "reply_count": 2,
-    "retweet_count": 0
-   },
-   "text": "Read the news from GTC Berlin \u2b07\ufe0f  https://t.co/Zo9JQhWmhY"
-  },
-  {
-   "user": "nvidia",
-   "created_at": "2026-10-21T12:23:25.000Z",
-   "edit_history_tweet_ids": [
-    "2112882448530800716"
-   ],
-   "id": "2112882448530800716",
-   "public_metrics": {
-    "bookmark_count": 7,
-    "impression_count": 13016,
-    "like_count": 108,
-    "quote_count": 4,
-    "reply_count": 19,
-    "retweet_count": 12
-   },
-   "text": "AI builders need computing capacity they can put to work sooner.\n\nWe introduced DSX POD at NVIDIA GTC Berlin: AI factories integrated and tested before delivery, enabling deployment at prepared sites in as little as 14 days. https://t.co/0Ax7yHMvBp"
-  }
- ]
+ "body": "{\"data\":{\"rest_id\":\"2112888657002844500\",\"retweeted\":true}}"
 }
