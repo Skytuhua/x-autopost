@@ -1,14 +1,14 @@
 {
- "time": "2026-10-21T07:46:28.496743Z",
- "text": "Anthropic's draft IPO prospectus shows an $80.7 billion net loss in the first half of 2026, the Wall Street Journal reports. Revenue was $16.3 billion, up from $1.1 billion a year earlier. The WSJ says accounting adjustments drove the loss.",
+ "time": "2026-10-21T07:48:23.992576Z",
+ "text": "Trump says data center companies should pay communities a \"dividend\" to win local support, in a Truth Social post. He wrote that unpopular data centers became popular once a financial deal was struck. He also says large new ones must make their own electricity.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [
-  "Story image omitted: story_type must be one of model_release, product_launch, offer, earnings, funding, acquisition, policy, security, research, outage, quote"
+  "Story image omitted: Image layout rejected: text outside its region: Trump: data centers should pay communities"
  ],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112812751684841932\",\"text\":\"Anthropic's draft IPO prospectus shows an $80.7 billion net loss in the first half of 2026, the Wall Street Journal reports. Revenue was $16.3 billion, up from $1.1 billion a year earlier. The WSJ says accounting adjustments drove the loss.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112813235774919000\",\"text\":\"Trump says data center companies should pay communities a \\\"dividend\\\" to win local support, in a Truth Social post. He wrote that unpopular data centers became popular once a financial deal was struck. He also says large new ones must make their own electricity.\"}}"
 }
