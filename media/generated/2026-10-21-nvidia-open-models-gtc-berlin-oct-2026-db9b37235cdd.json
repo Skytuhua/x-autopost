@@ -1,0 +1,39 @@
+{
+  "family": "product",
+  "variant": "image-first",
+  "palette": "ivory",
+  "story_id": "nvidia-open-models-gtc-berlin-oct-2026",
+  "subject": "NVIDIA open models at GTC Berlin",
+  "source_urls": [
+    "https://blogs.nvidia.com/blog/open-models-europe-industry/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "66bb53a9f213981582c869c5dac55c5b227f8a1614442edb7abe540c95cbaeed",
+  "image_sha256": "8e36d7591ceb0d12e1d30fe8d975b9895cc3eb800a2828a9c75cc9f7b8df1c86",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": [],
+  "asset_credit": "NVIDIA",
+  "asset_kind": "official",
+  "asset_subject": "NVIDIA's official key visual published with the Oct 21, 2026 open models announcement at GTC Berlin"
+}

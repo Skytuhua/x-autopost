@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "story_id": "nvidia-open-models-gtc-berlin-oct-2026",
+  "story_type": "model_release",
+  "subject": "NVIDIA open models at GTC Berlin",
+  "headline": "NVIDIA expands its open models",
+  "source": {
+    "name": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/"
+  },
+  "content": {
+    "product": {
+      "source_url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+      "features": [
+        "Nemotron 3.5 Super VL: text and images",
+        "Nemotron Retriever: search, document parsing",
+        "Kumo: predictions from business data"
+      ]
+    }
+  },
+  "asset": {
+    "source_url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+    "kind": "official",
+    "credit": "NVIDIA",
+    "alt": "NVIDIA key visual for its GTC Berlin open models announcement",
+    "subject": "NVIDIA's official key visual published with the Oct 21, 2026 open models announcement at GTC Berlin",
+    "url": "https://blogs.nvidia.com/wp-content/uploads/2026/10/agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-1280x720.png"
+  }
+}
