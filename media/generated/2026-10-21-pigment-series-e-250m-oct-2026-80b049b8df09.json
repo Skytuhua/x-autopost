@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "pigment-series-e-250m-oct-2026",
+  "subject": "Pigment Series E",
+  "source_urls": [
+    "https://www.prnewswire.com/news-releases/pigment-raises-250m-at-2-3b-valuation-302914892.html"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "6a2a20d07d8f56bb3b824f656b52abb1f7ede810632af7f87a73b1523d35be38",
+  "image_sha256": "26b215580f439ea2de4957d694cda7aef358e071bbda24b18e41347a8921025a",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

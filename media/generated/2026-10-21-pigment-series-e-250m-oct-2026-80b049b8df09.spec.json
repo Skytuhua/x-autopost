@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "pigment-series-e-250m-oct-2026",
+  "story_type": "funding",
+  "subject": "Pigment Series E",
+  "headline": "Pigment raises $250M at $2.3B",
+  "source": {
+    "name": "Pigment press release",
+    "url": "https://www.prnewswire.com/news-releases/pigment-raises-250m-at-2-3b-valuation-302914892.html"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.prnewswire.com/news-releases/pigment-raises-250m-at-2-3b-valuation-302914892.html",
+      "value": "$250M",
+      "label": "Series E, $2.3B valuation",
+      "period": "Announced Oct 21, 2026"
+    }
+  }
+}
