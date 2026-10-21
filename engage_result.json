@@ -1,7 +1,59 @@
 {
- "time": "2026-10-21T15:17:53.666356Z",
- "action": "repost",
- "target": "2112907856018309586",
+ "time": "2026-10-21T17:17:19.326532Z",
+ "action": "scan",
+ "target": "",
  "status": 200,
- "body": "{\"data\":{\"rest_id\":\"2112926354308305118\",\"retweeted\":true}}"
+ "posts": [
+  {
+   "user": "OpenAI",
+   "created_at": "2026-10-21T16:35:11.000Z",
+   "edit_history_tweet_ids": [
+    "2112945805686604033"
+   ],
+   "id": "2112945805686604033",
+   "public_metrics": {
+    "bookmark_count": 1121,
+    "impression_count": 185410,
+    "like_count": 2422,
+    "quote_count": 89,
+    "reply_count": 150,
+    "retweet_count": 320
+   },
+   "text": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.\n\nPoint your Codex at this repo to guide you through it: https://t.co/XUEbOwXuQC https://t.co/BDaIIaJ4yK"
+  },
+  {
+   "user": "AnthropicAI",
+   "created_at": "2026-10-21T16:38:56.000Z",
+   "edit_history_tweet_ids": [
+    "2112946750264676743"
+   ],
+   "id": "2112946750264676743",
+   "public_metrics": {
+    "bookmark_count": 42,
+    "impression_count": 45554,
+    "like_count": 540,
+    "quote_count": 13,
+    "reply_count": 75,
+    "retweet_count": 38
+   },
+   "text": "Dr. Christopher Stubbs is joining our Long-Term Benefit Trust. Chris is an experimental physicist and a former Dean of Science at Harvard University. He has also advised the US government on national security and arms control.\n\nRead more: https://t.co/8RzH8UujRU"
+  },
+  {
+   "user": "sundarpichai",
+   "created_at": "2026-10-21T16:34:47.000Z",
+   "edit_history_tweet_ids": [
+    "2112945705757315307"
+   ],
+   "id": "2112945705757315307",
+   "public_metrics": {
+    "bookmark_count": 30,
+    "impression_count": 26730,
+    "like_count": 252,
+    "quote_count": 5,
+    "reply_count": 46,
+    "retweet_count": 19
+   },
+   "text": "Great to sit down with @alexeheath to talk about Argon, the frontier, and our plans for personal agents! https://t.co/rWhlWu3qXU"
+  }
+ ]
 }
