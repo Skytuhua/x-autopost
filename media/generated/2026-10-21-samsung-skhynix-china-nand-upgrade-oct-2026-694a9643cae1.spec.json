@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "story_id": "samsung-skhynix-china-nand-upgrade-oct-2026",
+  "story_type": "policy",
+  "subject": "Samsung and SK Hynix China NAND plants",
+  "headline": "Samsung, SK Hynix upgrade China fabs",
+  "source": {
+    "name": "Reuters via CNBC",
+    "url": "https://www.cnbc.com/2026/10/21/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-people-say-reuters.html"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.cnbc.com/2026/10/21/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-people-say-reuters.html",
+      "actor": "Samsung and SK Hynix",
+      "action": "Upgrade China plants to 200+ layer NAND",
+      "status": "reported",
+      "targets": [
+        "Samsung Xian plant",
+        "SK Hynix Dalian plant"
+      ],
+      "topics": [
+        "US export licenses",
+        "YMTC competition"
+      ]
+    }
+  }
+}

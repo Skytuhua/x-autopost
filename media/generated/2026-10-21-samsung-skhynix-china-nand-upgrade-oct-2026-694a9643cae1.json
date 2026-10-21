@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "samsung-skhynix-china-nand-upgrade-oct-2026",
+  "subject": "Samsung and SK Hynix China NAND plants",
+  "source_urls": [
+    "https://www.cnbc.com/2026/10/21/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-people-say-reuters.html"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "32beb6e6ea0734527fdd6621485d6f3c46927eca6da181871b387b42e2e8c98a",
+  "image_sha256": "ba07fbc1ece404c34de80f783be576adcd365ffbc4b47fcf81bab89158476697",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
