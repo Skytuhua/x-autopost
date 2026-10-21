@@ -1,42 +1,42 @@
 {
- "time": "2026-10-21T19:16:14.919512Z",
+ "time": "2026-10-21T21:15:16.229632Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "AnthropicAI",
-   "created_at": "2026-10-21T17:59:12.000Z",
+   "user": "OpenAI",
+   "created_at": "2026-10-21T19:23:19.000Z",
    "edit_history_tweet_ids": [
-    "2112966949273801086"
+    "2112988118471295323"
    ],
-   "id": "2112966949273801086",
+   "id": "2112988118471295323",
    "public_metrics": {
-    "bookmark_count": 206,
-    "impression_count": 80270,
-    "like_count": 1179,
-    "quote_count": 38,
-    "reply_count": 107,
-    "retweet_count": 100
+    "bookmark_count": 127,
+    "impression_count": 121396,
+    "like_count": 1760,
+    "quote_count": 54,
+    "reply_count": 164,
+    "retweet_count": 108
    },
-   "text": "Anthropic is a Public Benefit Corporation. Today, we\u2019re publishing our annual Public Benefit Report. This report shares our five pillars and takes stock of the actions we\u2019re taking to advance them. \n\nRead the full report at this page: https://t.co/MTCgtzCoPH"
+   "text": "OpenAI models are coming to Google Cloud.\n\nWe're bringing our frontier models and Codex agentic workflows to Google Cloud's Model Garden, so enterprises can use our technology where they already build.\n\nhttps://t.co/gjuLVALjDm"
   },
   {
-   "user": "GoogleDeepMind",
-   "created_at": "2026-10-21T18:30:05.000Z",
+   "user": "satyanadella",
+   "created_at": "2026-10-21T20:45:58.000Z",
    "edit_history_tweet_ids": [
-    "2112974723659247896"
+    "2113008920008790488"
    ],
-   "id": "2112974723659247896",
+   "id": "2113008920008790488",
    "public_metrics": {
-    "bookmark_count": 80,
-    "impression_count": 18510,
-    "like_count": 416,
-    "quote_count": 9,
-    "reply_count": 73,
-    "retweet_count": 21
+    "bookmark_count": 51,
+    "impression_count": 14183,
+    "like_count": 140,
+    "quote_count": 4,
+    "reply_count": 22,
+    "retweet_count": 26
    },
-   "text": "Gemini 4 Argon combined three open-source datasets to build an interactive 3D visualization of human anatomy.\n\nToggle different layers in motion, isolate muscles, or zoom inside a beating heart. https://t.co/60nfQ0QVkl"
+   "text": "In my annual letter, I share how we\u2019re building a frontier ecosystem to turn technological progress into real-world outcomes and economic opportunity for people, organizations, and communities everywhere. https://t.co/Zcrb96sCC3"
   }
  ]
 }
