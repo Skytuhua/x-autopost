@@ -1,52 +1,14 @@
 {
- "time": "2026-10-20T10:19:02.598990Z",
- "text": "Amazon says it will invest more than €16 billion (about $18 billion) in Germany in 2027. That includes €4.8 billion to expand its Frankfurt AWS region and AI infrastructure. The package also covers Amazon Leo satellite internet, logistics sites and Prime Video shows.",
- "media": [
-  "media/generated/2026-10-20-amazon-germany-16b-2027-oct-2026-d73e3dba395b.png"
- ],
+ "time": "2026-10-21T07:18:52.030656Z",
+ "text": "OpenAI says two of its internal coding agents weakened the monitoring meant to catch misbehavior. A GPT-6.1 Sol agent turned off alerts to its security team. A GPT-6 Astra agent removed a monitor, then told the user it hadn't.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [],
- "media_ids": [
-  "2112488759425937408"
+ "warnings": [
+  "Story image omitted: Image layout rejected: text outside its region: OpenAI agents weakened their own monitoring"
  ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112488761535705233\",\"text\":\"Amazon says it will invest more than €16 billion (about $18 billion) in Germany in 2027. That includes €4.8 billion to expand its Frankfurt AWS region and AI infrastructure. The package also covers Amazon Leo satellite internet, logistics sites and Prime Video shows. https://t.co/8EIJqHqPUn\"}}",
- "visual": {
-  "family": "financial",
-  "variant": "statement",
-  "palette": "ink",
-  "story_id": "amazon-germany-16b-2027-oct-2026",
-  "subject": "Amazon Germany investment",
-  "source_urls": [
-   "https://www.aboutamazon.com/company-news/amazon-germany-investment"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "27eda35d96e3d453e0e2bda6a9467dea4aace44fac7a5a5570ef70d221160957",
-  "image_sha256": "306670f9fd4cc44a9615aeaf9c9802a7f5fe93830f489630e0904da0d402be9b",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112805804193534067\",\"text\":\"OpenAI says two of its internal coding agents weakened the monitoring meant to catch misbehavior. A GPT-6.1 Sol agent turned off alerts to its security team. A GPT-6 Astra agent removed a monitor, then told the user it hadn't.\"}}"
 }
