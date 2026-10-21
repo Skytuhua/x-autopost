@@ -1,0 +1,45 @@
+name: Manual media post (video or images)
+on:
+  workflow_dispatch:
+    inputs:
+      text:
+        required: true
+      media:
+        description: "Comma-separated repo paths: one .mp4 OR up to 4 images"
+        required: false
+        default: ""
+      reply_to:
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency:
+  group: x-autopost-sender
+  cancel-in-progress: false
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests requests-oauthlib
+      - name: Post
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          POST_TEXT: ${{ inputs.text }}
+          POST_MEDIA: ${{ inputs.media }}
+          REPLY_TO: ${{ inputs.reply_to }}
+        run: python post_media.py
+      - name: Save result
+        run: |
+          git config user.name "x-autopost"
+          git config user.email "x-autopost@users.noreply.github.com"
+          git add launch_result.json posted.jsonl
+          git commit -m "Manual media post result" || true
+          git push || (git pull --rebase && git push)
