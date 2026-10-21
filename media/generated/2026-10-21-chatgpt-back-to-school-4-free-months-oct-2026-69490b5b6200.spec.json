@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "chatgpt-back-to-school-4-free-months-oct-2026",
+  "story_type": "offer",
+  "subject": "ChatGPT Back to School offer",
+  "headline": "4 free months of ChatGPT Plus",
+  "source": {
+    "name": "OpenAI Help Center",
+    "url": "https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students"
+  },
+  "content": {
+    "offer": {
+      "source_url": "https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students",
+      "benefit": "4 free months of ChatGPT Plus",
+      "eligibility": "US college and grad students, via SheerID",
+      "deadline": "Claim by Oct 31, 2026"
+    }
+  }
+}

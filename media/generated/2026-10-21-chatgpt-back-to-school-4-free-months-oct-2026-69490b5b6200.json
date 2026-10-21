@@ -1,0 +1,36 @@
+{
+  "family": "offer",
+  "variant": "poster",
+  "palette": "acid",
+  "story_id": "chatgpt-back-to-school-4-free-months-oct-2026",
+  "subject": "ChatGPT Back to School offer",
+  "source_urls": [
+    "https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "81489171ac16136cbd5faefbe5301687b5e46cc4da579e241ce8cb841224eea4",
+  "image_sha256": "0340c50747566e2254bd4c10bef2f010a999b8fde7de892ee1b628b43723e3bb",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
