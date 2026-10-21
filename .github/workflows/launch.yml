@@ -5,7 +5,7 @@ on:
       text:
         required: true
       media:
-        description: "Comma-separated repo paths: one .mp4 OR up to 4 images"
+        description: "Comma-separated repo paths: repo paths or HTTPS URLs: one .mp4 OR up to 4 images"
         required: false
         default: ""
       reply_to:
@@ -25,7 +25,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests requests-oauthlib
+      - run: pip install requests requests-oauthlib pillow
       - name: Post
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
