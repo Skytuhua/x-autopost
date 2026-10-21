@@ -9,12 +9,24 @@ s = OAuth1Session(os.environ['X_API_KEY'], os.environ['X_API_SECRET'],
                   os.environ['X_ACCESS_TOKEN'], os.environ['X_ACCESS_TOKEN_SECRET'])
 text = os.environ.get('POST_TEXT', '')
 reply_to = os.environ.get('REPLY_TO', '').strip()
-paths = [p.strip() for p in os.environ.get('POST_MEDIA', '').split(',') if p.strip()]
+import requests, tempfile
+paths = []
+for item in [p.strip() for p in os.environ.get('POST_MEDIA', '').split(',') if p.strip()]:
+    if item.startswith('https://'):
+        ext = Path(item.split('?')[0]).suffix or '.bin'
+        r = requests.get(item, timeout=60); r.raise_for_status()
+        f = tempfile.NamedTemporaryFile(delete=False, suffix=ext); f.write(r.content); f.close()
+        paths.append(f.name)
+    else:
+        paths.append(item)
 log = []
 
 def upload_image(p):
     data = Path(p).read_bytes()
     mt = mimetypes.guess_type(p)[0] or 'image/png'
+    if mt == 'image/webp':
+        from PIL import Image; import io
+        buf = io.BytesIO(); Image.open(p).convert('RGB').save(buf, 'PNG'); data = buf.getvalue(); mt = 'image/png'
     r = s.post(f'{API}/media/upload', files={'media': (Path(p).name, data, mt)},
                data={'media_category': 'tweet_image', 'media_type': mt}, timeout=60)
     log.append(['image', r.status_code, r.text[:300]])
@@ -45,7 +57,7 @@ def upload_video(p):
     return mid
 
 result = {'time': datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z'), 'text': text,
-          'media': paths, 'reply_to': reply_to, 'manual_launch': True}
+          'media': os.environ.get('POST_MEDIA', ''), 'reply_to': reply_to, 'manual_launch': True}
 try:
     ids = [upload_video(p) if p.lower().endswith('.mp4') else upload_image(p) for p in paths]
     payload = {'text': text}
