@@ -1,39 +1,31 @@
 {
- "time": "2026-10-21T23:27:52.715698Z",
- "text": "I just released Citrus, a free and open-source Windows app for converting and editing files. Images, video, audio, PDFs, docs. Everything runs on your PC, nothing gets uploaded.\n\nPublic preview is out now at citrous.app",
- "media": "https://citrous.app/assets/launch-v1/citrus-launch-10s.mp4",
- "reply_to": "",
+ "time": "2026-10-21T23:29:31.545211Z",
+ "text": "Drag a file and hold Shift, and a wheel of formats shows up right by your cursor. There are small editors too: trim a clip, crop a photo, give a screenshot a background. Code is on GitHub at Skytuhua/Citrus",
+ "media": "https://citrous.app/assets/seo-v1/product/product-hero-1280.webp,https://citrous.app/assets/seo-v1/product/image-editor-1280.webp,https://citrous.app/assets/seo-v1/product/video-editor-1280.webp",
+ "reply_to": "2113049673472594058",
  "manual_launch": true,
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113049673472594058\",\"text\":\"I just released Citrus, a free and open-source Windows app for converting and editing files. Images, video, audio, PDFs, docs. Everything runs on your PC, nothing gets uploaded.\\n\\nPublic preview is out now at https://t.co/UcPzIK5X8z https://t.co/1UO8AqG1Wf\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113050084153978906\",\"text\":\"Drag a file and hold Shift, and a wheel of formats shows up right by your cursor. There are small editors too: trim a clip, crop a photo, give a screenshot a background. Code is on GitHub at Skytuhua/Citrus https://t.co/lnuNgwSCLt\"}}",
  "media_ids": [
-  "2113049662898700288"
+  "2113050078076342272",
+  "2113050079888343041",
+  "2113050081528315904"
  ],
  "upload_log": [
   [
-   "init",
+   "image",
    200,
-   "{\"data\":{\"expires_after_secs\":86399,\"id\":\"2113049662898700288\",\"media_key\":\"7_2113049662898700288\"}}"
+   "{\"data\":{\"expires_after_secs\":86400,\"id\":\"2113050078076342272\",\"image\":{\"h\":800,\"image_type\":\"image/jpeg\",\"w\":1280},\"media_key\":\"3_2113050078076342272\",\"size\":119884}}"
   ],
   [
-   "append",
+   "image",
    200,
-   "{\"data\":{\"expires_at\":1792711672858}}"
+   "{\"data\":{\"expires_after_secs\":86400,\"id\":\"2113050079888343041\",\"image\":{\"h\":800,\"image_type\":\"image/jpeg\",\"w\":1280},\"media_key\":\"3_2113050079888343041\",\"size\":118403}}"
   ],
   [
-   "finalize",
+   "image",
    200,
-   "{\"data\":{\"expires_after_secs\":86400,\"id\":\"2113049662898700288\",\"media_key\":\"7_2113049662898700288\",\"processing_info\":{\"check_after_secs\":1,\"state\":\"pending\"},\"size\":788890}}"
-  ],
-  [
-   "status",
-   200,
-   "{\"data\":{\"id\":\"2113049662898700288\",\"media_key\":\"7_2113049662898700288\",\"processing_info\":{\"check_after_secs\":1,\"progress_percent\":75,\"state\":\"in_progress\"}}}"
-  ],
-  [
-   "status",
-   200,
-   "{\"data\":{\"expires_after_secs\":86399,\"id\":\"2113049662898700288\",\"media_key\":\"7_2113049662898700288\",\"processing_info\":{\"progress_percent\":100,\"state\":\"succeeded\"},\"size\":788890}}"
+   "{\"data\":{\"expires_after_secs\":86400,\"id\":\"2113050081528315904\",\"image\":{\"h\":800,\"image_type\":\"image/jpeg\",\"w\":1280},\"media_key\":\"3_2113050081528315904\",\"size\":94286}}"
   ]
  ]
 }
