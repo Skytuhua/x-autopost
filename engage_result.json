@@ -1,25 +1,7 @@
 {
- "time": "2026-10-22T05:16:57.833081Z",
+ "time": "2026-10-22T07:22:27.348327Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": [
-  {
-   "user": "nvidia",
-   "created_at": "2026-10-22T05:13:02.000Z",
-   "edit_history_tweet_ids": [
-    "2113136526645493791"
-   ],
-   "id": "2113136526645493791",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 828,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Read the news \u2b07\ufe0f https://t.co/oVWyhMG8lM"
-  }
- ]
+ "posts": []
 }
