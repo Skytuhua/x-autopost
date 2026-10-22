@@ -1,7 +1,25 @@
 {
- "time": "2026-10-22T15:17:49.244126Z",
- "action": "repost",
- "target": "2113278710795153785",
+ "time": "2026-10-22T17:16:19.218972Z",
+ "action": "scan",
+ "target": "",
  "status": 200,
- "body": "{\"data\":{\"rest_id\":\"2113288723961917440\",\"retweeted\":true}}"
+ "posts": [
+  {
+   "user": "OpenAI",
+   "created_at": "2026-10-22T15:57:59.000Z",
+   "edit_history_tweet_ids": [
+    "2113298833392496746"
+   ],
+   "id": "2113298833392496746",
+   "public_metrics": {
+    "bookmark_count": 111,
+    "impression_count": 126341,
+    "like_count": 1208,
+    "quote_count": 38,
+    "reply_count": 159,
+    "retweet_count": 74
+   },
+   "text": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks. \n\nTheir findings helped strengthen safeguards as we expanded the system and will help shape future https://t.co/F9DSyjEOr1"
+  }
+ ]
 }
