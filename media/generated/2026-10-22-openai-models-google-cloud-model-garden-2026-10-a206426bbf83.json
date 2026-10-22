@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "openai-models-google-cloud-model-garden-2026-10",
+  "subject": "OpenAI models on Google Cloud",
+  "source_urls": [
+    "https://www.thehindubusinessline.com/news/openai-partners-with-google-cloud-to-offer-ai-models-codex-workflows/article71610243.ece"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "0fa4387d1b53b52424406f253dc79dd14f565d7b20187f00834f5a0783dcac2e",
+  "image_sha256": "f2f27a4446818ef0ee5882ea27920d82c1ab8f14706ad16d5afabfb276e3e7cc",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

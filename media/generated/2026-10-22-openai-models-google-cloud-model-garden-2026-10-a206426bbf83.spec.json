@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "story_id": "openai-models-google-cloud-model-garden-2026-10",
+  "story_type": "policy",
+  "subject": "OpenAI models on Google Cloud",
+  "headline": "OpenAI models come to Google Cloud",
+  "source": {
+    "name": "Reuters via The Hindu BusinessLine",
+    "url": "https://www.thehindubusinessline.com/news/openai-partners-with-google-cloud-to-offer-ai-models-codex-workflows/article71610243.ece"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.thehindubusinessline.com/news/openai-partners-with-google-cloud-to-offer-ai-models-codex-workflows/article71610243.ece",
+      "actor": "OpenAI",
+      "action": "Brings frontier models and Codex to Google Cloud",
+      "status": "confirmed",
+      "targets": [
+        "Google Cloud Model Garden",
+        "Google Cloud Marketplace"
+      ],
+      "topics": [
+        "Buy with GCP commitments",
+        "Antigravity and Gemini Agent soon"
+      ]
+    }
+  }
+}
