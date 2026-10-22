@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "php2shell-critical-flaws",
+  "subject": "PHP2Shell critical PHP vulnerabilities",
+  "source_urls": [
+    "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "2528a6b9e37073e7783d850e026b955d1cae9c65ae31e5a526b3eb3381f68c53",
+  "image_sha256": "2cd76e1d8a426da5ed80c9fba1203343a641444e14bdd6ab5b1e163582161a79",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

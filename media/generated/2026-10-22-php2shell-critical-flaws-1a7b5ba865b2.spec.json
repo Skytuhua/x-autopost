@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "story_id": "php2shell-critical-flaws",
+  "story_type": "security",
+  "subject": "PHP2Shell critical PHP vulnerabilities",
+  "headline": "Two critical PHP flaws prompt global alerts",
+  "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+      "actor": "NSA, FBI and allied agencies",
+      "action": "Urge patching of two critical PHP flaws",
+      "status": "confirmed",
+      "targets": [
+        "Websites and servers running PHP"
+      ],
+      "topics": [
+        "Remote code execution",
+        "PHP2Shell"
+      ]
+    }
+  }
+}
