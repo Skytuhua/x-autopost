@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "ibm-q3-2026-results",
+  "subject": "IBM third-quarter 2026 results",
+  "source_urls": [
+    "https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "c167257208294ca1661317b8dd8d7841b94fd53f0e451b58e796bb6e2b7cfb99",
+  "image_sha256": "2e926b1278065f97034e2bdacaed69a2c58057958ea6bbe33d99d786d2cc10f5",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "ibm-q3-2026-results",
+  "story_type": "earnings",
+  "subject": "IBM third-quarter 2026 results",
+  "headline": "IBM Q3 revenue up 5%",
+  "source": {
+    "name": "IBM Newsroom",
+    "url": "https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS",
+      "value": "$17.1B",
+      "label": "IBM third-quarter revenue",
+      "period": "Q3 2026",
+      "change": "+5%",
+      "change_label": "vs Q3 2025, +6% constant currency"
+    }
+  }
+}
