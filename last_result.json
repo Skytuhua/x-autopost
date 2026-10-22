@@ -1,33 +1,33 @@
 {
- "time": "2026-10-22T08:16:16.683078Z",
- "text": "Tesla started making its Optimus humanoid robot at its Fremont factory, it said in its Q3 letter. Net income fell 43% to $787 million on flat revenue of $28.04 billion. Musk claims Tesla will build 20,000 Optimus a week by the end of 2027.",
+ "time": "2026-10-22T08:18:20.356327Z",
+ "text": "Walmart launched Agent Gateway, a server that lets approved AI agents search its inventory and buy for shoppers. Agent Profiles arrive next month, so you can approve each purchase or set a spending limit per agent. Walmart says returns still apply if an agent gets it wrong.",
  "media": [
-  "media/generated/2026-10-22-tesla-q3-2026-optimus-production-57d259399d98.png"
+  "media/generated/2026-10-22-walmart-agent-gateway-agent-profiles-0e4a40008534.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2113182639964274689"
+  "2113183159097421824"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113182641587388673\",\"text\":\"Tesla started making its Optimus humanoid robot at its Fremont factory, it said in its Q3 letter. Net income fell 43% to $787 million on flat revenue of $28.04 billion. Musk claims Tesla will build 20,000 Optimus a week by the end of 2027. https://t.co/tQJUBRm5Xs\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113183160804524160\",\"text\":\"Walmart launched Agent Gateway, a server that lets approved AI agents search its inventory and buy for shoppers. Agent Profiles arrive next month, so you can approve each purchase or set a spending limit per agent. Walmart says returns still apply if an agent gets it wrong. https://t.co/AxKD2VRd0C\"}}",
  "visual": {
-  "family": "financial",
-  "variant": "statement",
-  "palette": "ink",
-  "story_id": "tesla-q3-2026-optimus-production",
-  "subject": "Tesla Q3 2026 results and Optimus production",
+  "family": "research",
+  "variant": "flow",
+  "palette": "clay",
+  "story_id": "walmart-agent-gateway-agent-profiles",
+  "subject": "Walmart Agent Gateway and Agent Profiles",
   "source_urls": [
-   "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+   "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "2818cc446642cc69760df1de1c84a446168b5d65b5cab27aa591bed4d87ca18e",
-  "image_sha256": "2f90821f6cebf25d80671e9998fe28a3da0c0c8cb12a38e63be9f88a810649ec",
+  "content_sha256": "aa50ee39a1dd4a7700ef83aa63ea302604de20bfacfa9735e5331e76694b9703",
+  "image_sha256": "b18c5960ceacaed92484d4827297a5d261c5544d6625f2b346ee9fb331411132",
   "qa": {
    "width": 1600,
    "height": 900,

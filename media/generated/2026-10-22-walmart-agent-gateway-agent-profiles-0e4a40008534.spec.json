@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "story_id": "walmart-agent-gateway-agent-profiles",
+  "story_type": "product_launch",
+  "subject": "Walmart Agent Gateway and Agent Profiles",
+  "headline": "Walmart opens its store to AI agents",
+  "source": {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+  },
+  "content": {
+    "research": {
+      "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "conclusion": "Walmart is welcoming AI shopping agents while Amazon blocks them.",
+      "steps": [
+        {
+          "title": "Agent Gateway",
+          "detail": "A new MCP server lets approved agents search Walmart inventory and buy for users.",
+          "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+        },
+        {
+          "title": "Agent Profiles",
+          "detail": "Each agent gets its own profile and purchase history. Rolls out next month.",
+          "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+        },
+        {
+          "title": "Spending controls",
+          "detail": "Shoppers approve each purchase or set a spending limit.",
+          "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+        },
+        {
+          "title": "Agent terms",
+          "detail": "Returns still apply. Agents that break the terms get blocked.",
+          "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+        }
+      ]
+    }
+  }
+}

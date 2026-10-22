@@ -1,0 +1,36 @@
+{
+  "family": "research",
+  "variant": "flow",
+  "palette": "clay",
+  "story_id": "walmart-agent-gateway-agent-profiles",
+  "subject": "Walmart Agent Gateway and Agent Profiles",
+  "source_urls": [
+    "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "aa50ee39a1dd4a7700ef83aa63ea302604de20bfacfa9735e5331e76694b9703",
+  "image_sha256": "b18c5960ceacaed92484d4827297a5d261c5544d6625f2b346ee9fb331411132",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
