@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "vercel-baseten-mammoth-elephant-free-gateway",
+  "story_type": "offer",
+  "subject": "Baseten Mammoth-1 and Elephant-1 free on Vercel AI Gateway",
+  "headline": "Two Baseten models free on AI Gateway",
+  "source": {
+    "name": "Vercel changelog",
+    "url": "https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free"
+  },
+  "content": {
+    "offer": {
+      "source_url": "https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free",
+      "benefit": "Free use of Mammoth-1 (27B) and Elephant-1 (9B)",
+      "eligibility": "Developers calling baseten/mammoth-1 or baseten/elephant-1 through Vercel AI Gateway",
+      "deadline": "Free through October 27, 2026"
+    }
+  }
+}

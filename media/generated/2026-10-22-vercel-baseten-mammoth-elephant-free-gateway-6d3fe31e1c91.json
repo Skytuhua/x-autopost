@@ -1,0 +1,36 @@
+{
+  "family": "offer",
+  "variant": "split",
+  "palette": "acid",
+  "story_id": "vercel-baseten-mammoth-elephant-free-gateway",
+  "subject": "Baseten Mammoth-1 and Elephant-1 free on Vercel AI Gateway",
+  "source_urls": [
+    "https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "a79e39110c3cb80ec0b1ea73eaa35867fbce56846c6a29a7e9e25bd159d9c0f6",
+  "image_sha256": "ab734b68ec780cacdddbc5ece662793bdcc9f5f443010877149c2f11266b7a49",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
