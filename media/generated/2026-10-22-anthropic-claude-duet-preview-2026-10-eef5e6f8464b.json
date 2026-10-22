@@ -1,0 +1,36 @@
+{
+  "family": "research",
+  "variant": "vertical",
+  "palette": "clay",
+  "story_id": "anthropic-claude-duet-preview-2026-10",
+  "subject": "Claude Duet",
+  "source_urls": [
+    "https://claude.com/resources/articles/claude-duet"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "75eccc7bd97315b6aa02f7a07dd4947ea914e45194a4f9ceb3f49171201627ef",
+  "image_sha256": "01861668786e82fe66842872e3334ae217fe37bdc34c6c55633241846365ab28",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

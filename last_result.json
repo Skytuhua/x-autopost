@@ -1,33 +1,33 @@
 {
- "time": "2026-10-22T07:49:11.867088Z",
- "text": "Flapping Airplanes raised a $1 billion Series A co-led by Index and Lux, at a reported $6 billion valuation. That's four times the $1.5 billion it was valued at in its seed round nine months ago.",
+ "time": "2026-10-22T07:54:37.564424Z",
+ "text": "Anthropic opened a waitlist research preview of Claude Duet, an agent app that sends a daily brief, watches your connected apps and works on tasks in the background. It asks before it sends or pays. US Pro and Max users go first.",
  "media": [
-  "media/generated/2026-10-22-flapping-airplanes-1b-series-a-2026-10-8d0c1690e4fd.png"
+  "media/generated/2026-10-22-anthropic-claude-duet-preview-2026-10-eef5e6f8464b.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2113175824837062656"
+  "2113177190796066816"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113175826523160961\",\"text\":\"Flapping Airplanes raised a $1 billion Series A co-led by Index and Lux, at a reported $6 billion valuation. That's four times the $1.5 billion it was valued at in its seed round nine months ago. https://t.co/uGeqiQlyoK\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113177192339513797\",\"text\":\"Anthropic opened a waitlist research preview of Claude Duet, an agent app that sends a daily brief, watches your connected apps and works on tasks in the background. It asks before it sends or pays. US Pro and Max users go first. https://t.co/zlRa3QO5hS\"}}",
  "visual": {
-  "family": "financial",
-  "variant": "split",
-  "palette": "ink",
-  "story_id": "flapping-airplanes-1b-series-a-2026-10",
-  "subject": "Flapping Airplanes",
+  "family": "research",
+  "variant": "vertical",
+  "palette": "clay",
+  "story_id": "anthropic-claude-duet-preview-2026-10",
+  "subject": "Claude Duet",
   "source_urls": [
-   "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+   "https://claude.com/resources/articles/claude-duet"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "4766a66a34ee6a8c66b2ad5a7e8a348c74477cc3925c484d3ca16575d960d616",
-  "image_sha256": "4236ed503667e91633f364e5594309327d5cef4d7a3226aba48a54798629db61",
+  "content_sha256": "75eccc7bd97315b6aa02f7a07dd4947ea914e45194a4f9ceb3f49171201627ef",
+  "image_sha256": "01861668786e82fe66842872e3334ae217fe37bdc34c6c55633241846365ab28",
   "qa": {
    "width": 1600,
    "height": 900,

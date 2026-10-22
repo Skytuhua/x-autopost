@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "story_id": "anthropic-claude-duet-preview-2026-10",
+  "story_type": "product_launch",
+  "subject": "Claude Duet",
+  "headline": "Claude Duet: a proactive agent app",
+  "source": {
+    "name": "Anthropic",
+    "url": "https://claude.com/resources/articles/claude-duet"
+  },
+  "content": {
+    "research": {
+      "source_url": "https://claude.com/resources/articles/claude-duet",
+      "conclusion": "Waitlist preview for US Pro and Max users",
+      "steps": [
+        {
+          "title": "Morning brief",
+          "detail": "Sends a short rundown of what matters across connected apps",
+          "source_url": "https://claude.com/resources/articles/claude-duet"
+        },
+        {
+          "title": "Watches your apps",
+          "detail": "Checks every few hours, messages only when needed",
+          "source_url": "https://claude.com/resources/articles/claude-duet"
+        },
+        {
+          "title": "Works in background",
+          "detail": "Runs tasks on its own virtual machine",
+          "source_url": "https://claude.com/resources/articles/claude-duet"
+        },
+        {
+          "title": "Asks before acting",
+          "detail": "Shows sends, payments and deletes for approval",
+          "source_url": "https://claude.com/resources/articles/claude-duet"
+        }
+      ]
+    }
+  }
+}
