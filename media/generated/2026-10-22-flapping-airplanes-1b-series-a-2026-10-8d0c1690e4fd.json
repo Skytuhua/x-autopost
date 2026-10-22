@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "flapping-airplanes-1b-series-a-2026-10",
+  "subject": "Flapping Airplanes",
+  "source_urls": [
+    "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "4766a66a34ee6a8c66b2ad5a7e8a348c74477cc3925c484d3ca16575d960d616",
+  "image_sha256": "4236ed503667e91633f364e5594309327d5cef4d7a3226aba48a54798629db61",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

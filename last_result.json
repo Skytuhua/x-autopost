@@ -1,14 +1,52 @@
 {
- "time": "2026-10-22T07:21:41.876489Z",
- "text": "Recursive released Flint, a free open-weight coding model that runs on a laptop. It's under Apache 2.0 on Hugging Face. Recursive says it hits 125+ tokens per second on an M4 Pro MacBook Pro and was built largely by its AI research system.",
- "media": [],
+ "time": "2026-10-22T07:49:11.867088Z",
+ "text": "Flapping Airplanes raised a $1 billion Series A co-led by Index and Lux, at a reported $6 billion valuation. That's four times the $1.5 billion it was valued at in its seed round nine months ago.",
+ "media": [
+  "media/generated/2026-10-22-flapping-airplanes-1b-series-a-2026-10-8d0c1690e4fd.png"
+ ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: Recursive says Flint runs at 125+ tokens/s on an M"
+ "warnings": [],
+ "media_ids": [
+  "2113175824837062656"
  ],
- "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113168903933481464\",\"text\":\"Recursive released Flint, a free open-weight coding model that runs on a laptop. It's under Apache 2.0 on Hugging Face. Recursive says it hits 125+ tokens per second on an M4 Pro MacBook Pro and was built largely by its AI research system.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113175826523160961\",\"text\":\"Flapping Airplanes raised a $1 billion Series A co-led by Index and Lux, at a reported $6 billion valuation. That's four times the $1.5 billion it was valued at in its seed round nine months ago. https://t.co/uGeqiQlyoK\"}}",
+ "visual": {
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "flapping-airplanes-1b-series-a-2026-10",
+  "subject": "Flapping Airplanes",
+  "source_urls": [
+   "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+  ],
+  "dimensions": [
+   1600,
+   900
+  ],
+  "content_sha256": "4766a66a34ee6a8c66b2ad5a7e8a348c74477cc3925c484d3ca16575d960d616",
+  "image_sha256": "4236ed503667e91633f364e5594309327d5cef4d7a3226aba48a54798629db61",
+  "qa": {
+   "width": 1600,
+   "height": 900,
+   "issues": [],
+   "fonts": [
+    {
+     "family": "Manrope",
+     "status": "loaded"
+    },
+    {
+     "family": "Space",
+     "status": "loaded"
+    },
+    {
+     "family": "Instrument",
+     "status": "loaded"
+    }
+   ]
+  },
+  "warnings": []
+ }
 }

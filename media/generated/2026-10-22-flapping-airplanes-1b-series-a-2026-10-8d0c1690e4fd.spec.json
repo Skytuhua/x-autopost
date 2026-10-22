@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "flapping-airplanes-1b-series-a-2026-10",
+  "story_type": "funding",
+  "subject": "Flapping Airplanes",
+  "headline": "Flapping Airplanes raises $1B Series A",
+  "source": {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "value": "$1B",
+      "label": "Series A, co-led by Index and Lux",
+      "period": "Announced Oct 21, 2026",
+      "change": "4x",
+      "change_label": "Reported $6B valuation vs $1.5B at seed"
+    }
+  }
+}
