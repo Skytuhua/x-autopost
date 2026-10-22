@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "tesla-q3-2026-optimus-production",
+  "subject": "Tesla Q3 2026 results and Optimus production",
+  "source_urls": [
+    "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "2818cc446642cc69760df1de1c84a446168b5d65b5cab27aa591bed4d87ca18e",
+  "image_sha256": "2f90821f6cebf25d80671e9998fe28a3da0c0c8cb12a38e63be9f88a810649ec",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

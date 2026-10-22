@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "tesla-q3-2026-optimus-production",
+  "story_type": "earnings",
+  "subject": "Tesla Q3 2026 results and Optimus production",
+  "headline": "Tesla profit falls 43% as Optimus starts",
+  "source": {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "value": "$787M",
+      "label": "Tesla Q3 2026 net income",
+      "period": "Q3 2026",
+      "change": "-43%",
+      "change_label": "vs $1.37 billion in Q3 2025"
+    }
+  }
+}
