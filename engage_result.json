@@ -1,25 +1,25 @@
 {
- "time": "2026-10-22T21:16:28.911443Z",
+ "time": "2026-10-22T23:16:19.429899Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "demishassabis",
-   "created_at": "2026-10-22T19:30:21.000Z",
+   "user": "AnthropicAI",
+   "created_at": "2026-10-22T22:01:06.000Z",
    "edit_history_tweet_ids": [
-    "2113352276026990972"
+    "2113390212911083894"
    ],
-   "id": "2113352276026990972",
+   "id": "2113390212911083894",
    "public_metrics": {
-    "bookmark_count": 83,
-    "impression_count": 31335,
-    "like_count": 909,
-    "quote_count": 7,
-    "reply_count": 63,
-    "retweet_count": 54
+    "bookmark_count": 698,
+    "impression_count": 94273,
+    "like_count": 1718,
+    "quote_count": 73,
+    "reply_count": 173,
+    "retweet_count": 146
    },
-   "text": "Honoured to be featured in the @WSJ Innovators Issue. I\u2019ve always believed in the power of human ingenuity to solve our hardest problems. I\u2019m confident we can collectively navigate the potential challenges of frontier models and usher in a new golden age of scientific discovery! https://t.co/44e74aJppd"
+   "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models,"
   }
  ]
 }
