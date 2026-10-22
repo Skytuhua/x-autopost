@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "meta-q3-2026-results",
+  "subject": "Meta Platforms Q3 2026 results",
+  "source_urls": [
+    "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "3355b24f96f8875ba9bbad44a5e81cec92b4619fcab80bbc4c92aa693a0b964b",
+  "image_sha256": "8bb8fef082edf8e4311a05aae2333f66993153325ec38fb750dcfdb868e8b7ce",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

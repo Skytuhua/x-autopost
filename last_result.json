@@ -1,33 +1,33 @@
 {
- "time": "2026-10-21T10:16:36.940368Z",
- "text": "NVIDIA released new open models at GTC Berlin, available on Hugging Face. They include Nemotron 3.5 Super VL for text and images, Nemotron Retriever for search and document parsing, and Kumo for business data predictions. Nemotron 3.5 Bolt is due Oct 23.",
+ "time": "2026-10-22T07:18:15.835854Z",
+ "text": "Meta reported Q3 revenue of $64.6 billion, up 26%, and narrowed its 2026 capex guidance to $135-145 billion. It also plans a new non-voting Class C stock, effective January 2027, to help fund AI spending.",
  "media": [
-  "media/generated/2026-10-21-nvidia-open-models-gtc-berlin-oct-2026-db9b37235cdd.png"
+  "media/generated/2026-10-22-meta-q3-2026-results-9675b0ddec94.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2112850539151028224"
+  "2113168041345171456"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2112850541034238282\",\"text\":\"NVIDIA released new open models at GTC Berlin, available on Hugging Face. They include Nemotron 3.5 Super VL for text and images, Nemotron Retriever for search and document parsing, and Kumo for business data predictions. Nemotron 3.5 Bolt is due Oct 23. https://t.co/FcSBzZNkde\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113168042859336109\",\"text\":\"Meta reported Q3 revenue of $64.6 billion, up 26%, and narrowed its 2026 capex guidance to $135-145 billion. It also plans a new non-voting Class C stock, effective January 2027, to help fund AI spending. https://t.co/qaZtkdct58\"}}",
  "visual": {
-  "family": "product",
-  "variant": "image-first",
-  "palette": "ivory",
-  "story_id": "nvidia-open-models-gtc-berlin-oct-2026",
-  "subject": "NVIDIA open models at GTC Berlin",
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "meta-q3-2026-results",
+  "subject": "Meta Platforms Q3 2026 results",
   "source_urls": [
-   "https://blogs.nvidia.com/blog/open-models-europe-industry/"
+   "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "66bb53a9f213981582c869c5dac55c5b227f8a1614442edb7abe540c95cbaeed",
-  "image_sha256": "8e36d7591ceb0d12e1d30fe8d975b9895cc3eb800a2828a9c75cc9f7b8df1c86",
+  "content_sha256": "3355b24f96f8875ba9bbad44a5e81cec92b4619fcab80bbc4c92aa693a0b964b",
+  "image_sha256": "8bb8fef082edf8e4311a05aae2333f66993153325ec38fb750dcfdb868e8b7ce",
   "qa": {
    "width": 1600,
    "height": 900,
@@ -47,9 +47,6 @@
     }
    ]
   },
-  "warnings": [],
-  "asset_credit": "NVIDIA",
-  "asset_kind": "official",
-  "asset_subject": "NVIDIA's official key visual published with the Oct 21, 2026 open models announcement at GTC Berlin"
+  "warnings": []
  }
 }

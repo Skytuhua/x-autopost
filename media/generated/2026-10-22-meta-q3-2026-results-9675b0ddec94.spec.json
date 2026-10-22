@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "meta-q3-2026-results",
+  "story_type": "earnings",
+  "subject": "Meta Platforms Q3 2026 results",
+  "headline": "Meta Q3 revenue up 26%",
+  "source": {
+    "name": "Meta Investor Relations",
+    "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+      "value": "$64.6B",
+      "label": "Meta third-quarter revenue",
+      "period": "Quarter ended Sep 30, 2026",
+      "change": "+26%",
+      "change_label": "vs $51.2B in Q3 2025"
+    }
+  }
+}
