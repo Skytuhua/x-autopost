@@ -1,7 +1,25 @@
 {
- "time": "2026-10-23T18:46:21.478191Z",
+ "time": "2026-10-23T20:46:16.732120Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": []
+ "posts": [
+  {
+   "user": "OpenAI",
+   "created_at": "2026-10-23T19:46:46.000Z",
+   "edit_history_tweet_ids": [
+    "2113718797505036665"
+   ],
+   "id": "2113718797505036665",
+   "public_metrics": {
+    "bookmark_count": 483,
+    "impression_count": 208332,
+    "like_count": 2509,
+    "quote_count": 152,
+    "reply_count": 277,
+    "retweet_count": 183
+   },
+   "text": "Over the past several months, we have substantially hardened the security of our research training environment. We\u2019ve removed live internet access for all frontier models during training and built an offline world for them to use instead\u2014a cached version of the web where they can"
+  }
+ ]
 }
