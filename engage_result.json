@@ -1,7 +1,25 @@
 {
- "time": "2026-10-23T14:48:09.443214Z",
- "action": "repost",
- "target": "2113626655902126442",
+ "time": "2026-10-23T16:47:21.533842Z",
+ "action": "scan",
+ "target": "",
  "status": 200,
- "body": "{\"data\":{\"rest_id\":\"2113643646696251832\",\"retweeted\":true}}"
+ "posts": [
+  {
+   "user": "GoogleDeepMind",
+   "created_at": "2026-10-23T14:57:21.000Z",
+   "edit_history_tweet_ids": [
+    "2113645959762575623"
+   ],
+   "id": "2113645959762575623",
+   "public_metrics": {
+    "bookmark_count": 152,
+    "impression_count": 33994,
+    "like_count": 616,
+    "quote_count": 34,
+    "reply_count": 120,
+    "retweet_count": 34
+   },
+   "text": "Using a single Nano Banana image and Blender MCP, Gemini 4 Argon built a 3D Gothic cathedral in @Antigravity.\n\nIt iterates on the geometry, textures, and lighting to create the finished scene. https://t.co/3FKaEZ65Jx"
+  }
+ ]
 }

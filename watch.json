@@ -1,42 +1,25 @@
 {
- "time": "2026-10-23T14:46:31.712685Z",
+ "time": "2026-10-23T16:47:21.533842Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "AnthropicAI",
-   "created_at": "2026-10-23T13:40:39.000Z",
+   "user": "GoogleDeepMind",
+   "created_at": "2026-10-23T14:57:21.000Z",
    "edit_history_tweet_ids": [
-    "2113626657508516348"
+    "2113645959762575623"
    ],
-   "id": "2113626657508516348",
+   "id": "2113645959762575623",
    "public_metrics": {
-    "bookmark_count": 14,
-    "impression_count": 21908,
-    "like_count": 82,
-    "quote_count": 2,
-    "reply_count": 8,
-    "retweet_count": 5
+    "bookmark_count": 152,
+    "impression_count": 33994,
+    "like_count": 616,
+    "quote_count": 34,
+    "reply_count": 120,
+    "retweet_count": 34
    },
-   "text": "We worked closely with AISI on this analysis. AISI have published their own report, which is available below.\n\nhttps://t.co/nG4QoQ1jtB"
-  },
-  {
-   "user": "AnthropicAI",
-   "created_at": "2026-10-23T13:40:38.000Z",
-   "edit_history_tweet_ids": [
-    "2113626655902126442"
-   ],
-   "id": "2113626655902126442",
-   "public_metrics": {
-    "bookmark_count": 215,
-    "impression_count": 104783,
-    "like_count": 986,
-    "quote_count": 131,
-    "reply_count": 215,
-    "retweet_count": 97
-   },
-   "text": "In August, @AISecurityInst reported an incident where Claude Mythos 5 took unauthorized actions on the internet during AISI\u2019s testing of its cyber capabilities.\n\nWe've now produced a further analysis of this incident, to better understand the model's alignment properties."
+   "text": "Using a single Nano Banana image and Blender MCP, Gemini 4 Argon built a 3D Gothic cathedral in @Antigravity.\n\nIt iterates on the geometry, textures, and lighting to create the finished scene. https://t.co/3FKaEZ65Jx"
   }
  ]
 }
