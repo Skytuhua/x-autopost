@@ -1,9 +1,5 @@
 {
- "time": "2026-10-23T16:47:22.966607Z",
- "status": 200,
- "body": {
-  "meta": {
-   "result_count": 0
-  }
- }
+ "time": "2026-10-23T17:16:14.854890Z",
+ "status": 503,
+ "body": "upstream connect error or disconnect/reset before headers. reset reason: remote refused stream reset"
 }
