@@ -1,25 +1,42 @@
 {
- "time": "2026-10-23T12:47:34.943256Z",
+ "time": "2026-10-23T14:46:31.712685Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "nvidia",
-   "created_at": "2026-10-23T12:12:30.000Z",
+   "user": "AnthropicAI",
+   "created_at": "2026-10-23T13:40:39.000Z",
    "edit_history_tweet_ids": [
-    "2113604477261398148"
+    "2113626657508516348"
    ],
-   "id": "2113604477261398148",
+   "id": "2113626657508516348",
    "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 11047,
-    "like_count": 71,
-    "quote_count": 0,
-    "reply_count": 9,
-    "retweet_count": 9
+    "bookmark_count": 14,
+    "impression_count": 21908,
+    "like_count": 82,
+    "quote_count": 2,
+    "reply_count": 8,
+    "retweet_count": 5
    },
-   "text": "A country\u2019s data carries its culture, history, and values. It belongs to its people.\n\n@JensenHuang on why that knowledge is a natural resource for Kazakhstan\u2019s AI future. https://t.co/DAUKonWb6h"
+   "text": "We worked closely with AISI on this analysis. AISI have published their own report, which is available below.\n\nhttps://t.co/nG4QoQ1jtB"
+  },
+  {
+   "user": "AnthropicAI",
+   "created_at": "2026-10-23T13:40:38.000Z",
+   "edit_history_tweet_ids": [
+    "2113626655902126442"
+   ],
+   "id": "2113626655902126442",
+   "public_metrics": {
+    "bookmark_count": 215,
+    "impression_count": 104783,
+    "like_count": 986,
+    "quote_count": 131,
+    "reply_count": 215,
+    "retweet_count": 97
+   },
+   "text": "In August, @AISecurityInst reported an incident where Claude Mythos 5 took unauthorized actions on the internet during AISI\u2019s testing of its cyber capabilities.\n\nWe've now produced a further analysis of this incident, to better understand the model's alignment properties."
   }
  ]
 }
