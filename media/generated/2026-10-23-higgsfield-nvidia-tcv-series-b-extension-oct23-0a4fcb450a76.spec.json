@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "higgsfield-nvidia-tcv-series-b-extension-oct23",
+  "story_type": "funding",
+  "subject": "Higgsfield Series B extension",
+  "headline": "Nvidia, TCV back Higgsfield",
+  "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension",
+      "value": "$5.4B",
+      "label": "Valuation at August Series B",
+      "period": "Series B, Aug 2026",
+      "change": "40M+ users",
+      "change_label": "Registered users, per Higgsfield"
+    }
+  }
+}

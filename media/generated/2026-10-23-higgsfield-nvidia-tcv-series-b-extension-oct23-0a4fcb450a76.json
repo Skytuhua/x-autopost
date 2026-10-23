@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "higgsfield-nvidia-tcv-series-b-extension-oct23",
+  "subject": "Higgsfield Series B extension",
+  "source_urls": [
+    "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "7eae9520ab6b916e1baebca5a3f9201179c4602d955640a491ed07d1652633a5",
+  "image_sha256": "b4c367732d0935234999d8f8b88a7c1d3345aaf4768ccc75c5665dc9f1d5c231",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
