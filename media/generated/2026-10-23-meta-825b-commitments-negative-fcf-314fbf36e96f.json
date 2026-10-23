@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "meta-825b-commitments-negative-fcf",
+  "subject": "Meta future lease and contract commitments",
+  "source_urls": [
+    "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "b105faba63c9e79f266c49ecf4ddcc83a25d1a003a2699d736ad5813786dc060",
+  "image_sha256": "5b2f0fc9b8b9b13609b1c45970324ccf6e9c61d70e3b8eb5d5adbb5e36a3b838",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

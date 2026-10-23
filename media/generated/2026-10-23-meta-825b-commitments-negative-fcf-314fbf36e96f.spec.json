@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "meta-825b-commitments-negative-fcf",
+  "story_type": "earnings",
+  "subject": "Meta future lease and contract commitments",
+  "headline": "Meta has $825B in future commitments",
+  "source": {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498",
+      "value": "$824.9B",
+      "label": "Meta leases and contract commitments",
+      "period": "Q3 2026 filing",
+      "change": "Negative FCF",
+      "change_label": "Q3 free cash flow after ~$35B capex, reportedly a first"
+    }
+  }
+}

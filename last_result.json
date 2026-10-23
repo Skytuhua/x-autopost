@@ -1,33 +1,33 @@
 {
- "time": "2026-10-23T07:16:20.846866Z",
- "text": "Reuters reports DeepSeek and MiniMax have won state approval to use their AI models overseas, citing a post from an account tied to Chinese state TV. Beijing proposed export controls on 23 AI technologies on Oct 16.",
+ "time": "2026-10-23T07:17:37.931894Z",
+ "text": "Meta's filing shows about $825 billion in future lease and contract commitments, including data centers and cloud capacity. It also posted negative free cash flow after nearly $35 billion in quarterly capex, reportedly a first since its IPO.",
  "media": [
-  "media/generated/2026-10-23-deepseek-minimax-export-approval-oct23-ce27d9a5206a.png"
+  "media/generated/2026-10-23-meta-825b-commitments-negative-fcf-314fbf36e96f.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2113529945829912576"
+  "2113530269256781825"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113529947553685709\",\"text\":\"Reuters reports DeepSeek and MiniMax have won state approval to use their AI models overseas, citing a post from an account tied to Chinese state TV. Beijing proposed export controls on 23 AI technologies on Oct 16. https://t.co/ovwBSpCEK2\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113530270682894809\",\"text\":\"Meta's filing shows about $825 billion in future lease and contract commitments, including data centers and cloud capacity. It also posted negative free cash flow after nearly $35 billion in quarterly capex, reportedly a first since its IPO. https://t.co/K7l2tUocYd\"}}",
  "visual": {
-  "family": "policy",
-  "variant": "branch",
-  "palette": "ivory",
-  "story_id": "deepseek-minimax-export-approval-oct23",
-  "subject": "DeepSeek and MiniMax overseas approval",
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "meta-825b-commitments-negative-fcf",
+  "subject": "Meta future lease and contract commitments",
   "source_urls": [
-   "https://www.investing.com/news/stock-market-news/chinas-deepseekminimax-win-approval-for-ai-global-use-state-mediaaffiliated-entity-says-4968133"
+   "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "59830157db95db7cd886aab20bf5980380bc2f70a03048fbc7c0731f66ba050f",
-  "image_sha256": "89c111e16fa1891efea26d93215cfcd1b57c9009391b5ca9503c34720465f1af",
+  "content_sha256": "b105faba63c9e79f266c49ecf4ddcc83a25d1a003a2699d736ad5813786dc060",
+  "image_sha256": "5b2f0fc9b8b9b13609b1c45970324ccf6e9c61d70e3b8eb5d5adbb5e36a3b838",
   "qa": {
    "width": 1600,
    "height": 900,
