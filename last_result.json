@@ -1,33 +1,33 @@
 {
- "time": "2026-10-23T09:46:54.404839Z",
- "text": "Anthropic has struck a deal with private equity firm Hg to launch a European consultancy, the Financial Times reports, citing sources. The new company would be independent and aimed at corporate clients.",
+ "time": "2026-10-23T11:48:16.333479Z",
+ "text": "Cambricon's third-quarter revenue rose 105% to 3.53 billion yuan ($529 million), but analysts expected about 6.26 billion, Bloomberg reports. Net income rose 148% to 1.4 billion yuan. Bloomberg ties the miss to chip output and memory shortages.",
  "media": [
-  "media/generated/2026-10-23-anthropic-hg-european-consultancy-oct23-737848943f7d.png"
+  "media/generated/2026-10-23-cambricon-q3-revenue-miss-2026-10-23-909640f541d0.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2113567835746091008"
+  "2113598378319790080"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113567837281206675\",\"text\":\"Anthropic has struck a deal with private equity firm Hg to launch a European consultancy, the Financial Times reports, citing sources. The new company would be independent and aimed at corporate clients. https://t.co/fFL0ukQydW\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113598380081283428\",\"text\":\"Cambricon's third-quarter revenue rose 105% to 3.53 billion yuan ($529 million), but analysts expected about 6.26 billion, Bloomberg reports. Net income rose 148% to 1.4 billion yuan. Bloomberg ties the miss to chip output and memory shortages. https://t.co/SB6ji7hbX4\"}}",
  "visual": {
-  "family": "policy",
-  "variant": "stack",
-  "palette": "ivory",
-  "story_id": "anthropic-hg-european-consultancy-oct23",
-  "subject": "Anthropic and Hg consultancy",
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "cambricon-q3-revenue-miss-2026-10-23",
+  "subject": "Cambricon Technologies Q3 2026 results",
   "source_urls": [
-   "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4"
+   "https://www.bloomberg.com/news/articles/2026-10-23/ai-chipmaker-cambricon-s-sales-miss-in-sign-of-output-constraint"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "94025c8e4b8d6c72719c1ec78116c509a455ac4f21843e948c67be961db905a5",
-  "image_sha256": "e642a6bb7af8c32d77e13a537422d7fbfc31b9eee98249e1a0ed47f416f051fb",
+  "content_sha256": "f55474aed0eafea1e6260b5a3607ffd605cc9920c3192d71383674a18516013a",
+  "image_sha256": "d670d9f634ca4637f09f4d881c64f6246c0b553c3a5001fc3ea0f98db44257bd",
   "qa": {
    "width": 1600,
    "height": 900,

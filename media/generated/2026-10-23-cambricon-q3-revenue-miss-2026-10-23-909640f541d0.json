@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "cambricon-q3-revenue-miss-2026-10-23",
+  "subject": "Cambricon Technologies Q3 2026 results",
+  "source_urls": [
+    "https://www.bloomberg.com/news/articles/2026-10-23/ai-chipmaker-cambricon-s-sales-miss-in-sign-of-output-constraint"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "f55474aed0eafea1e6260b5a3607ffd605cc9920c3192d71383674a18516013a",
+  "image_sha256": "d670d9f634ca4637f09f4d881c64f6246c0b553c3a5001fc3ea0f98db44257bd",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
