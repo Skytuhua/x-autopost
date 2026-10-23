@@ -1,33 +1,33 @@
 {
- "time": "2026-10-23T08:48:25.130354Z",
- "text": "The Nasdaq fell 2.6% on Thursday, its worst day since June 5, as AI spending fears hit tech. Meta dropped 7%, Nvidia 4%, and the Philadelphia chip index lost 6.7%, Reuters reports.",
+ "time": "2026-10-23T09:17:31.713962Z",
+ "text": "Anthropic is inviting life sciences researchers to apply for free help from its own team. Selected academic, nonprofit and government lab groups get 8 to 12 weeks with Anthropic researchers, and Anthropic covers the model costs. Applications stay open about 14 days from Oct 22.",
  "media": [
-  "media/generated/2026-10-23-nasdaq-worst-day-since-june-oct22-56b68eb0e3de.png"
+  "media/generated/2026-10-23-anthropic-life-sciences-guest-investigators-oct23-d340a66f5299.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2113553116457041920"
+  "2113560441834143744"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113553117941842361\",\"text\":\"The Nasdaq fell 2.6% on Thursday, its worst day since June 5, as AI spending fears hit tech. Meta dropped 7%, Nvidia 4%, and the Philadelphia chip index lost 6.7%, Reuters reports. https://t.co/ANe5dPnrLb\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113560443738370078\",\"text\":\"Anthropic is inviting life sciences researchers to apply for free help from its own team. Selected academic, nonprofit and government lab groups get 8 to 12 weeks with Anthropic researchers, and Anthropic covers the model costs. Applications stay open about 14 days from Oct 22. https://t.co/POwnPJoU76\"}}",
  "visual": {
-  "family": "financial",
-  "variant": "statement",
-  "palette": "ink",
-  "story_id": "nasdaq-worst-day-since-june-oct22",
-  "subject": "Nasdaq Composite AI selloff",
+  "family": "offer",
+  "variant": "poster",
+  "palette": "acid",
+  "story_id": "anthropic-life-sciences-guest-investigators-oct23",
+  "subject": "Anthropic guest investigator program",
   "source_urls": [
-   "https://www.investing.com/news/economy-news/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites-4967187"
+   "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "a74a199aa2b9a570f2673f192ad93bc5358aa85772091b1ba7fe93b55db6d90a",
-  "image_sha256": "e611e22b3313be94646f278ec9308eb095541d3506ff9b069b33348c0f765b1a",
+  "content_sha256": "8efe0b1ddc94e47cd757d7f748f43f8e341f821bec5b5119e0a9832e3f6168e8",
+  "image_sha256": "86cd016f1ee3fd901fce9114e1e749d33d6a2028dcb61c2462e9a604ea8b6fac",
   "qa": {
    "width": 1600,
    "height": 900,

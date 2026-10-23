@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "anthropic-life-sciences-guest-investigators-oct23",
+  "story_type": "offer",
+  "subject": "Anthropic guest investigator program",
+  "headline": "Free Anthropic research help",
+  "source": {
+    "name": "Anthropic",
+    "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
+  },
+  "content": {
+    "offer": {
+      "source_url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "benefit": "8-12 weeks with Anthropic researchers, no cost",
+      "eligibility": "Life sciences PIs at labs, nonprofits, gov labs",
+      "deadline": "Open ~14 days from Oct 22, 2026"
+    }
+  }
+}

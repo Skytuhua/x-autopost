@@ -1,0 +1,36 @@
+{
+  "family": "offer",
+  "variant": "poster",
+  "palette": "acid",
+  "story_id": "anthropic-life-sciences-guest-investigators-oct23",
+  "subject": "Anthropic guest investigator program",
+  "source_urls": [
+    "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "8efe0b1ddc94e47cd757d7f748f43f8e341f821bec5b5119e0a9832e3f6168e8",
+  "image_sha256": "86cd016f1ee3fd901fce9114e1e749d33d6a2028dcb61c2462e9a604ea8b6fac",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
