@@ -1,52 +1,14 @@
 {
- "time": "2026-10-23T07:17:37.931894Z",
- "text": "Meta's filing shows about $825 billion in future lease and contract commitments, including data centers and cloud capacity. It also posted negative free cash flow after nearly $35 billion in quarterly capex, reportedly a first since its IPO.",
- "media": [
-  "media/generated/2026-10-23-meta-825b-commitments-negative-fcf-314fbf36e96f.png"
- ],
+ "time": "2026-10-23T07:18:25.760931Z",
+ "text": "Meta's Global AI Developer Hackathon is taking applications for a $1 million cash prize pool. It's free, online, runs Oct 26 to Nov 4, and takes up to 20,000 selected builders. Apply on Meta's developer site by Oct 25, 11:59 PM ET.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [],
- "media_ids": [
-  "2113530269256781825"
+ "warnings": [
+  "Story image omitted: Image layout rejected: text outside its region: Meta's $1M AI hackathon is taking applications; text outside its region: Free online. Up to 20,000 selected applicants, ind"
  ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113530270682894809\",\"text\":\"Meta's filing shows about $825 billion in future lease and contract commitments, including data centers and cloud capacity. It also posted negative free cash flow after nearly $35 billion in quarterly capex, reportedly a first since its IPO. https://t.co/K7l2tUocYd\"}}",
- "visual": {
-  "family": "financial",
-  "variant": "statement",
-  "palette": "ink",
-  "story_id": "meta-825b-commitments-negative-fcf",
-  "subject": "Meta future lease and contract commitments",
-  "source_urls": [
-   "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "b105faba63c9e79f266c49ecf4ddcc83a25d1a003a2699d736ad5813786dc060",
-  "image_sha256": "5b2f0fc9b8b9b13609b1c45970324ccf6e9c61d70e3b8eb5d5adbb5e36a3b838",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113530469132206562\",\"text\":\"Meta's Global AI Developer Hackathon is taking applications for a $1 million cash prize pool. It's free, online, runs Oct 26 to Nov 4, and takes up to 20,000 selected builders. Apply on Meta's developer site by Oct 25, 11:59 PM ET.\"}}"
 }
