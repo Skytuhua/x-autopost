@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "nasdaq-worst-day-since-june-oct22",
+  "story_type": "earnings",
+  "subject": "Nasdaq Composite AI selloff",
+  "headline": "Nasdaq drops 2.6% on AI spending fears",
+  "source": {
+    "name": "Reuters",
+    "url": "https://www.investing.com/news/economy-news/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites-4967187"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.investing.com/news/economy-news/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites-4967187",
+      "value": "-2.6%",
+      "label": "Nasdaq Composite, one-day drop",
+      "period": "Thursday, Oct 22, 2026",
+      "change": "Chips -6.7%",
+      "change_label": "Philadelphia Semiconductor index, same day"
+    }
+  }
+}

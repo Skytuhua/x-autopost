@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "nasdaq-worst-day-since-june-oct22",
+  "subject": "Nasdaq Composite AI selloff",
+  "source_urls": [
+    "https://www.investing.com/news/economy-news/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites-4967187"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "a74a199aa2b9a570f2673f192ad93bc5358aa85772091b1ba7fe93b55db6d90a",
+  "image_sha256": "e611e22b3313be94646f278ec9308eb095541d3506ff9b069b33348c0f765b1a",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
