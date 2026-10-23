@@ -1,25 +1,25 @@
 {
- "time": "2026-10-23T20:46:16.732120Z",
+ "time": "2026-10-23T22:47:16.038457Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "OpenAI",
-   "created_at": "2026-10-23T19:46:46.000Z",
+   "user": "nvidia",
+   "created_at": "2026-10-23T22:18:42.000Z",
    "edit_history_tweet_ids": [
-    "2113718797505036665"
+    "2113757030754443437"
    ],
-   "id": "2113718797505036665",
+   "id": "2113757030754443437",
    "public_metrics": {
-    "bookmark_count": 483,
-    "impression_count": 208332,
-    "like_count": 2509,
-    "quote_count": 152,
-    "reply_count": 277,
-    "retweet_count": 183
+    "bookmark_count": 3,
+    "impression_count": 8968,
+    "like_count": 71,
+    "quote_count": 2,
+    "reply_count": 14,
+    "retweet_count": 8
    },
-   "text": "Over the past several months, we have substantially hardened the security of our research training environment. We\u2019ve removed live internet access for all frontier models during training and built an offline world for them to use instead\u2014a cached version of the web where they can"
+   "text": "A new look for a classic. \ud83d\udc9a\n\nRTX Remix for Minecraft: Java Edition gives creators tools to remaster the game with realistic path-traced lighting and AI powered DLSS for maximum performance.\n\nAvailable on @NVIDIAGeForce and @NVIDIARTXSpark. https://t.co/vSpY7YaQrf"
   }
  ]
 }
