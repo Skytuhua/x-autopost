@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "story_id": "anthropic-hg-european-consultancy-oct23",
+  "story_type": "policy",
+  "subject": "Anthropic and Hg consultancy",
+  "headline": "Anthropic and Hg plan a consultancy",
+  "source": {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4",
+      "actor": "Anthropic and Hg",
+      "action": "Agree to launch an independent consultancy",
+      "status": "reported",
+      "targets": [
+        "European corporate clients"
+      ],
+      "topics": [
+        "Private equity tie-up",
+        "Single-source FT report"
+      ]
+    }
+  }
+}
