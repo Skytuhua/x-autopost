@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "deepseek-minimax-export-approval-oct23",
+  "subject": "DeepSeek and MiniMax overseas approval",
+  "source_urls": [
+    "https://www.investing.com/news/stock-market-news/chinas-deepseekminimax-win-approval-for-ai-global-use-state-mediaaffiliated-entity-says-4968133"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "59830157db95db7cd886aab20bf5980380bc2f70a03048fbc7c0731f66ba050f",
+  "image_sha256": "89c111e16fa1891efea26d93215cfcd1b57c9009391b5ca9503c34720465f1af",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

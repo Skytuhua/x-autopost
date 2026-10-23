@@ -1,33 +1,33 @@
 {
- "time": "2026-10-22T08:48:36.681506Z",
- "text": "IBM reported Q3 revenue of $17.1 billion, up 5%, with software up 8% to $7.8 billion. It kept its 2026 growth outlook at 4% to 5% and now expects free cash flow to rise by more than $1 billion this year.",
+ "time": "2026-10-23T07:16:20.846866Z",
+ "text": "Reuters reports DeepSeek and MiniMax have won state approval to use their AI models overseas, citing a post from an account tied to Chinese state TV. Beijing proposed export controls on 23 AI technologies on Oct 16.",
  "media": [
-  "media/generated/2026-10-22-ibm-q3-2026-results-5ad76e222830.png"
+  "media/generated/2026-10-23-deepseek-minimax-export-approval-oct23-ce27d9a5206a.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2113190776993673216"
+  "2113529945829912576"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113190778772078901\",\"text\":\"IBM reported Q3 revenue of $17.1 billion, up 5%, with software up 8% to $7.8 billion. It kept its 2026 growth outlook at 4% to 5% and now expects free cash flow to rise by more than $1 billion this year. https://t.co/j9rt8Cf8iu\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113529947553685709\",\"text\":\"Reuters reports DeepSeek and MiniMax have won state approval to use their AI models overseas, citing a post from an account tied to Chinese state TV. Beijing proposed export controls on 23 AI technologies on Oct 16. https://t.co/ovwBSpCEK2\"}}",
  "visual": {
-  "family": "financial",
-  "variant": "split",
-  "palette": "ink",
-  "story_id": "ibm-q3-2026-results",
-  "subject": "IBM third-quarter 2026 results",
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "deepseek-minimax-export-approval-oct23",
+  "subject": "DeepSeek and MiniMax overseas approval",
   "source_urls": [
-   "https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+   "https://www.investing.com/news/stock-market-news/chinas-deepseekminimax-win-approval-for-ai-global-use-state-mediaaffiliated-entity-says-4968133"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "c167257208294ca1661317b8dd8d7841b94fd53f0e451b58e796bb6e2b7cfb99",
-  "image_sha256": "2e926b1278065f97034e2bdacaed69a2c58057958ea6bbe33d99d786d2cc10f5",
+  "content_sha256": "59830157db95db7cd886aab20bf5980380bc2f70a03048fbc7c0731f66ba050f",
+  "image_sha256": "89c111e16fa1891efea26d93215cfcd1b57c9009391b5ca9503c34720465f1af",
   "qa": {
    "width": 1600,
    "height": 900,
