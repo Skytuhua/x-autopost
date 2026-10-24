@@ -1,0 +1,36 @@
+{
+  "family": "benchmark",
+  "variant": "split",
+  "palette": "cobalt",
+  "story_id": "minimax-m3-1-flash-open-weights",
+  "subject": "MiniMax M3.1 Flash open weights",
+  "source_urls": [
+    "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "08d385dc52473b8451006736e3407a4f81cf99897f632e7bc299b85e0f8249ca",
+  "image_sha256": "48e99cd8526f8faf9b25e984cad0c9612115359a42234d29213d48468ddae157",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

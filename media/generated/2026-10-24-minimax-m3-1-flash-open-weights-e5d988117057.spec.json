@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "story_id": "minimax-m3-1-flash-open-weights",
+  "story_type": "model_release",
+  "subject": "MiniMax M3.1 Flash open weights",
+  "headline": "M3.1 Flash weights are public",
+  "source": {
+    "name": "MiniMax on Hugging Face",
+    "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash"
+  },
+  "content": {
+    "benchmark": {
+      "metric": "Automation-Bench v1.0.6",
+      "unit": "score",
+      "methodology": "MiniMax model card table, same benchmark for every model (600 public tasks). Company-reported, not independently verified.",
+      "maximum": 100,
+      "comparable": true,
+      "values": [
+        {
+          "label": "Kimi K3",
+          "value": 46.7,
+          "source_url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash"
+        },
+        {
+          "label": "Opus 5",
+          "value": 50.3,
+          "source_url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash"
+        },
+        {
+          "label": "DeepSeek V4.1 Flash-1017",
+          "value": 60.5,
+          "source_url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash"
+        },
+        {
+          "label": "MiniMax M3.1 Flash",
+          "value": 62.8,
+          "source_url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash"
+        }
+      ],
+      "source_url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash"
+    }
+  },
+  "summary": "428B total, 23B active per token, 1M token context"
+}
