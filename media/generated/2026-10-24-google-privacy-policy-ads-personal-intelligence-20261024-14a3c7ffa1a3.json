@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "google-privacy-policy-ads-personal-intelligence-20261024",
+  "subject": "Google privacy policy",
+  "source_urls": [
+    "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "12e5c99490e54a912781c5e29436b5649f06059d64982fee32c6b6b134442e71",
+  "image_sha256": "e83b4cfe8c10dbc856ceffe0967ea9630aab5164ebb2394486d139bdc6e94bce",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

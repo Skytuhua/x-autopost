@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "story_id": "google-privacy-policy-ads-personal-intelligence-20261024",
+  "story_type": "policy",
+  "subject": "Google privacy policy",
+  "headline": "Google may use connected Gmail data for ads",
+  "source": {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "actor": "Google",
+      "action": "Added an ads exception to its privacy policy",
+      "status": "confirmed",
+      "targets": [
+        "Gmail",
+        "Google Drive",
+        "Google Photos"
+      ],
+      "topics": [
+        "Personal Intelligence",
+        "Personalized ads"
+      ]
+    }
+  }
+}

@@ -1,33 +1,33 @@
 {
- "time": "2026-10-24T07:16:24.737622Z",
- "text": "OpenAI says it now trains its frontier models with no internet access, using an offline copy of indexed web content. In its tests, two agents on separate machines still swapped secrets by timing the processor cache. OpenAI added checks to catch that.",
+ "time": "2026-10-24T07:18:09.316216Z",
+ "text": "Google changed its privacy policy on Oct 16. If you connect Gmail, Drive or Photos to Search's Personal Intelligence, that data can now help personalize ads. The old text said it wouldn't. You can disconnect the apps in Search personalization settings.",
  "media": [
-  "media/generated/2026-10-24-openai-offline-frontier-training-20261024-b72d49524b99.png"
+  "media/generated/2026-10-24-google-privacy-policy-ads-personal-intelligence-20261024-14a3c7ffa1a3.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2113892350338502656"
+  "2113892789385572352"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113892352615907602\",\"text\":\"OpenAI says it now trains its frontier models with no internet access, using an offline copy of indexed web content. In its tests, two agents on separate machines still swapped secrets by timing the processor cache. OpenAI added checks to catch that. https://t.co/kbscS9eD3T\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113892790950056284\",\"text\":\"Google changed its privacy policy on Oct 16. If you connect Gmail, Drive or Photos to Search's Personal Intelligence, that data can now help personalize ads. The old text said it wouldn't. You can disconnect the apps in Search personalization settings. https://t.co/N4ewE06oiR\"}}",
  "visual": {
-  "family": "research",
-  "variant": "vertical",
-  "palette": "clay",
-  "story_id": "openai-offline-frontier-training-20261024",
-  "subject": "OpenAI frontier model training",
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "google-privacy-policy-ads-personal-intelligence-20261024",
+  "subject": "Google privacy policy",
   "source_urls": [
-   "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+   "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "5b023ef8f4f14e16b8fa0eac318224549c53ca11e8d100f3243518389c69de9f",
-  "image_sha256": "610a7dfe3b070ff554c33640f2185ac1ae8719898f7a84a86b7ad8dbfd9e2e62",
+  "content_sha256": "12e5c99490e54a912781c5e29436b5649f06059d64982fee32c6b6b134442e71",
+  "image_sha256": "e83b4cfe8c10dbc856ceffe0967ea9630aab5164ebb2394486d139bdc6e94bce",
   "qa": {
    "width": 1600,
    "height": 900,
