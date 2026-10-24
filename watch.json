@@ -1,25 +1,25 @@
 {
- "time": "2026-10-23T22:47:16.038457Z",
+ "time": "2026-10-24T00:47:18.216796Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "nvidia",
-   "created_at": "2026-10-23T22:18:42.000Z",
+   "user": "OpenAI",
+   "created_at": "2026-10-23T22:55:45.000Z",
    "edit_history_tweet_ids": [
-    "2113757030754443437"
+    "2113766354386084338"
    ],
-   "id": "2113757030754443437",
+   "id": "2113766354386084338",
    "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 8968,
-    "like_count": 71,
-    "quote_count": 2,
-    "reply_count": 14,
-    "retweet_count": 8
+    "bookmark_count": 470,
+    "impression_count": 263813,
+    "like_count": 1766,
+    "quote_count": 102,
+    "reply_count": 199,
+    "retweet_count": 163
    },
-   "text": "A new look for a classic. \ud83d\udc9a\n\nRTX Remix for Minecraft: Java Edition gives creators tools to remaster the game with realistic path-traced lighting and AI powered DLSS for maximum performance.\n\nAvailable on @NVIDIAGeForce and @NVIDIARTXSpark. https://t.co/vSpY7YaQrf"
+   "text": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their https://t.co/qjcoF49rMC"
   }
  ]
 }
