@@ -1,14 +1,14 @@
 {
- "time": "2026-10-24T09:22:53.154928Z",
- "text": "Moonshot says it removed cyber-related data from Kimi K3.1 Pro's training to limit its hacking skill, Reuters reports. On its own test of finding and exploiting software flaws it scores 81.0%, versus 90.5% without the changes. Not independently verified.",
+ "time": "2026-10-24T09:48:28.012253Z",
+ "text": "OpenAI is rolling out locked chats in ChatGPT. You can hide chosen conversations behind a four-digit PIN, but resetting a forgotten PIN permanently deletes them, Fortune reports. Fortune says it adds no end-to-end encryption.",
  "media": [],
- "reply_to": "2113915266891448555",
+ "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: Moonshot test of finding and exploiting software f"
+  "Story image omitted: Image layout rejected: text outside its region: Locking only changes where chats appear. No end-to"
  ],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113924179221492029\",\"text\":\"Moonshot says it removed cyber-related data from Kimi K3.1 Pro's training to limit its hacking skill, Reuters reports. On its own test of finding and exploiting software flaws it scores 81.0%, versus 90.5% without the changes. Not independently verified.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113930615112221016\",\"text\":\"OpenAI is rolling out locked chats in ChatGPT. You can hide chosen conversations behind a four-digit PIN, but resetting a forgotten PIN permanently deletes them, Fortune reports. Fortune says it adds no end-to-end encryption.\"}}"
 }
