@@ -1,0 +1,36 @@
+{
+  "family": "research",
+  "variant": "flow",
+  "palette": "clay",
+  "story_id": "block-dessa-speech-model-oct24",
+  "subject": "Block Dessa speech model",
+  "source_urls": [
+    "https://block.xyz/dessa"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "7573e38ff9e149ecb98478e0698460676358435d43d06e2d43b0141f0a976465",
+  "image_sha256": "22ec1bbb2191fc288189ca80bf78e152c6dc2fcc778e36272bcae78bd3bb549c",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "story_id": "block-dessa-speech-model-oct24",
+  "story_type": "research",
+  "subject": "Block Dessa speech model",
+  "headline": "Block's Dessa learned to talk from sound alone",
+  "source": {
+    "name": "Block",
+    "url": "https://block.xyz/dessa"
+  },
+  "content": {
+    "research": {
+      "source_url": "https://block.xyz/dessa",
+      "conclusion": "Block is giving a small group of AI safety researchers early access.",
+      "steps": [
+        {
+          "title": "Train on speech",
+          "detail": "Block says it trained from scratch on human conversation only.",
+          "source_url": "https://block.xyz/dessa"
+        },
+        {
+          "title": "No text, no base model",
+          "detail": "Block says it used no text and no pretrained models.",
+          "source_url": "https://block.xyz/dessa"
+        },
+        {
+          "title": "Run locally",
+          "detail": "Block says it runs on a MacBook Pro M4 Max or better.",
+          "source_url": "https://block.xyz/dessa"
+        }
+      ]
+    }
+  }
+}
