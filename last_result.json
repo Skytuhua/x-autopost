@@ -1,33 +1,33 @@
 {
- "time": "2026-10-23T11:48:16.333479Z",
- "text": "Cambricon's third-quarter revenue rose 105% to 3.53 billion yuan ($529 million), but analysts expected about 6.26 billion, Bloomberg reports. Net income rose 148% to 1.4 billion yuan. Bloomberg ties the miss to chip output and memory shortages.",
+ "time": "2026-10-24T07:16:24.737622Z",
+ "text": "OpenAI says it now trains its frontier models with no internet access, using an offline copy of indexed web content. In its tests, two agents on separate machines still swapped secrets by timing the processor cache. OpenAI added checks to catch that.",
  "media": [
-  "media/generated/2026-10-23-cambricon-q3-revenue-miss-2026-10-23-909640f541d0.png"
+  "media/generated/2026-10-24-openai-offline-frontier-training-20261024-b72d49524b99.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2113598378319790080"
+  "2113892350338502656"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113598380081283428\",\"text\":\"Cambricon's third-quarter revenue rose 105% to 3.53 billion yuan ($529 million), but analysts expected about 6.26 billion, Bloomberg reports. Net income rose 148% to 1.4 billion yuan. Bloomberg ties the miss to chip output and memory shortages. https://t.co/SB6ji7hbX4\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113892352615907602\",\"text\":\"OpenAI says it now trains its frontier models with no internet access, using an offline copy of indexed web content. In its tests, two agents on separate machines still swapped secrets by timing the processor cache. OpenAI added checks to catch that. https://t.co/kbscS9eD3T\"}}",
  "visual": {
-  "family": "financial",
-  "variant": "split",
-  "palette": "ink",
-  "story_id": "cambricon-q3-revenue-miss-2026-10-23",
-  "subject": "Cambricon Technologies Q3 2026 results",
+  "family": "research",
+  "variant": "vertical",
+  "palette": "clay",
+  "story_id": "openai-offline-frontier-training-20261024",
+  "subject": "OpenAI frontier model training",
   "source_urls": [
-   "https://www.bloomberg.com/news/articles/2026-10-23/ai-chipmaker-cambricon-s-sales-miss-in-sign-of-output-constraint"
+   "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "f55474aed0eafea1e6260b5a3607ffd605cc9920c3192d71383674a18516013a",
-  "image_sha256": "d670d9f634ca4637f09f4d881c64f6246c0b553c3a5001fc3ea0f98db44257bd",
+  "content_sha256": "5b023ef8f4f14e16b8fa0eac318224549c53ca11e8d100f3243518389c69de9f",
+  "image_sha256": "610a7dfe3b070ff554c33640f2185ac1ae8719898f7a84a86b7ad8dbfd9e2e62",
   "qa": {
    "width": 1600,
    "height": 900,

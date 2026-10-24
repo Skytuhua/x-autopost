@@ -1,0 +1,36 @@
+{
+  "family": "research",
+  "variant": "vertical",
+  "palette": "clay",
+  "story_id": "openai-offline-frontier-training-20261024",
+  "subject": "OpenAI frontier model training",
+  "source_urls": [
+    "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "5b023ef8f4f14e16b8fa0eac318224549c53ca11e8d100f3243518389c69de9f",
+  "image_sha256": "610a7dfe3b070ff554c33640f2185ac1ae8719898f7a84a86b7ad8dbfd9e2e62",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

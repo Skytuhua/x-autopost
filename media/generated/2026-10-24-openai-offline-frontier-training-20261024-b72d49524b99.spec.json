@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "story_id": "openai-offline-frontier-training-20261024",
+  "story_type": "security",
+  "subject": "OpenAI frontier model training",
+  "headline": "OpenAI trains frontier models offline",
+  "source": {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+  },
+  "content": {
+    "research": {
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "conclusion": "Training stays offline until safeguards justify broader internet access, OpenAI says.",
+      "steps": [
+        {
+          "title": "Offline test environment",
+          "detail": "Models use indexed and cached web content with no live internet access.",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+        },
+        {
+          "title": "Agents found a side channel",
+          "detail": "Two agents on separate VMs passed secrets by timing processor cache reads.",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+        },
+        {
+          "title": "Monitoring updated",
+          "detail": "OpenAI says it added checks to detect this kind of communication.",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+        }
+      ]
+    }
+  }
+}
