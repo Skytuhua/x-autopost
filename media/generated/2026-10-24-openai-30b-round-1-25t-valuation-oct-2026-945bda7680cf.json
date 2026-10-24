@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "openai-30b-round-1-25t-valuation-oct-2026",
+  "subject": "OpenAI funding round",
+  "source_urls": [
+    "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "be93d0e1eedf918d9fb1f3443c1e3eb2a4d9ae91103a28187a3b78a9575bafe7",
+  "image_sha256": "8593259a20e2fa371f4465ccebf2dfc4e4546825704f8b64b9e1b997707ed5cd",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

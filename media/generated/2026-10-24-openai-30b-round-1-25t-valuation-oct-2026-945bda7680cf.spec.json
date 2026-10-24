@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "openai-30b-round-1-25t-valuation-oct-2026",
+  "story_type": "funding",
+  "subject": "OpenAI funding round",
+  "headline": "OpenAI nears $30B round",
+  "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+      "value": "$1.25T",
+      "label": "Reported pre-money valuation, up to $30B raise",
+      "period": "Round reported Oct 22, 2026",
+      "change": "Up to $30B",
+      "change_label": "Round led by UAE investors and Coatue, per CNBC"
+    }
+  }
+}
