@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "story_id": "uk-ai-biosecurity-lab-oct-24",
+  "story_type": "policy",
+  "subject": "UK AI Biosecurity Lab",
+  "headline": "UK funds an AI Biosecurity Lab",
+  "source": {
+    "name": "GOV.UK Cabinet Office",
+    "url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
+      "actor": "UK government",
+      "action": "Sets up AI Biosecurity Lab, 100M pounds",
+      "status": "confirmed",
+      "targets": [
+        "OpenAI: 100M pounds credits",
+        "Anthropic: up to 100M pounds credits"
+      ],
+      "topics": [
+        "Early threat detection",
+        "Vaccines and treatments"
+      ]
+    }
+  }
+}

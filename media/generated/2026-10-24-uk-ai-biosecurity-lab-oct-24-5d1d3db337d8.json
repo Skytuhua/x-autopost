@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "uk-ai-biosecurity-lab-oct-24",
+  "subject": "UK AI Biosecurity Lab",
+  "source_urls": [
+    "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "0073460868df505318c9fe6b1fe1c4816afd080118ece32e3b1b2456e2291a99",
+  "image_sha256": "e4a62c32fc5ea77ef581118fb93112ba3a60c22db2e247506f7dbcf5f0ec867b",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
