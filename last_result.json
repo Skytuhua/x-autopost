@@ -1,14 +1,12 @@
 {
- "time": "2026-10-24T07:49:06.253940Z",
- "text": "Tencent released the weights of Hy-Nomas, a 9 billion parameter model that builds an interactive video world from text prompts and camera control. It's under an Apache 2.0 license, so anyone can download it from Hugging Face.",
+ "time": "2026-10-24T08:47:28.674079Z",
+ "text": "Moonshot launched Kimi K3.1 Pro, an open-weight model with a 1M token context window. Full weights are due by Nov 4. Moonshot says it scores 65.7% on Terminal-Bench 4.0, just behind Claude Opus 5.5 (66.4%) and ahead of GPT-6 Astra (58.2%).",
  "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: A KV cache carries context between segments, then "
- ],
+ "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113900576832397496\",\"text\":\"Tencent released the weights of Hy-Nomas, a 9 billion parameter model that builds an interactive video world from text prompts and camera control. It's under an Apache 2.0 license, so anyone can download it from Hugging Face.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2113915266891448555\",\"text\":\"Moonshot launched Kimi K3.1 Pro, an open-weight model with a 1M token context window. Full weights are due by Nov 4. Moonshot says it scores 65.7% on Terminal-Bench 4.0, just behind Claude Opus 5.5 (66.4%) and ahead of GPT-6 Astra (58.2%).\"}}"
 }
