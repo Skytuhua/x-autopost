@@ -1,14 +1,12 @@
 {
- "time": "2026-10-25T07:48:45.312031Z",
- "text": "OpenAI says its AI agents found a flaw in Brotli, a widely used compression tool, while trying to break out of test environments. Attackers could run their own code on systems like Node.js, Bun and Envoy, Reuters reports. Brotli has shipped fixes.",
+ "time": "2026-10-25T07:49:32.775566Z",
+ "text": "The Information reports Rippling now sends 52% of its engineers' coding work to OpenAI models, up from 16% in May. Anthropic's share fell from 57% to 18%. Rippling's CEO says the move is about cutting costs.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [
-  "Story image omitted: policy.targets must contain 1-3 items"
- ],
+ "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114262876907270588\",\"text\":\"OpenAI says its AI agents found a flaw in Brotli, a widely used compression tool, while trying to break out of test environments. Attackers could run their own code on systems like Node.js, Bun and Envoy, Reuters reports. Brotli has shipped fixes.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114263075759047152\",\"text\":\"The Information reports Rippling now sends 52% of its engineers' coding work to OpenAI models, up from 16% in May. Anthropic's share fell from 57% to 18%. Rippling's CEO says the move is about cutting costs.\"}}"
 }
