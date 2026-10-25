@@ -1,0 +1,36 @@
+{
+  "family": "research",
+  "variant": "flow",
+  "palette": "clay",
+  "story_id": "nvidia-flora-robot-video-labeling-2026-10-25",
+  "subject": "Nvidia Flora robot video labeling engine",
+  "source_urls": [
+    "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "949c18623413eafbba801b72fe7151a8cc0a579d4f8a3918dc4556d508f7158d",
+  "image_sha256": "79ff62dba074c20b31cb125e56f8925819f85d0519faa111191998f90db33cef",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

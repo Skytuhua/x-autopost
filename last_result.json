@@ -1,34 +1,33 @@
 {
- "time": "2026-10-25T09:48:32.552452Z",
- "text": "Anthropic co-founder Jack Clark now says self-improving AI could arrive as early as 2027, a year sooner than he said in May, The Decoder reports. He cites P-Zero's TasteVal test, where Opus 5.5 reached expert scores with about 2.3x less compute.",
+ "time": "2026-10-25T11:16:19.526139Z",
+ "text": "Nvidia open-sourced Flora, a tool that labels robot training video, with models on Hugging Face. Nvidia estimates 72 cents per video hour versus $88.50 for GPT-6 Astra, with slightly better quality in a 50-video test.",
  "media": [
-  "media/generated/2026-10-25-clark-tasteval-self-improving-ai-2027-edaf05dc83c8.png"
+  "media/generated/2026-10-25-nvidia-flora-robot-video-labeling-2026-10-25-f77ff22e21e6.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2114293023018303488"
+  "2114315114258079744"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114293024490455394\",\"text\":\"Anthropic co-founder Jack Clark now says self-improving AI could arrive as early as 2027, a year sooner than he said in May, The Decoder reports. He cites P-Zero's TasteVal test, where Opus 5.5 reached expert scores with about 2.3x less compute. https://t.co/rzZfmGuqHG\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114315115872829632\",\"text\":\"Nvidia open-sourced Flora, a tool that labels robot training video, with models on Hugging Face. Nvidia estimates 72 cents per video hour versus $88.50 for GPT-6 Astra, with slightly better quality in a 50-video test. https://t.co/AGUxSPsmrs\"}}",
  "visual": {
   "family": "research",
-  "variant": "vertical",
+  "variant": "flow",
   "palette": "clay",
-  "story_id": "clark-tasteval-self-improving-ai-2027",
-  "subject": "Jack Clark and the TasteVal benchmark",
+  "story_id": "nvidia-flora-robot-video-labeling-2026-10-25",
+  "subject": "Nvidia Flora robot video labeling engine",
   "source_urls": [
-   "https://pzeroresearch.com/work/tasteval/",
-   "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/"
+   "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "da5d598a44a1d8c89aae50c6eb2cf5c34458f5ec04653e8ea20ec59162b4afc8",
-  "image_sha256": "9b228c5bc1626657ccbc8a8a473760310effc58fde96545b9b5d1695abbc34e6",
+  "content_sha256": "949c18623413eafbba801b72fe7151a8cc0a579d4f8a3918dc4556d508f7158d",
+  "image_sha256": "79ff62dba074c20b31cb125e56f8925819f85d0519faa111191998f90db33cef",
   "qa": {
    "width": 1600,
    "height": 900,

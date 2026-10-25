@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "story_id": "nvidia-flora-robot-video-labeling-2026-10-25",
+  "story_type": "research",
+  "subject": "Nvidia Flora robot video labeling engine",
+  "headline": "Nvidia open-sources Flora",
+  "source": {
+    "name": "The Decoder",
+    "url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/"
+  },
+  "content": {
+    "research": {
+      "source_url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+      "conclusion": "Nvidia estimates $0.72 per video hour, a projection.",
+      "steps": [
+        {
+          "title": "Split",
+          "detail": "A 9B model cuts robot video into action segments",
+          "source_url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/"
+        },
+        {
+          "title": "Describe",
+          "detail": "A 27B model captions each action using context",
+          "source_url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/"
+        },
+        {
+          "title": "Rate",
+          "detail": "Flora-Rewarder scores success and flags failed steps",
+          "source_url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/"
+        }
+      ]
+    }
+  }
+}
