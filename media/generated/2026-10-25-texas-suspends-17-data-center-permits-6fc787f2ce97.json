@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "texas-suspends-17-data-center-permits",
+  "subject": "Texas data center construction permits",
+  "source_urls": [
+    "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "fd2b28cdf306244785300ae9b822d0b60a9b787979d1c774efb139f65c3acc2e",
+  "image_sha256": "5d6eab6622660fed6d9858bfcf077b1ecbbfe5e8dd86ec4fa2cba364170b9b37",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

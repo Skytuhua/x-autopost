@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "story_id": "texas-suspends-17-data-center-permits",
+  "story_type": "policy",
+  "subject": "Texas data center construction permits",
+  "headline": "Texas suspends 17 data center permits",
+  "source": {
+    "name": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals",
+      "actor": "Texas environmental agency",
+      "action": "Suspended permits, shut portal",
+      "status": "reported",
+      "targets": [
+        "17 stormwater permits",
+        "STEERS auto-approval portal"
+      ],
+      "topics": [
+        "Data centers"
+      ]
+    }
+  }
+}
