@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "story_id": "clark-tasteval-self-improving-ai-2027",
+  "story_type": "research",
+  "subject": "Jack Clark and the TasteVal benchmark",
+  "headline": "Clark moves AI self-improvement to 2027",
+  "source": {
+    "name": "The Decoder",
+    "url": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/"
+  },
+  "content": {
+    "research": {
+      "source_url": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
+      "conclusion": "Clark now sees self-improving AI by 2027, not 2028.",
+      "steps": [
+        {
+          "title": "TasteVal test",
+          "detail": "8 AI R&D tasks; the model designs experiments and reads results.",
+          "source_url": "https://pzeroresearch.com/work/tasteval/"
+        },
+        {
+          "title": "Human baseline",
+          "detail": "Best attempt from 24 experts at labs like OpenAI and DeepMind.",
+          "source_url": "https://pzeroresearch.com/work/tasteval/"
+        },
+        {
+          "title": "Result",
+          "detail": "Opus 5.5 reached expert scores with 2.30x less compute (95% CI 1.15-4.37).",
+          "source_url": "https://pzeroresearch.com/work/tasteval/"
+        }
+      ]
+    }
+  }
+}

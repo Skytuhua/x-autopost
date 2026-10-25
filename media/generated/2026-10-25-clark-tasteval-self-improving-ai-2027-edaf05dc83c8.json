@@ -1,0 +1,37 @@
+{
+  "family": "research",
+  "variant": "vertical",
+  "palette": "clay",
+  "story_id": "clark-tasteval-self-improving-ai-2027",
+  "subject": "Jack Clark and the TasteVal benchmark",
+  "source_urls": [
+    "https://pzeroresearch.com/work/tasteval/",
+    "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "da5d598a44a1d8c89aae50c6eb2cf5c34458f5ec04653e8ea20ec59162b4afc8",
+  "image_sha256": "9b228c5bc1626657ccbc8a8a473760310effc58fde96545b9b5d1695abbc34e6",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
