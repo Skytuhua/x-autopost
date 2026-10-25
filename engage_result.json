@@ -1,25 +1,7 @@
 {
- "time": "2026-10-25T16:48:05.883859Z",
+ "time": "2026-10-25T18:46:25.910195Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": [
-  {
-   "user": "nvidia",
-   "created_at": "2026-10-25T15:24:56.000Z",
-   "edit_history_tweet_ids": [
-    "2114377680715980950"
-   ],
-   "id": "2114377680715980950",
-   "public_metrics": {
-    "bookmark_count": 20,
-    "impression_count": 23930,
-    "like_count": 229,
-    "quote_count": 8,
-    "reply_count": 48,
-    "retweet_count": 25
-   },
-   "text": "Europe is building its AI future, and we\u2019re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights: https://t.co/8nJReDvmH7"
-  }
- ]
+ "posts": []
 }
