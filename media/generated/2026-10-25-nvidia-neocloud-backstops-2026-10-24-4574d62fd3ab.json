@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "nvidia-neocloud-backstops-2026-10-24",
+  "subject": "Nvidia neocloud financing",
+  "source_urls": [
+    "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "c7d13c55f5ff4596c4c7112c63f0c3376725d776cd64527d95fd83cd92b4d18e",
+  "image_sha256": "b5bebba702fb27b2c5ba7c60e81a80a0473885d8f75252caf25565473712373b",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

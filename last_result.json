@@ -1,33 +1,33 @@
 {
- "time": "2026-10-25T08:18:18.939456Z",
- "text": "Malaysia's prime minister says SoftBank's Masayoshi Son has chosen sites in Malaysia for $50 billion of AI and data center investment, Bloomberg reports. SoftBank hasn't commented yet.",
+ "time": "2026-10-25T08:20:14.936632Z",
+ "text": "CNBC reports Nvidia now backs neocloud customers with $36 billion in off-balance-sheet guarantees, as shares of CoreWeave, Nebius and IREN fall at least 30% this month. Nvidia declined to comment.",
  "media": [
-  "media/generated/2026-10-25-softbank-son-malaysia-50b-2026-10-25-f94092f541e0.png"
+  "media/generated/2026-10-25-nvidia-neocloud-backstops-2026-10-24-4574d62fd3ab.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2114270316834762752"
+  "2114270803189497856"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114270318311157881\",\"text\":\"Malaysia's prime minister says SoftBank's Masayoshi Son has chosen sites in Malaysia for $50 billion of AI and data center investment, Bloomberg reports. SoftBank hasn't commented yet. https://t.co/ehfwVjvZaI\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114270804783341868\",\"text\":\"CNBC reports Nvidia now backs neocloud customers with $36 billion in off-balance-sheet guarantees, as shares of CoreWeave, Nebius and IREN fall at least 30% this month. Nvidia declined to comment. https://t.co/7UqWAnapvB\"}}",
  "visual": {
-  "family": "policy",
-  "variant": "stack",
-  "palette": "ivory",
-  "story_id": "softbank-son-malaysia-50b-2026-10-25",
-  "subject": "SoftBank and Malaysia tech investment",
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "nvidia-neocloud-backstops-2026-10-24",
+  "subject": "Nvidia neocloud financing",
   "source_urls": [
-   "https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says"
+   "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "dd317ea9c6ea27cbaa64ac1cb803f47279110d3a4551239570d34687705bbe0a",
-  "image_sha256": "b679ff45f4a2e28fc59acbf9bb5c8afb04c4dc47143523b476896917256229c4",
+  "content_sha256": "c7d13c55f5ff4596c4c7112c63f0c3376725d776cd64527d95fd83cd92b4d18e",
+  "image_sha256": "b5bebba702fb27b2c5ba7c60e81a80a0473885d8f75252caf25565473712373b",
   "qa": {
    "width": 1600,
    "height": 900,

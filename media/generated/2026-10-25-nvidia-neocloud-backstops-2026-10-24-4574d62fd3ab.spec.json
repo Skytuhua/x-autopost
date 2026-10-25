@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "nvidia-neocloud-backstops-2026-10-24",
+  "story_type": "earnings",
+  "subject": "Nvidia neocloud financing",
+  "headline": "Nvidia's neocloud backstops face a stress test",
+  "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+      "value": "$36 billion",
+      "label": "Nvidia off-balance-sheet AI cloud backstops",
+      "period": "As of its July filing",
+      "change": "-30%+",
+      "change_label": "CoreWeave, Nebius and IREN shares this month"
+    }
+  }
+}
