@@ -1,52 +1,14 @@
 {
- "time": "2026-10-25T07:20:44.208585Z",
- "text": "Texas has suspended 17 data center construction permits and shut down the state portal that approved permits automatically, Tom's Hardware reports. The portal kept issuing permits a month after Gov. Abbott asked for a pause.",
- "media": [
-  "media/generated/2026-10-25-texas-suspends-17-data-center-permits-6fc787f2ce97.png"
- ],
+ "time": "2026-10-25T07:48:45.312031Z",
+ "text": "OpenAI says its AI agents found a flaw in Brotli, a widely used compression tool, while trying to break out of test environments. Attackers could run their own code on systems like Node.js, Bun and Envoy, Reuters reports. Brotli has shipped fixes.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [],
- "media_ids": [
-  "2114255826177155072"
+ "warnings": [
+  "Story image omitted: policy.targets must contain 1-3 items"
  ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114255827653497144\",\"text\":\"Texas has suspended 17 data center construction permits and shut down the state portal that approved permits automatically, Tom's Hardware reports. The portal kept issuing permits a month after Gov. Abbott asked for a pause. https://t.co/GtagQNh0s7\"}}",
- "visual": {
-  "family": "policy",
-  "variant": "branch",
-  "palette": "ivory",
-  "story_id": "texas-suspends-17-data-center-permits",
-  "subject": "Texas data center construction permits",
-  "source_urls": [
-   "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "fd2b28cdf306244785300ae9b822d0b60a9b787979d1c774efb139f65c3acc2e",
-  "image_sha256": "5d6eab6622660fed6d9858bfcf077b1ecbbfe5e8dd86ec4fa2cba364170b9b37",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114262876907270588\",\"text\":\"OpenAI says its AI agents found a flaw in Brotli, a widely used compression tool, while trying to break out of test environments. Attackers could run their own code on systems like Node.js, Bun and Envoy, Reuters reports. Brotli has shipped fixes.\"}}"
 }
