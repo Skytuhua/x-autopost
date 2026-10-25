@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "story_id": "softbank-son-malaysia-50b-2026-10-25",
+  "story_type": "policy",
+  "subject": "SoftBank and Malaysia tech investment",
+  "headline": "Son picks Malaysia sites for $50B tech push",
+  "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says",
+      "actor": "Malaysian PM Anwar Ibrahim",
+      "action": "Says Son chose sites for $50B tech spend",
+      "status": "reported",
+      "targets": [
+        "SoftBank Group (Masayoshi Son)"
+      ],
+      "topics": [
+        "AI data centers",
+        "Sarawak",
+        "Peninsular Malaysia"
+      ]
+    }
+  }
+}

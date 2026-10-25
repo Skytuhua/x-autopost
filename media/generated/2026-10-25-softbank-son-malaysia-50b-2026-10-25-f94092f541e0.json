@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "softbank-son-malaysia-50b-2026-10-25",
+  "subject": "SoftBank and Malaysia tech investment",
+  "source_urls": [
+    "https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "dd317ea9c6ea27cbaa64ac1cb803f47279110d3a4551239570d34687705bbe0a",
+  "image_sha256": "b679ff45f4a2e28fc59acbf9bb5c8afb04c4dc47143523b476896917256229c4",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
