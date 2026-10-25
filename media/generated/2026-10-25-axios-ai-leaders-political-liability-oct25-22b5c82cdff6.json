@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "axios-ai-leaders-political-liability-oct25",
+  "subject": "AI company leaders and Washington",
+  "source_urls": [
+    "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "53108cefaf97ca5963d48690ef2da048e8886ec14dcd341b89b976e8c3811025",
+  "image_sha256": "e6fc5eb7edbab9bd19cbc7b70c8ffe0e981266af70885c0b58adcdbfae5ebdef",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

@@ -1,33 +1,33 @@
 {
- "time": "2026-10-25T11:16:19.526139Z",
- "text": "Nvidia open-sourced Flora, a tool that labels robot training video, with models on Hugging Face. Nvidia estimates 72 cents per video hour versus $88.50 for GPT-6 Astra, with slightly better quality in a 50-video test.",
+ "time": "2026-10-25T11:49:25.787644Z",
+ "text": "Axios reports lawmakers and White House advisers say AI company leaders are becoming a political liability, swinging between promises of prosperity and warnings of doom. Sen. John Curtis, a Republican, called the industry out of touch with everyday Americans.",
  "media": [
-  "media/generated/2026-10-25-nvidia-flora-robot-video-labeling-2026-10-25-f77ff22e21e6.png"
+  "media/generated/2026-10-25-axios-ai-leaders-political-liability-oct25-22b5c82cdff6.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2114315114258079744"
+  "2114323445160796160"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114315115872829632\",\"text\":\"Nvidia open-sourced Flora, a tool that labels robot training video, with models on Hugging Face. Nvidia estimates 72 cents per video hour versus $88.50 for GPT-6 Astra, with slightly better quality in a 50-video test. https://t.co/AGUxSPsmrs\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114323447136276939\",\"text\":\"Axios reports lawmakers and White House advisers say AI company leaders are becoming a political liability, swinging between promises of prosperity and warnings of doom. Sen. John Curtis, a Republican, called the industry out of touch with everyday Americans. https://t.co/agUQDTmMiW\"}}",
  "visual": {
-  "family": "research",
-  "variant": "flow",
-  "palette": "clay",
-  "story_id": "nvidia-flora-robot-video-labeling-2026-10-25",
-  "subject": "Nvidia Flora robot video labeling engine",
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "axios-ai-leaders-political-liability-oct25",
+  "subject": "AI company leaders and Washington",
   "source_urls": [
-   "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/"
+   "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "949c18623413eafbba801b72fe7151a8cc0a579d4f8a3918dc4556d508f7158d",
-  "image_sha256": "79ff62dba074c20b31cb125e56f8925819f85d0519faa111191998f90db33cef",
+  "content_sha256": "53108cefaf97ca5963d48690ef2da048e8886ec14dcd341b89b976e8c3811025",
+  "image_sha256": "e6fc5eb7edbab9bd19cbc7b70c8ffe0e981266af70885c0b58adcdbfae5ebdef",
   "qa": {
    "width": 1600,
    "height": 900,

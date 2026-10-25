@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "story_id": "axios-ai-leaders-political-liability-oct25",
+  "story_type": "policy",
+  "subject": "AI company leaders and Washington",
+  "headline": "AI leaders seen as political liability",
+  "source": {
+    "name": "Axios",
+    "url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
+      "actor": "Lawmakers and White House advisers",
+      "action": "Say AI leaders are a political liability",
+      "status": "reported",
+      "targets": [
+        "AI company executives"
+      ],
+      "topics": [
+        "Mixed prosperity and doom messaging"
+      ]
+    }
+  }
+}
