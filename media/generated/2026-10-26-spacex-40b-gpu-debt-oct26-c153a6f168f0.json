@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "spacex-40b-gpu-debt-oct26",
+  "subject": "SpaceX GPU debt financing",
+  "source_urls": [
+    "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "1d8b2016cdbcc0bc7c59448981b8c211a79233ab5266c8f37c09854e81fa0735",
+  "image_sha256": "4eb3c1de11d30610a83de552c332326583c7cb78ee3e9a5e26ef225971264173",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "spacex-40b-gpu-debt-oct26",
+  "story_type": "funding",
+  "subject": "SpaceX GPU debt financing",
+  "headline": "SpaceX closes $40B GPU debt deal",
+  "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "value": "$40B",
+      "label": "Debt financing for GPUs, per Musk",
+      "period": "Announced Oct 25, 2026"
+    }
+  }
+}
