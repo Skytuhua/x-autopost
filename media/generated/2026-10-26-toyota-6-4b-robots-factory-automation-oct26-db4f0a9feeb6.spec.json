@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "toyota-6-4b-robots-factory-automation-oct26",
+  "story_type": "funding",
+  "subject": "Toyota robotics and factory automation plan",
+  "headline": "Toyota plans 400,000 robots",
+  "source": {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3",
+      "value": "$6.4B",
+      "label": "Reported yearly Toyota automation spend",
+      "period": "Annual plan, FT report",
+      "change": "400,000",
+      "change_label": "robots planned, about 250,000 for group firms and suppliers"
+    }
+  }
+}

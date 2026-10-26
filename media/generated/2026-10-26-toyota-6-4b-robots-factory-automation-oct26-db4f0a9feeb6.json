@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "toyota-6-4b-robots-factory-automation-oct26",
+  "subject": "Toyota robotics and factory automation plan",
+  "source_urls": [
+    "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "1c67cefa5700cdfdc311b9ba4b8f96cbd58f4b152bc11d9dd82f0bb708629b1e",
+  "image_sha256": "47c2e0d8cd99714f57428674438e6f34dd2c0eb1756d6229a098825c16fc4e74",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
