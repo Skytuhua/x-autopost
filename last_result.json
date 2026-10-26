@@ -1,52 +1,14 @@
 {
- "time": "2026-10-26T10:16:32.336128Z",
- "text": "Moderators of Reddit's r/opensource banned projects that use AI, are made by AI or are meant for AI, The Verge reports. New projects and non-English posts are barred too. A rival subreddit, r/trueopensource, has already started.",
- "media": [
-  "media/generated/2026-10-26-reddit-ropensource-ai-ban-oct26-18e5c80f6a6a.png"
- ],
+ "time": "2026-10-26T11:16:40.377754Z",
+ "text": "Micro1 plans to spend $1 billion over the next year licensing companies' internal work data, including Slack messages and Google Docs, for AI labs, Business Insider reports. Micro1 says it pays $100,000 to $2 million per midsize company.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [],
- "media_ids": [
-  "2114662456261787648"
+ "warnings": [
+  "Story image omitted: Image layout rejected: text outside its region: Gartner estimate of AI data spending, from under $"
  ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114662457901773281\",\"text\":\"Moderators of Reddit's r/opensource banned projects that use AI, are made by AI or are meant for AI, The Verge reports. New projects and non-English posts are barred too. A rival subreddit, r/trueopensource, has already started. https://t.co/6CfhJ4ftGq\"}}",
- "visual": {
-  "family": "policy",
-  "variant": "stack",
-  "palette": "ivory",
-  "story_id": "reddit-ropensource-ai-ban-oct26",
-  "subject": "r/opensource new submission rules",
-  "source_urls": [
-   "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "22a25a247b2e06696762670898e4222a7cf76c00ecb0e24c90bbddee1547ea83",
-  "image_sha256": "af636a4ef8961c1372a5ca55f3af91f2bc25c93375d2b608b8c54e67de5a79a6",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114677589692317901\",\"text\":\"Micro1 plans to spend $1 billion over the next year licensing companies' internal work data, including Slack messages and Google Docs, for AI labs, Business Insider reports. Micro1 says it pays $100,000 to $2 million per midsize company.\"}}"
 }
