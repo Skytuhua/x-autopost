@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "story_id": "sweden-blocks-chatgpt-claude-oct26",
+  "story_type": "policy",
+  "subject": "Sweden Government Offices AI tool block",
+  "headline": "Sweden blocks ChatGPT and Claude",
+  "source": {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+      "actor": "Sweden's Government Offices",
+      "action": "Blocks ChatGPT and Claude on staff computers",
+      "status": "confirmed",
+      "targets": [
+        "ChatGPT (OpenAI)",
+        "Claude (Anthropic)"
+      ],
+      "topics": [
+        "Microsoft Copilot approved",
+        "Security review",
+        "Internal AI platform stays"
+      ]
+    }
+  }
+}

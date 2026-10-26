@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "sweden-blocks-chatgpt-claude-oct26",
+  "subject": "Sweden Government Offices AI tool block",
+  "source_urls": [
+    "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "beb1e7748d68c07c89ab06ed4d34ee4560ccf37a02e1f3ed7c3b51794c047def",
+  "image_sha256": "6f2508d95bff3d18a6d34e4f6b83dd4beafbdc6341d492094a5d004a00cc048d",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
