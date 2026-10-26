@@ -1,52 +1,14 @@
 {
- "time": "2026-10-26T07:49:31.824591Z",
- "text": "Sweden's Government Offices started blocking ChatGPT and Claude on staff computers today, Sveriges Radio reports. Staff are told to use Microsoft Copilot, which the offices reviewed. Some employees keep access through an internal AI platform.",
- "media": [
-  "media/generated/2026-10-26-sweden-blocks-chatgpt-claude-oct26-593a269fb51f.png"
- ],
+ "time": "2026-10-26T08:17:22.182757Z",
+ "text": "AWS's Kiro coding tool is giving eligible university students 1,000 free credits a month for a year. Sign up on the Kiro students page with a school email, then verify through SheerID. No card needed, and only listed schools qualify.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [],
- "media_ids": [
-  "2114625460265189376"
+ "warnings": [
+  "Story image omitted: Image layout rejected: text outside its region: Students 18+ at listed universities, verified via "
  ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114625461682876495\",\"text\":\"Sweden's Government Offices started blocking ChatGPT and Claude on staff computers today, Sveriges Radio reports. Staff are told to use Microsoft Copilot, which the offices reviewed. Some employees keep access through an internal AI platform. https://t.co/OsuR24V86N\"}}",
- "visual": {
-  "family": "policy",
-  "variant": "stack",
-  "palette": "ivory",
-  "story_id": "sweden-blocks-chatgpt-claude-oct26",
-  "subject": "Sweden Government Offices AI tool block",
-  "source_urls": [
-   "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "beb1e7748d68c07c89ab06ed4d34ee4560ccf37a02e1f3ed7c3b51794c047def",
-  "image_sha256": "6f2508d95bff3d18a6d34e4f6b83dd4beafbdc6341d492094a5d004a00cc048d",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114632465856045122\",\"text\":\"AWS's Kiro coding tool is giving eligible university students 1,000 free credits a month for a year. Sign up on the Kiro students page with a school email, then verify through SheerID. No card needed, and only listed schools qualify.\"}}"
 }
