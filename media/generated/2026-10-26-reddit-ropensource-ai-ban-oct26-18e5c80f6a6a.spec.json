@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "story_id": "reddit-ropensource-ai-ban-oct26",
+  "story_type": "policy",
+  "subject": "r/opensource new submission rules",
+  "headline": "r/opensource bans AI projects",
+  "source": {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "actor": "r/opensource moderators",
+      "action": "Ban AI projects under new rules",
+      "status": "confirmed",
+      "targets": [
+        "Projects that use or target AI",
+        "Projects under one year old",
+        "Non-English posts"
+      ],
+      "topics": [
+        "Rival r/trueopensource formed"
+      ]
+    }
+  }
+}

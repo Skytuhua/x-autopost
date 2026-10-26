@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "reddit-ropensource-ai-ban-oct26",
+  "subject": "r/opensource new submission rules",
+  "source_urls": [
+    "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "22a25a247b2e06696762670898e4222a7cf76c00ecb0e24c90bbddee1547ea83",
+  "image_sha256": "af636a4ef8961c1372a5ca55f3af91f2bc25c93375d2b608b8c54e67de5a79a6",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
