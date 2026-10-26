@@ -1,25 +1,7 @@
 {
- "time": "2026-10-26T20:47:16.567787Z",
- "action": "scan",
- "target": "",
+ "time": "2026-10-26T22:18:02.165725Z",
+ "action": "repost",
+ "target": "2114818620782248024",
  "status": 200,
- "posts": [
-  {
-   "user": "sama",
-   "created_at": "2026-10-26T20:37:05.000Z",
-   "edit_history_tweet_ids": [
-    "2114818620782248024"
-   ],
-   "id": "2114818620782248024",
-   "public_metrics": {
-    "bookmark_count": 36,
-    "impression_count": 36346,
-    "like_count": 465,
-    "quote_count": 13,
-    "reply_count": 124,
-    "retweet_count": 33
-   },
-   "text": "6.1 Terra is here! It is good at a lot of things, but we are especially excited for this new era of computer use. https://t.co/TbpHp75Os0"
-  }
- ]
+ "body": "{\"data\":{\"rest_id\":\"2114844026063237527\",\"retweeted\":true}}"
 }
