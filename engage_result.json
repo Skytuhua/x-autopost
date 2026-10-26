@@ -1,7 +1,25 @@
 {
- "time": "2026-10-26T12:15:16.503880Z",
+ "time": "2026-10-26T13:45:36.496602Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": []
+ "posts": [
+  {
+   "user": "AnthropicAI",
+   "created_at": "2026-10-26T13:05:46.000Z",
+   "edit_history_tweet_ids": [
+    "2114705042817110293"
+   ],
+   "id": "2114705042817110293",
+   "public_metrics": {
+    "bookmark_count": 482,
+    "impression_count": 215900,
+    "like_count": 3756,
+    "quote_count": 481,
+    "reply_count": 338,
+    "retweet_count": 518
+   },
+   "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://t.co/zuRMrxXzNx\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities"
+  }
+ ]
 }
