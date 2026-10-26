@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "story_id": "arc-prize-gpt-6-astra-two-scores-oct26",
+  "story_type": "research",
+  "subject": "GPT-6 Astra on ARC-AGI-3",
+  "headline": "Two scores for GPT-6 Astra",
+  "source": {
+    "name": "ARC Prize",
+    "url": "https://arcprize.org/results/openai-gpt-6-astra"
+  },
+  "content": {
+    "research": {
+      "source_url": "https://arcprize.org/results/openai-gpt-6-astra",
+      "conclusion": "ARC lists both. Startup Fortune says ARC rejects the 99.9% as not comparable.",
+      "steps": [
+        {
+          "title": "Standard harness",
+          "detail": "Model carries forward notes it keeps. Best: 62.7% at max reasoning, $26,098 per run.",
+          "source_url": "https://arcprize.org/results/openai-gpt-6-astra"
+        },
+        {
+          "title": "Provider adapter",
+          "detail": "Keeps reasoning state between requests. Best: 99.9% at high reasoning, $18,817.",
+          "source_url": "https://arcprize.org/results/openai-gpt-6-astra"
+        }
+      ]
+    }
+  }
+}

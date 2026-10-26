@@ -1,0 +1,36 @@
+{
+  "family": "research",
+  "variant": "vertical",
+  "palette": "clay",
+  "story_id": "arc-prize-gpt-6-astra-two-scores-oct26",
+  "subject": "GPT-6 Astra on ARC-AGI-3",
+  "source_urls": [
+    "https://arcprize.org/results/openai-gpt-6-astra"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "3b757e48898a50c7b5e4c1ba0d2165f7d00bbc8097ac52c25ed64880df3a5a7f",
+  "image_sha256": "30786e4b39de411a3ea78987b943d26004f02191b7818bac4d979b0e6dbfcf7a",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
