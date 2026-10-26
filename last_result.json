@@ -1,12 +1,52 @@
 {
- "time": "2026-10-26T08:48:58.527642Z",
- "text": "Unitree's new H2-X humanoid lost part of its right lower leg after a failed side flip at a Hangzhou conference, TechNode reports. The robot was unveiled a day earlier, and Unitree hasn't commented yet.",
- "media": [],
+ "time": "2026-10-26T09:17:41.671755Z",
+ "text": "Owners of Elvis Presley's music sued Anthropic in federal court in San Francisco, alleging Claude was trained on 274 of his songs without a license. They want up to $41.1 million. Anthropic says it will defend the case fully.",
+ "media": [
+  "media/generated/2026-10-26-elvis-rights-holders-sue-anthropic-oct26-124f8de0d021.png"
+ ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
- "media_ids": [],
+ "media_ids": [
+  "2114647647814361088"
+ ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114640419535593811\",\"text\":\"Unitree's new H2-X humanoid lost part of its right lower leg after a failed side flip at a Hangzhou conference, TechNode reports. The robot was unveiled a day earlier, and Unitree hasn't commented yet.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114647649441706405\",\"text\":\"Owners of Elvis Presley's music sued Anthropic in federal court in San Francisco, alleging Claude was trained on 274 of his songs without a license. They want up to $41.1 million. Anthropic says it will defend the case fully. https://t.co/4HwiOadDN6\"}}",
+ "visual": {
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "elvis-rights-holders-sue-anthropic-oct26",
+  "subject": "Elvis Presley rights holders v. Anthropic",
+  "source_urls": [
+   "https://www.nbcnews.com/tech/tech-news/elvis-presleys-rights-holders-sue-anthropic-saying-trained-ai-music-rcna605551"
+  ],
+  "dimensions": [
+   1600,
+   900
+  ],
+  "content_sha256": "3cda24c7c833d402641027a929858e9b4a05582c40b0a62aad311a23d0fc5bc8",
+  "image_sha256": "06b31de40996c53fd35d011ef2b3334fc14b3f0da263f30a450b7beae4d8a4f9",
+  "qa": {
+   "width": 1600,
+   "height": 900,
+   "issues": [],
+   "fonts": [
+    {
+     "family": "Manrope",
+     "status": "loaded"
+    },
+    {
+     "family": "Space",
+     "status": "loaded"
+    },
+    {
+     "family": "Instrument",
+     "status": "loaded"
+    }
+   ]
+  },
+  "warnings": []
+ }
 }

@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "elvis-rights-holders-sue-anthropic-oct26",
+  "subject": "Elvis Presley rights holders v. Anthropic",
+  "source_urls": [
+    "https://www.nbcnews.com/tech/tech-news/elvis-presleys-rights-holders-sue-anthropic-saying-trained-ai-music-rcna605551"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "3cda24c7c833d402641027a929858e9b4a05582c40b0a62aad311a23d0fc5bc8",
+  "image_sha256": "06b31de40996c53fd35d011ef2b3334fc14b3f0da263f30a450b7beae4d8a4f9",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

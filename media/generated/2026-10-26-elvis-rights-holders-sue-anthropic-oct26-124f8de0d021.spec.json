@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "story_id": "elvis-rights-holders-sue-anthropic-oct26",
+  "story_type": "policy",
+  "subject": "Elvis Presley rights holders v. Anthropic",
+  "headline": "Elvis rights holders sue Anthropic",
+  "source": {
+    "name": "NBC News",
+    "url": "https://www.nbcnews.com/tech/tech-news/elvis-presleys-rights-holders-sue-anthropic-saying-trained-ai-music-rcna605551"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.nbcnews.com/tech/tech-news/elvis-presleys-rights-holders-sue-anthropic-saying-trained-ai-music-rcna605551",
+      "actor": "Elvis Presley rights holders",
+      "action": "Sue over Claude training on 274 songs",
+      "status": "alleged",
+      "targets": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Up to $41.1M in damages",
+        "Filed Oct 23, San Francisco"
+      ]
+    }
+  }
+}
