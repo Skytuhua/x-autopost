@@ -1,14 +1,52 @@
 {
- "time": "2026-10-26T08:17:22.182757Z",
- "text": "AWS's Kiro coding tool is giving eligible university students 1,000 free credits a month for a year. Sign up on the Kiro students page with a school email, then verify through SheerID. No card needed, and only listed schools qualify.",
- "media": [],
+ "time": "2026-10-26T08:47:40.774568Z",
+ "text": "Tata Communications plans to spend up to $450 million on a 10,000 km fiber network linking India's AI hubs, Bloomberg reports. The first phase connects Mumbai and Chennai, which both link to undersea cables.",
+ "media": [
+  "media/generated/2026-10-26-tata-comms-450m-india-ai-fiber-oct26-56f2ed3783c9.png"
+ ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: Students 18+ at listed universities, verified via "
+ "warnings": [],
+ "media_ids": [
+  "2114640094233608192"
  ],
- "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114632465856045122\",\"text\":\"AWS's Kiro coding tool is giving eligible university students 1,000 free credits a month for a year. Sign up on the Kiro students page with a school email, then verify through SheerID. No card needed, and only listed schools qualify.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114640095965790379\",\"text\":\"Tata Communications plans to spend up to $450 million on a 10,000 km fiber network linking India's AI hubs, Bloomberg reports. The first phase connects Mumbai and Chennai, which both link to undersea cables. https://t.co/xA2TNQ0Y9g\"}}",
+ "visual": {
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "tata-comms-450m-india-ai-fiber-oct26",
+  "subject": "Tata Communications India AI fiber network",
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2026-10-26/tata-commits-450-million-to-ai-superhighway-linking-hubs"
+  ],
+  "dimensions": [
+   1600,
+   900
+  ],
+  "content_sha256": "879744ec179ffaef3a9da06d872b807760fb2bd55113221245f5d61d3a8340ae",
+  "image_sha256": "2e468475a2e72b077ec64383becbf8188f37f315aadec9a4cca3d90df2264441",
+  "qa": {
+   "width": 1600,
+   "height": 900,
+   "issues": [],
+   "fonts": [
+    {
+     "family": "Manrope",
+     "status": "loaded"
+    },
+    {
+     "family": "Space",
+     "status": "loaded"
+    },
+    {
+     "family": "Instrument",
+     "status": "loaded"
+    }
+   ]
+  },
+  "warnings": []
+ }
 }

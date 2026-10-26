@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "tata-comms-450m-india-ai-fiber-oct26",
+  "story_type": "funding",
+  "subject": "Tata Communications India AI fiber network",
+  "headline": "Tata plans an AI fiber network",
+  "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-26/tata-commits-450-million-to-ai-superhighway-linking-hubs"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-26/tata-commits-450-million-to-ai-superhighway-linking-hubs",
+      "value": "$450M",
+      "label": "Planned spend on 10,000 km AI fiber network in India",
+      "period": "Announced Oct 26, 2026"
+    }
+  }
+}

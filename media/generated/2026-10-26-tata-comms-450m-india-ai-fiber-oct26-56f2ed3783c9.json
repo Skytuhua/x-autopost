@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "tata-comms-450m-india-ai-fiber-oct26",
+  "subject": "Tata Communications India AI fiber network",
+  "source_urls": [
+    "https://www.bloomberg.com/news/articles/2026-10-26/tata-commits-450-million-to-ai-superhighway-linking-hubs"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "879744ec179ffaef3a9da06d872b807760fb2bd55113221245f5d61d3a8340ae",
+  "image_sha256": "2e468475a2e72b077ec64383becbf8188f37f315aadec9a4cca3d90df2264441",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
