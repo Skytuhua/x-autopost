@@ -1,14 +1,52 @@
 {
- "time": "2026-10-27T08:48:23.741320Z",
- "text": "Intel agreed to buy quantum software maker Classiq. Intel didn't state a price. Calcalist reports about $2.3 billion in cash and stock, the biggest quantum company deal yet. Closing is expected in the first half of 2027.",
- "media": [],
- "reply_to": "",
+ "time": "2026-10-27T09:17:38.773499Z",
+ "text": "Meta priced its stock sale and upsized the common part from $22.5 billion to $25 billion, at $625 a share. With $12.5 billion of preferred shares, that's $37.5 billion now. Another $60 billion is planned later.",
+ "media": [
+  "media/generated/2026-10-27-meta-stock-offering-priced-upsized-oct-26-eecf38814bbf.png"
+ ],
+ "reply_to": "2114982161619304927",
  "dry_run": false,
  "preview": false,
- "warnings": [
-  "Story image omitted: financial.label must contain 1-60 characters"
+ "warnings": [],
+ "media_ids": [
+  "2115010023264751616"
  ],
- "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115002662097731901\",\"text\":\"Intel agreed to buy quantum software maker Classiq. Intel didn't state a price. Calcalist reports about $2.3 billion in cash and stock, the biggest quantum company deal yet. Closing is expected in the first half of 2027.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115010025227710596\",\"text\":\"Meta priced its stock sale and upsized the common part from $22.5 billion to $25 billion, at $625 a share. With $12.5 billion of preferred shares, that's $37.5 billion now. Another $60 billion is planned later. https://t.co/oUnFM8qiDe\"}}",
+ "visual": {
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "meta-stock-offering-priced-upsized-oct-26",
+  "subject": "Meta stock offering",
+  "source_urls": [
+   "https://www.prnewswire.com/news-releases/meta-announces-pricing-of-offering-of-depositary-shares-representing-series-a-mandatory-convertible-preferred-stock-and-offering-of-class-a-common-stock-in-connection-with-forward-sale-agreements-302920247.html"
+  ],
+  "dimensions": [
+   1600,
+   900
+  ],
+  "content_sha256": "aafb187c1483ae5dfa22a1e5dae6858304c89fead71c9e90dc31d811af065970",
+  "image_sha256": "ddffae82ff343f0f1e07c304faaac3757a0a68bd418ee9cdf5135d24b3a0fe4e",
+  "qa": {
+   "width": 1600,
+   "height": 900,
+   "issues": [],
+   "fonts": [
+    {
+     "family": "Manrope",
+     "status": "loaded"
+    },
+    {
+     "family": "Space",
+     "status": "loaded"
+    },
+    {
+     "family": "Instrument",
+     "status": "loaded"
+    }
+   ]
+  },
+  "warnings": []
+ }
 }

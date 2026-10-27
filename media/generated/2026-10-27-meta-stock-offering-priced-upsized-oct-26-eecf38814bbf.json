@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "meta-stock-offering-priced-upsized-oct-26",
+  "subject": "Meta stock offering",
+  "source_urls": [
+    "https://www.prnewswire.com/news-releases/meta-announces-pricing-of-offering-of-depositary-shares-representing-series-a-mandatory-convertible-preferred-stock-and-offering-of-class-a-common-stock-in-connection-with-forward-sale-agreements-302920247.html"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "aafb187c1483ae5dfa22a1e5dae6858304c89fead71c9e90dc31d811af065970",
+  "image_sha256": "ddffae82ff343f0f1e07c304faaac3757a0a68bd418ee9cdf5135d24b3a0fe4e",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

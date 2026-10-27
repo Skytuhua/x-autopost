@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "meta-stock-offering-priced-upsized-oct-26",
+  "story_type": "funding",
+  "subject": "Meta stock offering",
+  "headline": "Meta upsizes its stock sale",
+  "source": {
+    "name": "Meta press release",
+    "url": "https://www.prnewswire.com/news-releases/meta-announces-pricing-of-offering-of-depositary-shares-representing-series-a-mandatory-convertible-preferred-stock-and-offering-of-class-a-common-stock-in-connection-with-forward-sale-agreements-302920247.html"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.prnewswire.com/news-releases/meta-announces-pricing-of-offering-of-depositary-shares-representing-series-a-mandatory-convertible-preferred-stock-and-offering-of-class-a-common-stock-in-connection-with-forward-sale-agreements-302920247.html",
+      "value": "$37.5B",
+      "label": "Meta common and preferred stock priced",
+      "period": "Priced Oct 26, 2026",
+      "change": "+$2.5B",
+      "change_label": "Common portion raised from $22.5B to $25B"
+    }
+  }
+}
