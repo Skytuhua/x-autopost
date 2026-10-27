@@ -1,7 +1,76 @@
 {
- "time": "2026-10-27T15:48:32.582075Z",
+ "time": "2026-10-27T17:19:40.052418Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": []
+ "posts": [
+  {
+   "user": "GoogleDeepMind",
+   "created_at": "2026-10-27T16:10:56.000Z",
+   "edit_history_tweet_ids": [
+    "2115114030503166385"
+   ],
+   "id": "2115114030503166385",
+   "public_metrics": {
+    "bookmark_count": 35,
+    "impression_count": 23894,
+    "like_count": 226,
+    "quote_count": 7,
+    "reply_count": 15,
+    "retweet_count": 20
+   },
+   "text": "Here\u2019s what\u2019s new with Genie 4:\n\ud83d\udd35 Photorealism: Built on Gemini Omni for lifelike detail across spaces and subjects\n\ud83d\udd35 Advanced physics: Aerodynamics, collisions, and people who move naturally\n\ud83d\udd35 Real-time controls: Prompt to change the scene, add elements, or interact with https://t.co/3l2RvELUK0"
+  },
+  {
+   "user": "GoogleDeepMind",
+   "created_at": "2026-10-27T16:10:55.000Z",
+   "edit_history_tweet_ids": [
+    "2115114028338962672"
+   ],
+   "id": "2115114028338962672",
+   "public_metrics": {
+    "bookmark_count": 857,
+    "impression_count": 172931,
+    "like_count": 3338,
+    "quote_count": 327,
+    "reply_count": 243,
+    "retweet_count": 418
+   },
+   "text": "This is Genie 4, our most realistic and interactive world model yet. \ud83c\udf10\n\nExplore dynamic environments in real time to see how the scene responds, sounds, and how the people in it move, react, and speak. https://t.co/6mmSUm9BBO"
+  },
+  {
+   "user": "sundarpichai",
+   "created_at": "2026-10-27T16:15:48.000Z",
+   "edit_history_tweet_ids": [
+    "2115115254653018402"
+   ],
+   "id": "2115115254653018402",
+   "public_metrics": {
+    "bookmark_count": 10,
+    "impression_count": 13536,
+    "like_count": 77,
+    "quote_count": 3,
+    "reply_count": 14,
+    "retweet_count": 6
+   },
+   "text": "The demo above shows how all these capabilities come together in real time. Prompt \u201ctraffic light green,\u201d and Gemini reasons through what happens next as the signal changes: the engine revs, and the motorcycle accelerates down the coast.\n\nFull prompt here:\n\nEnvironment: A"
+  },
+  {
+   "user": "sundarpichai",
+   "created_at": "2026-10-27T16:15:47.000Z",
+   "edit_history_tweet_ids": [
+    "2115115252690145519"
+   ],
+   "id": "2115115252690145519",
+   "public_metrics": {
+    "bookmark_count": 450,
+    "impression_count": 128814,
+    "like_count": 2688,
+    "quote_count": 107,
+    "reply_count": 192,
+    "retweet_count": 229
+   },
+   "text": "Excited to share Genie 4 today our most realistic and interactive world model:\n\n- steer dynamic environments in real time, shaping events, camera angles, and actions\n\n- generate native audio matched to the world, from realistic background sounds to characters who can converse in https://t.co/BFgQQH9KUb"
+  }
+ ]
 }
