@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "nvidia-invests-3b-meta-equity-offering",
+  "story_type": "funding",
+  "subject": "Nvidia investment in Meta",
+  "headline": "Nvidia puts $3B into Meta's stock sale",
+  "source": {
+    "name": "NVIDIA Newsroom",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+      "value": "$3 billion",
+      "label": "Nvidia investment in Meta's equity offering",
+      "period": "Announced Oct 26-27, 2026"
+    }
+  }
+}

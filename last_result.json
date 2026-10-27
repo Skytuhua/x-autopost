@@ -1,14 +1,52 @@
 {
- "time": "2026-10-26T11:16:40.377754Z",
- "text": "Micro1 plans to spend $1 billion over the next year licensing companies' internal work data, including Slack messages and Google Docs, for AI labs, Business Insider reports. Micro1 says it pays $100,000 to $2 million per midsize company.",
- "media": [],
+ "time": "2026-10-27T07:26:55.673197Z",
+ "text": "Nvidia says it will invest $3 billion in Meta's new stock offering and expand their work on Meta's Muse models. Meta is raising up to $95 billion in equity to pay for AI data centers.",
+ "media": [
+  "media/generated/2026-10-27-nvidia-invests-3b-meta-equity-offering-761f61edd14e.png"
+ ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: Gartner estimate of AI data spending, from under $"
+ "warnings": [],
+ "media_ids": [
+  "2114982160029675520"
  ],
- "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114677589692317901\",\"text\":\"Micro1 plans to spend $1 billion over the next year licensing companies' internal work data, including Slack messages and Google Docs, for AI labs, Business Insider reports. Micro1 says it pays $100,000 to $2 million per midsize company.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114982161619304927\",\"text\":\"Nvidia says it will invest $3 billion in Meta's new stock offering and expand their work on Meta's Muse models. Meta is raising up to $95 billion in equity to pay for AI data centers. https://t.co/5Aa9L36Gmo\"}}",
+ "visual": {
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "nvidia-invests-3b-meta-equity-offering",
+  "subject": "Nvidia investment in Meta",
+  "source_urls": [
+   "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth"
+  ],
+  "dimensions": [
+   1600,
+   900
+  ],
+  "content_sha256": "5096e609407a4e5fd938015dd0e645687a39fa5ecdbb2afdf46e36b6ba58b768",
+  "image_sha256": "3d85d7e0ece219b4ecac41358d638e832a3e629d66c8c35d323278cf9b695694",
+  "qa": {
+   "width": 1600,
+   "height": 900,
+   "issues": [],
+   "fonts": [
+    {
+     "family": "Manrope",
+     "status": "loaded"
+    },
+    {
+     "family": "Space",
+     "status": "loaded"
+    },
+    {
+     "family": "Instrument",
+     "status": "loaded"
+    }
+   ]
+  },
+  "warnings": []
+ }
 }

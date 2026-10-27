@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "nvidia-invests-3b-meta-equity-offering",
+  "subject": "Nvidia investment in Meta",
+  "source_urls": [
+    "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "5096e609407a4e5fd938015dd0e645687a39fa5ecdbb2afdf46e36b6ba58b768",
+  "image_sha256": "3d85d7e0ece219b4ecac41358d638e832a3e629d66c8c35d323278cf9b695694",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
