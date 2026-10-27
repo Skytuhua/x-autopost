@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "story_id": "openai-three-science-discoveries-oct-26",
+  "story_type": "research",
+  "subject": "OpenAI math, computer science and physics results",
+  "headline": "OpenAI claims 3 discoveries",
+  "source": {
+    "name": "OpenAI",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+  },
+  "content": {
+    "research": {
+      "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "conclusion": "OpenAI's claims. Outside expert groups are now checking them.",
+      "steps": [
+        {
+          "title": "Math",
+          "detail": "Local smoothing proved in every dimension, which also settles Kakeya",
+          "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+        },
+        {
+          "title": "Computer science",
+          "detail": "Exponential Time Hypothesis disproved, checked in Lean",
+          "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+        },
+        {
+          "title": "Physics",
+          "detail": "Existence proof for QCD and a Standard Model completion",
+          "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+        }
+      ]
+    }
+  }
+}

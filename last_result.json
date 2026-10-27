@@ -1,33 +1,33 @@
 {
- "time": "2026-10-27T07:50:08.259682Z",
- "text": "Microsoft is offering voluntary buyouts to about 60,000 employees, more than a quarter of its workforce, Reuters reports. Staff in the US, UK, Canada and India at level 70 and below are eligible. The offer is time-limited.",
+ "time": "2026-10-27T08:17:45.447581Z",
+ "text": "OpenAI says its models disproved the Exponential Time Hypothesis, a computer science conjecture used in hundreds of papers. It also claims proofs in math (local smoothing) and physics (QCD). Outside groups are now checking the work.",
  "media": [
-  "media/generated/2026-10-27-microsoft-voluntary-exit-offer-c7ccf3bc889b.png"
+  "media/generated/2026-10-27-openai-three-science-discoveries-oct-26-f557e7e82ae6.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2114988001189052417"
+  "2114994951406686208"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114988002812301779\",\"text\":\"Microsoft is offering voluntary buyouts to about 60,000 employees, more than a quarter of its workforce, Reuters reports. Staff in the US, UK, Canada and India at level 70 and below are eligible. The offer is time-limited. https://t.co/cpRSZExTqq\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114994953025634660\",\"text\":\"OpenAI says its models disproved the Exponential Time Hypothesis, a computer science conjecture used in hundreds of papers. It also claims proofs in math (local smoothing) and physics (QCD). Outside groups are now checking the work. https://t.co/VThb1RMSpX\"}}",
  "visual": {
-  "family": "policy",
-  "variant": "branch",
-  "palette": "ivory",
-  "story_id": "microsoft-voluntary-exit-offer",
-  "subject": "Microsoft voluntary exit offer",
+  "family": "research",
+  "variant": "flow",
+  "palette": "clay",
+  "story_id": "openai-three-science-discoveries-oct-26",
+  "subject": "OpenAI math, computer science and physics results",
   "source_urls": [
-   "https://www.investing.com/news/stock-market-news/microsoft-is-offering-buyouts-to-around-60000-employees-business-insider-reports-4973294"
+   "https://openai.com/index/building-scientific-understanding-with-academic-communities"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "5aaf6fe23aa056146729e55e3d9c1a5a98187d86408915f6fa22c6d3f9074968",
-  "image_sha256": "6298d4d174af57d6920e0bd23b38403f4cf0f52c0ba22d7d2ea127168d858967",
+  "content_sha256": "e33b5f140693988deff452f51f6c465a89dd4e48f69e460fc67e88f4cf85b21a",
+  "image_sha256": "328eec1e7062c82439c5b3204e373a477a01d2e1063d5184a198519a02cc3539",
   "qa": {
    "width": 1600,
    "height": 900,
