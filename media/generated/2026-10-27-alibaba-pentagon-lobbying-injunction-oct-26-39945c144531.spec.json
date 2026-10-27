@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "story_id": "alibaba-pentagon-lobbying-injunction-oct-26",
+  "story_type": "policy",
+  "subject": "Alibaba v. US Department of Defense injunction",
+  "headline": "Alibaba wins Pentagon injunction",
+  "source": {
+    "name": "Reuters via Straits Times",
+    "url": "https://www.straitstimes.com/world/alibaba-wins-injunction-against-pentagon-contract-restrictions-tied-to-china-blacklist"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.straitstimes.com/world/alibaba-wins-injunction-against-pentagon-contract-restrictions-tied-to-china-blacklist",
+      "actor": "US federal judge, San Jose",
+      "action": "Granted Alibaba a preliminary injunction",
+      "status": "confirmed",
+      "targets": [
+        "Pentagon contract ban over Alibaba lobbyists"
+      ],
+      "topics": [
+        "Still on 1260H list"
+      ]
+    }
+  }
+}

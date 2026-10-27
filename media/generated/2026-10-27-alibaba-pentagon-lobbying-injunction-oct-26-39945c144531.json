@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "alibaba-pentagon-lobbying-injunction-oct-26",
+  "subject": "Alibaba v. US Department of Defense injunction",
+  "source_urls": [
+    "https://www.straitstimes.com/world/alibaba-wins-injunction-against-pentagon-contract-restrictions-tied-to-china-blacklist"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "f0df1978dde225fdf44d89ecbf911ffa18a5a2b9c87576161690d5a2cde7e984",
+  "image_sha256": "bc898f95eff930e6e596f6f2763f15fb46c15d7f8e8e36dfeaa4fae0d590dbef",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
