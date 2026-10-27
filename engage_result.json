@@ -1,25 +1,25 @@
 {
- "time": "2026-10-27T19:17:45.306989Z",
+ "time": "2026-10-27T21:15:14.146098Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "sundarpichai",
-   "created_at": "2026-10-27T17:48:29.000Z",
+   "user": "AnthropicAI",
+   "created_at": "2026-10-27T20:27:48.000Z",
    "edit_history_tweet_ids": [
-    "2115138580473647266"
+    "2115178675050307942"
    ],
-   "id": "2115138580473647266",
+   "id": "2115178675050307942",
    "public_metrics": {
-    "bookmark_count": 39,
-    "impression_count": 45563,
-    "like_count": 454,
-    "quote_count": 5,
-    "reply_count": 31,
-    "retweet_count": 26
+    "bookmark_count": 392,
+    "impression_count": 131240,
+    "like_count": 1962,
+    "quote_count": 108,
+    "reply_count": 194,
+    "retweet_count": 164
    },
-   "text": "Amazing to see deployed soldiers share a moment with their kids through Beam. Huge thanks to @USArmy @The_USO for helping to make this possible. https://t.co/ski1EaMdcS"
+   "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we\u2019ve learned much more about how Claude can support the many stages of"
   }
  ]
 }
