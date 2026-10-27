@@ -1,25 +1,25 @@
 {
- "time": "2026-10-27T21:15:14.146098Z",
+ "time": "2026-10-27T22:46:49.556721Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
    "user": "AnthropicAI",
-   "created_at": "2026-10-27T20:27:48.000Z",
+   "created_at": "2026-10-27T22:20:23.000Z",
    "edit_history_tweet_ids": [
-    "2115178675050307942"
+    "2115207004293853358"
    ],
-   "id": "2115178675050307942",
+   "id": "2115207004293853358",
    "public_metrics": {
-    "bookmark_count": 392,
-    "impression_count": 131240,
-    "like_count": 1962,
-    "quote_count": 108,
-    "reply_count": 194,
-    "retweet_count": 164
+    "bookmark_count": 54,
+    "impression_count": 38272,
+    "like_count": 484,
+    "quote_count": 19,
+    "reply_count": 86,
+    "retweet_count": 21
    },
-   "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we\u2019ve learned much more about how Claude can support the many stages of"
+   "text": "We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and territorial governments at 40% off.\nhttps://t.co/p0lA6cP2y1"
   }
  ]
 }
