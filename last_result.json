@@ -1,33 +1,33 @@
 {
- "time": "2026-10-27T07:26:55.673197Z",
- "text": "Nvidia says it will invest $3 billion in Meta's new stock offering and expand their work on Meta's Muse models. Meta is raising up to $95 billion in equity to pay for AI data centers.",
+ "time": "2026-10-27T07:27:54.992959Z",
+ "text": "Bank of America, Blackstone, Citi and Morgan Stanley announced a $63 billion financing deal for Broadcom AI chips that Anthropic will lease. Deliveries are expected to start in 2027, with Broadcom backing the lenders.",
  "media": [
-  "media/generated/2026-10-27-nvidia-invests-3b-meta-equity-offering-761f61edd14e.png"
+  "media/generated/2026-10-27-63b-financing-broadcom-chips-anthropic-97bb3112fb85.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2114982160029675520"
+  "2114982409091297280"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114982161619304927\",\"text\":\"Nvidia says it will invest $3 billion in Meta's new stock offering and expand their work on Meta's Muse models. Meta is raising up to $95 billion in equity to pay for AI data centers. https://t.co/5Aa9L36Gmo\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114982410685124723\",\"text\":\"Bank of America, Blackstone, Citi and Morgan Stanley announced a $63 billion financing deal for Broadcom AI chips that Anthropic will lease. Deliveries are expected to start in 2027, with Broadcom backing the lenders. https://t.co/w6YJo0ycRC\"}}",
  "visual": {
   "family": "financial",
-  "variant": "split",
+  "variant": "statement",
   "palette": "ink",
-  "story_id": "nvidia-invests-3b-meta-equity-offering",
-  "subject": "Nvidia investment in Meta",
+  "story_id": "63b-financing-broadcom-chips-anthropic",
+  "subject": "Anthropic Broadcom chip financing",
   "source_urls": [
-   "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth"
+   "https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "5096e609407a4e5fd938015dd0e645687a39fa5ecdbb2afdf46e36b6ba58b768",
-  "image_sha256": "3d85d7e0ece219b4ecac41358d638e832a3e629d66c8c35d323278cf9b695694",
+  "content_sha256": "9311711caebfeca1a604dfbb3c7c8e2680c75d694bbd7de8a893f546598e60a0",
+  "image_sha256": "d01772be09839ea0a0869d39b0c2310cb08f2a01f855ed8f641267f2e9997a2f",
   "qa": {
    "width": 1600,
    "height": 900,

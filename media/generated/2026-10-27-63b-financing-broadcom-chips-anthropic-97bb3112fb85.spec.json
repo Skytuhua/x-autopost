@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "63b-financing-broadcom-chips-anthropic",
+  "story_type": "funding",
+  "subject": "Anthropic Broadcom chip financing",
+  "headline": "$63B to finance chips for Anthropic",
+  "source": {
+    "name": "Broadcom Investor Center",
+    "url": "https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce",
+      "value": "$63 billion",
+      "label": "Financing for Broadcom AI chips leased to Anthropic",
+      "period": "Announced Oct 26, 2026"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "63b-financing-broadcom-chips-anthropic",
+  "subject": "Anthropic Broadcom chip financing",
+  "source_urls": [
+    "https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "9311711caebfeca1a604dfbb3c7c8e2680c75d694bbd7de8a893f546598e60a0",
+  "image_sha256": "d01772be09839ea0a0869d39b0c2310cb08f2a01f855ed8f641267f2e9997a2f",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
