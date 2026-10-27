@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "microsoft-voluntary-exit-offer",
+  "subject": "Microsoft voluntary exit offer",
+  "source_urls": [
+    "https://www.investing.com/news/stock-market-news/microsoft-is-offering-buyouts-to-around-60000-employees-business-insider-reports-4973294"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "5aaf6fe23aa056146729e55e3d9c1a5a98187d86408915f6fa22c6d3f9074968",
+  "image_sha256": "6298d4d174af57d6920e0bd23b38403f4cf0f52c0ba22d7d2ea127168d858967",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

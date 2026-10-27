@@ -1,33 +1,33 @@
 {
- "time": "2026-10-27T07:48:16.106842Z",
- "text": "Anthropic filed for a Nasdaq IPO under the ticker ANT. Its S-1 shows $16.3 billion in revenue for the first half of 2026, up from $1.2 billion a year earlier. Net loss was $80.7 billion, mostly noncash, TechCrunch reports.",
+ "time": "2026-10-27T07:50:08.259682Z",
+ "text": "Microsoft is offering voluntary buyouts to about 60,000 employees, more than a quarter of its workforce, Reuters reports. Staff in the US, UK, Canada and India at level 70 and below are eligible. The offer is time-limited.",
  "media": [
-  "media/generated/2026-10-27-anthropic-s1-ipo-filing-2bce1191df78.png"
+  "media/generated/2026-10-27-microsoft-voluntary-exit-offer-c7ccf3bc889b.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2114987530923765761"
+  "2114988001189052417"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114987532765086051\",\"text\":\"Anthropic filed for a Nasdaq IPO under the ticker ANT. Its S-1 shows $16.3 billion in revenue for the first half of 2026, up from $1.2 billion a year earlier. Net loss was $80.7 billion, mostly noncash, TechCrunch reports. https://t.co/tcxrUF41Tq\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2114988002812301779\",\"text\":\"Microsoft is offering voluntary buyouts to about 60,000 employees, more than a quarter of its workforce, Reuters reports. Staff in the US, UK, Canada and India at level 70 and below are eligible. The offer is time-limited. https://t.co/cpRSZExTqq\"}}",
  "visual": {
-  "family": "financial",
-  "variant": "split",
-  "palette": "ink",
-  "story_id": "anthropic-s1-ipo-filing",
-  "subject": "Anthropic IPO filing",
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "microsoft-voluntary-exit-offer",
+  "subject": "Microsoft voluntary exit offer",
   "source_urls": [
-   "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+   "https://www.investing.com/news/stock-market-news/microsoft-is-offering-buyouts-to-around-60000-employees-business-insider-reports-4973294"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "a263538a0e9b4399aaf3742ae604c84c8f2f3e80324179141cf53ec8698c7e59",
-  "image_sha256": "4903e7a8304511b9f45eeec7965505ebc53ff7566430008528904ed809a04eb2",
+  "content_sha256": "5aaf6fe23aa056146729e55e3d9c1a5a98187d86408915f6fa22c6d3f9074968",
+  "image_sha256": "6298d4d174af57d6920e0bd23b38403f4cf0f52c0ba22d7d2ea127168d858967",
   "qa": {
    "width": 1600,
    "height": 900,

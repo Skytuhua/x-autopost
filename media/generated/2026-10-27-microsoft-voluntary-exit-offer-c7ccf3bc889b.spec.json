@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "story_id": "microsoft-voluntary-exit-offer",
+  "story_type": "policy",
+  "subject": "Microsoft voluntary exit offer",
+  "headline": "Microsoft offers voluntary buyouts",
+  "source": {
+    "name": "Reuters",
+    "url": "https://www.investing.com/news/stock-market-news/microsoft-is-offering-buyouts-to-around-60000-employees-business-insider-reports-4973294"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.investing.com/news/stock-market-news/microsoft-is-offering-buyouts-to-around-60000-employees-business-insider-reports-4973294",
+      "actor": "Microsoft",
+      "action": "Offers time-limited voluntary buyouts",
+      "status": "reported",
+      "targets": [
+        "About 60,000 eligible employees",
+        "US, UK, Canada, India, level 70 and below"
+      ],
+      "topics": [
+        "More than a quarter of staff",
+        "Funds AI spending"
+      ]
+    }
+  }
+}
