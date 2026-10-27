@@ -1,0 +1,36 @@
+{
+  "family": "benchmark",
+  "variant": "split",
+  "palette": "cobalt",
+  "story_id": "openai-gpt-6-1-terra-launch",
+  "subject": "OpenAI GPT-6.1 Terra",
+  "source_urls": [
+    "https://openai.com/index/introducing-gpt-6-1-terra/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "553b6a8341a596beec874d328ad5701d6c2f885428c386cc4e41f8d878b3551d",
+  "image_sha256": "9e404da146d2920a232757bc18a8416344e299e4c95785cdd0760640a65a87f1",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
