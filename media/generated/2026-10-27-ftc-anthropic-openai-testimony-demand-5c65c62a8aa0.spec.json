@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "story_id": "ftc-anthropic-openai-testimony-demand",
+  "story_type": "policy",
+  "subject": "FTC probe of Anthropic and OpenAI",
+  "headline": "FTC wants Anthropic execs to testify",
+  "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+      "actor": "Federal Trade Commission",
+      "action": "Demands testimony in AI safety probe",
+      "status": "confirmed",
+      "targets": [
+        "Anthropic executives",
+        "OpenAI (also under probe)"
+      ],
+      "topics": [
+        "Consumer safety",
+        "AI products"
+      ]
+    }
+  }
+}

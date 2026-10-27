@@ -1,33 +1,33 @@
 {
- "time": "2026-10-27T09:17:38.773499Z",
- "text": "Meta priced its stock sale and upsized the common part from $22.5 billion to $25 billion, at $625 a share. With $12.5 billion of preferred shares, that's $37.5 billion now. Another $60 billion is planned later.",
+ "time": "2026-10-27T09:46:48.943556Z",
+ "text": "The FTC has sent demands for Anthropic executives to testify in its probe into whether AI products from Anthropic, OpenAI and others endanger consumers. Axios reported it first and CNBC confirmed it. The FTC didn't add details.",
  "media": [
-  "media/generated/2026-10-27-meta-stock-offering-priced-upsized-oct-26-eecf38814bbf.png"
+  "media/generated/2026-10-27-ftc-anthropic-openai-testimony-demand-5c65c62a8aa0.png"
  ],
- "reply_to": "2114982161619304927",
+ "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2115010023264751616"
+  "2115017364467019776"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115010025227710596\",\"text\":\"Meta priced its stock sale and upsized the common part from $22.5 billion to $25 billion, at $625 a share. With $12.5 billion of preferred shares, that's $37.5 billion now. Another $60 billion is planned later. https://t.co/oUnFM8qiDe\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115017366278996013\",\"text\":\"The FTC has sent demands for Anthropic executives to testify in its probe into whether AI products from Anthropic, OpenAI and others endanger consumers. Axios reported it first and CNBC confirmed it. The FTC didn't add details. https://t.co/VEwTTQMXlm\"}}",
  "visual": {
-  "family": "financial",
-  "variant": "statement",
-  "palette": "ink",
-  "story_id": "meta-stock-offering-priced-upsized-oct-26",
-  "subject": "Meta stock offering",
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "ftc-anthropic-openai-testimony-demand",
+  "subject": "FTC probe of Anthropic and OpenAI",
   "source_urls": [
-   "https://www.prnewswire.com/news-releases/meta-announces-pricing-of-offering-of-depositary-shares-representing-series-a-mandatory-convertible-preferred-stock-and-offering-of-class-a-common-stock-in-connection-with-forward-sale-agreements-302920247.html"
+   "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "aafb187c1483ae5dfa22a1e5dae6858304c89fead71c9e90dc31d811af065970",
-  "image_sha256": "ddffae82ff343f0f1e07c304faaac3757a0a68bd418ee9cdf5135d24b3a0fe4e",
+  "content_sha256": "783288b02816b9bb8dc2e92dc77423fceb93a804d0420792acee5f019f556143",
+  "image_sha256": "1c2307d744ab9d36a3356a4e962e990dd91b628d07080e200a8f63d38372838a",
   "qa": {
    "width": 1600,
    "height": 900,

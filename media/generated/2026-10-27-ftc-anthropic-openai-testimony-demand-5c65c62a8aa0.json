@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "ftc-anthropic-openai-testimony-demand",
+  "subject": "FTC probe of Anthropic and OpenAI",
+  "source_urls": [
+    "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "783288b02816b9bb8dc2e92dc77423fceb93a804d0420792acee5f019f556143",
+  "image_sha256": "1c2307d744ab9d36a3356a4e962e990dd91b628d07080e200a8f63d38372838a",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
