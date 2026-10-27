@@ -1,25 +1,7 @@
 {
- "time": "2026-10-27T21:15:14.146098Z",
- "action": "scan",
- "target": "",
+ "time": "2026-10-27T21:16:44.666850Z",
+ "action": "repost",
+ "target": "2115178675050307942",
  "status": 200,
- "posts": [
-  {
-   "user": "AnthropicAI",
-   "created_at": "2026-10-27T20:27:48.000Z",
-   "edit_history_tweet_ids": [
-    "2115178675050307942"
-   ],
-   "id": "2115178675050307942",
-   "public_metrics": {
-    "bookmark_count": 392,
-    "impression_count": 131240,
-    "like_count": 1962,
-    "quote_count": 108,
-    "reply_count": 194,
-    "retweet_count": 164
-   },
-   "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we\u2019ve learned much more about how Claude can support the many stages of"
-  }
- ]
+ "body": "{\"data\":{\"rest_id\":\"2115190989073666284\",\"retweeted\":true}}"
 }
