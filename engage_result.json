@@ -1,7 +1,25 @@
 {
- "time": "2026-10-27T17:21:07.515520Z",
- "action": "repost",
- "target": "2115114028338962672",
+ "time": "2026-10-27T19:17:45.306989Z",
+ "action": "scan",
+ "target": "",
  "status": 200,
- "body": "{\"data\":{\"rest_id\":\"2115131693883351067\",\"retweeted\":true}}"
+ "posts": [
+  {
+   "user": "sundarpichai",
+   "created_at": "2026-10-27T17:48:29.000Z",
+   "edit_history_tweet_ids": [
+    "2115138580473647266"
+   ],
+   "id": "2115138580473647266",
+   "public_metrics": {
+    "bookmark_count": 39,
+    "impression_count": 45563,
+    "like_count": 454,
+    "quote_count": 5,
+    "reply_count": 31,
+    "retweet_count": 26
+   },
+   "text": "Amazing to see deployed soldiers share a moment with their kids through Beam. Huge thanks to @USArmy @The_USO for helping to make this possible. https://t.co/ski1EaMdcS"
+  }
+ ]
 }
