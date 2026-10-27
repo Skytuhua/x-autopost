@@ -1,25 +1,7 @@
 {
- "time": "2026-10-27T22:46:49.556721Z",
- "action": "scan",
- "target": "",
+ "time": "2026-10-27T22:48:18.212425Z",
+ "action": "repost",
+ "target": "2115207004293853358",
  "status": 200,
- "posts": [
-  {
-   "user": "AnthropicAI",
-   "created_at": "2026-10-27T22:20:23.000Z",
-   "edit_history_tweet_ids": [
-    "2115207004293853358"
-   ],
-   "id": "2115207004293853358",
-   "public_metrics": {
-    "bookmark_count": 54,
-    "impression_count": 38272,
-    "like_count": 484,
-    "quote_count": 19,
-    "reply_count": 86,
-    "retweet_count": 21
-   },
-   "text": "We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and territorial governments at 40% off.\nhttps://t.co/p0lA6cP2y1"
-  }
- ]
+ "body": "{\"data\":{\"rest_id\":\"2115214030868476408\",\"retweeted\":true}}"
 }
