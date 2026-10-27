@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "anthropic-s1-ipo-filing",
+  "subject": "Anthropic IPO filing",
+  "source_urls": [
+    "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "a263538a0e9b4399aaf3742ae604c84c8f2f3e80324179141cf53ec8698c7e59",
+  "image_sha256": "4903e7a8304511b9f45eeec7965505ebc53ff7566430008528904ed809a04eb2",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

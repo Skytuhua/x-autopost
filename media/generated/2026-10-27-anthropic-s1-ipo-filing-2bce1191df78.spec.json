@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "anthropic-s1-ipo-filing",
+  "story_type": "funding",
+  "subject": "Anthropic IPO filing",
+  "headline": "Anthropic files S-1 for IPO",
+  "source": {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "value": "$16.3B",
+      "label": "Anthropic revenue, first half of 2026",
+      "period": "H1 2026, per S-1",
+      "change": "from $1.2B",
+      "change_label": "Same period in 2025"
+    }
+  }
+}
