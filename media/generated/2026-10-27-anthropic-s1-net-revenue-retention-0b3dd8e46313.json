@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "anthropic-s1-net-revenue-retention",
+  "subject": "Anthropic IPO filing",
+  "source_urls": [
+    "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "febd96ce157fd1dba0e2a682beff368c912e1144789dbf5bb8300768bf9a429a",
+  "image_sha256": "c5c8d3e734537dc9c71330540b899eacf69848d9e3bc5c0547d184f2a70d0743",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

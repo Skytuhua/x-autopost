@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "anthropic-s1-net-revenue-retention",
+  "story_type": "funding",
+  "subject": "Anthropic IPO filing",
+  "headline": "Anthropic customers spend 9x more",
+  "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+      "value": "~900%",
+      "label": "Net revenue retention, per S-1",
+      "period": "As of Sept 30, 2026",
+      "change": "108%",
+      "change_label": "Median public cloud software company, as of January (Altimeter data)"
+    }
+  }
+}
