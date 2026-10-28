@@ -1,59 +1,7 @@
 {
- "time": "2026-10-28T15:17:23.057178Z",
- "action": "scan",
- "target": "",
+ "time": "2026-10-28T15:18:53.501682Z",
+ "action": "repost",
+ "target": "2115443720371814478",
  "status": 200,
- "posts": [
-  {
-   "user": "MistralAI",
-   "created_at": "2026-10-28T14:01:00.000Z",
-   "edit_history_tweet_ids": [
-    "2115443721227440351"
-   ],
-   "id": "2115443721227440351",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 2492,
-    "like_count": 21,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Served in the EU and US on Mistral AI Cloud Inference. Learn more about Responses API here: https://t.co/VMYCypdO3S"
-  },
-  {
-   "user": "MistralAI",
-   "created_at": "2026-10-28T14:01:00.000Z",
-   "edit_history_tweet_ids": [
-    "2115443720883454191"
-   ],
-   "id": "2115443720883454191",
-   "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 3153,
-    "like_count": 44,
-    "quote_count": 6,
-    "reply_count": 3,
-    "retweet_count": 2
-   },
-   "text": "We\u2019re also now serving two fast, low-cost models:\n- DeepSeek V4.1 Flash, in public preview. Great for long-context coding and agentic tasks.\n- GLM 5.3 Flash, now generally available. Great for subagents, tool calls and coding tasks."
-  },
-  {
-   "user": "MistralAI",
-   "created_at": "2026-10-28T14:01:00.000Z",
-   "edit_history_tweet_ids": [
-    "2115443720371814478"
-   ],
-   "id": "2115443720371814478",
-   "public_metrics": {
-    "bookmark_count": 37,
-    "impression_count": 15071,
-    "like_count": 296,
-    "quote_count": 28,
-    "reply_count": 60,
-    "retweet_count": 34
-   },
-   "text": "Today, we\u2019re introducing the Responses API in public preview, made for building agents on Mistral. \n\nEach response returns the model\u2019s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Completions. \n\nIt works https://t.co/5zgjZgqugd"
-  }
- ]
+ "body": "{\"data\":{\"rest_id\":\"2115463320375316645\",\"retweeted\":true}}"
 }
