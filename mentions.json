@@ -1,40 +1,9 @@
 {
- "time": "2026-10-28T20:16:26.667915Z",
+ "time": "2026-10-28T20:45:26.474531Z",
  "status": 200,
  "body": {
-  "data": [
-   {
-    "author_id": "1753271414382350336",
-    "conversation_id": "2115372531578503230",
-    "created_at": "2026-10-28T20:06:11.000Z",
-    "edit_history_tweet_ids": [
-     "2115535623058767955"
-    ],
-    "id": "2115535623058767955",
-    "in_reply_to_user_id": "1967069155548688386",
-    "referenced_tweets": [
-     {
-      "id": "2115372531578503230",
-      "type": "replied_to"
-     }
-    ],
-    "text": "@skytuhua1 students stack this with $35 free credits https://t.co/ffxMl7ACxL \ud83e\udef6"
-   }
-  ],
-  "includes": {
-   "users": [
-    {
-     "id": "1753271414382350336",
-     "name": "TinyFish",
-     "username": "Tiny_Fish"
-    }
-   ]
-  },
   "meta": {
-   "newest_id": "2115535623058767955",
-   "next_token": "7140dibdnow9c7btwp0g784jrdg0jcd4yl9m7c68s2y45",
-   "oldest_id": "2115535623058767955",
-   "result_count": 1
+   "result_count": 0
   }
  }
 }
