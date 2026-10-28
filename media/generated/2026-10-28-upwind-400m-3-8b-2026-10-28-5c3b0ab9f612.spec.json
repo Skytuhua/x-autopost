@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "upwind-400m-3-8b-2026-10-28",
+  "story_type": "funding",
+  "subject": "Upwind Security funding round",
+  "headline": "Upwind raises $400M",
+  "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/ai-cybersecurity-startup-upwind-raises-at-3-8-billion-value"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/ai-cybersecurity-startup-upwind-raises-at-3-8-billion-value",
+      "value": "$400M",
+      "label": "New funding, led by Bessemer",
+      "period": "Reported Oct 28, 2026",
+      "change": "$3.8B value",
+      "change_label": "Valued at $1.5 billion in January"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "upwind-400m-3-8b-2026-10-28",
+  "subject": "Upwind Security funding round",
+  "source_urls": [
+    "https://www.bloomberg.com/news/articles/2026-10-28/ai-cybersecurity-startup-upwind-raises-at-3-8-billion-value"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "9201c1e59106e3034cf79131e4dd8aa625801e97cda5cdd7c49b86568c135a2f",
+  "image_sha256": "e7b1b44508cc491151f8f0adf8a35c9e0e711b195f9da5a18db920c33b75d4e9",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
