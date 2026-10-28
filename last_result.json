@@ -1,52 +1,14 @@
 {
- "time": "2026-10-28T08:19:24.573442Z",
- "text": "TPG is in talks to buy British data center group Ark from Elliott at a valuation of about $5 billion, the Financial Times reports. Reuters couldn't verify it, and the FT says a deal isn't guaranteed.",
- "media": [
-  "media/generated/2026-10-28-tpg-ark-data-centres-talks-20261028-d938dc8e75f5.png"
- ],
+ "time": "2026-10-28T09:18:07.121998Z",
+ "text": "Google is giving eligible Canadian college and university students one year of Google AI Plus free. Sign up in the Gemini app's student hub before Dec 31. It renews at $6.99 a month unless you cancel.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [],
- "media_ids": [
-  "2115357755003564032"
+ "warnings": [
+  "Story image omitted: Image layout rejected: text outside its region: Eligible university and college students in Canada; text outside its region: Claim by Dec 31, 2026; renews at $6.99/mo unless c"
  ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115357756576444647\",\"text\":\"TPG is in talks to buy British data center group Ark from Elliott at a valuation of about $5 billion, the Financial Times reports. Reuters couldn't verify it, and the FT says a deal isn't guaranteed. https://t.co/BtoGFe3s7n\"}}",
- "visual": {
-  "family": "financial",
-  "variant": "split",
-  "palette": "ink",
-  "story_id": "tpg-ark-data-centres-talks-20261028",
-  "subject": "TPG and Ark Data Centres",
-  "source_urls": [
-   "https://reut.rs/4jLh8Jw"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "d4d122ffa7a9dd6fae3f68210854d1f3f666adf72339a7c27351ff2bb239823d",
-  "image_sha256": "442eb26a0caefbd7b62b23174099b31ed90ef243a19443f339c951c47ce32940",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115372531578503230\",\"text\":\"Google is giving eligible Canadian college and university students one year of Google AI Plus free. Sign up in the Gemini app's student hub before Dec 31. It renews at $6.99 a month unless you cancel.\"}}"
 }
