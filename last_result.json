@@ -1,14 +1,12 @@
 {
- "time": "2026-10-28T09:18:07.121998Z",
- "text": "Google is giving eligible Canadian college and university students one year of Google AI Plus free. Sign up in the Gemini app's student hub before Dec 31. It renews at $6.99 a month unless you cancel.",
+ "time": "2026-10-28T09:18:56.167668Z",
+ "text": "Felix Rieseberg, an engineering manager at Anthropic, says he stopped giving coding interviews this month because Claude is better at them. He now looks for small prototypes that show taste and judgment.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: Eligible university and college students in Canada; text outside its region: Claim by Dec 31, 2026; renews at $6.99/mo unless c"
- ],
+ "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115372531578503230\",\"text\":\"Google is giving eligible Canadian college and university students one year of Google AI Plus free. Sign up in the Gemini app's student hub before Dec 31. It renews at $6.99 a month unless you cancel.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115372735035502640\",\"text\":\"Felix Rieseberg, an engineering manager at Anthropic, says he stopped giving coding interviews this month because Claude is better at them. He now looks for small prototypes that show taste and judgment.\"}}"
 }
