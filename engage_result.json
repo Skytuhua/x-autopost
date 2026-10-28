@@ -1,7 +1,110 @@
 {
- "time": "2026-10-28T21:17:31.549244Z",
- "action": "repost",
- "target": "2115535455156642066",
+ "time": "2026-10-28T23:16:15.889723Z",
+ "action": "scan",
+ "target": "",
  "status": 200,
- "body": "{\"data\":{\"rest_id\":\"2115553573673328849\",\"retweeted\":true}}"
+ "posts": [
+  {
+   "user": "sundarpichai",
+   "created_at": "2026-10-28T21:34:30.000Z",
+   "edit_history_tweet_ids": [
+    "2115557846066819074"
+   ],
+   "id": "2115557846066819074",
+   "public_metrics": {
+    "bookmark_count": 12,
+    "impression_count": 17177,
+    "like_count": 60,
+    "quote_count": 0,
+    "reply_count": 10,
+    "retweet_count": 2
+   },
+   "text": "Read my full remarks here: https://t.co/SwKFLGqmAO"
+  },
+  {
+   "user": "satyanadella",
+   "created_at": "2026-10-28T22:53:41.000Z",
+   "edit_history_tweet_ids": [
+    "2115577773981073451"
+   ],
+   "id": "2115577773981073451",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 4639,
+    "like_count": 13,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 1
+   },
+   "text": "5/ Read more about our results here: https://t.co/g35iNp6jXE"
+  },
+  {
+   "user": "satyanadella",
+   "created_at": "2026-10-28T22:53:41.000Z",
+   "edit_history_tweet_ids": [
+    "2115577772349518171"
+   ],
+   "id": "2115577772349518171",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 4895,
+    "like_count": 16,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 2
+   },
+   "text": "4/ When it comes to infrastructure, we have a fungible fleet that allows us to dynamically allocate capacity to the highest value opportunities across compute, data, Foundry, and Copilot.\n\nWe are bringing capacity online faster, and getting more from the infrastructure we already"
+  },
+  {
+   "user": "satyanadella",
+   "created_at": "2026-10-28T22:53:40.000Z",
+   "edit_history_tweet_ids": [
+    "2115577770533368135"
+   ],
+   "id": "2115577770533368135",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1100,
+    "like_count": 10,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 2
+   },
+   "text": "3/ We\u2019re also helping customers secure and govern their agents at scale.\n\nOver 50M agents are now in A365, up 30% QoQ.\n\nWe are bringing together Windows + Agent 365 so agents can work within secure boundaries on-device using MXC.\n\nAgents like OpenAI Codex, Anthropic Claude Code,"
+  },
+  {
+   "user": "satyanadella",
+   "created_at": "2026-10-28T22:53:40.000Z",
+   "edit_history_tweet_ids": [
+    "2115577768159416765"
+   ],
+   "id": "2115577768159416765",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1855,
+    "like_count": 15,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 3
+   },
+   "text": "2/ Underneath our 1P experiences is a common platform, starting with Foundry, which is becoming an increasingly important driver of our growth:\n\n\u00b7 Foundry revenue more than tripled YoY\n\u00b7 Number of customers building with multiple models grew 5X YoY\n\u00b7 Revenue from open source"
+  },
+  {
+   "user": "satyanadella",
+   "created_at": "2026-10-28T22:53:39.000Z",
+   "edit_history_tweet_ids": [
+    "2115577765995123084"
+   ],
+   "id": "2115577765995123084",
+   "public_metrics": {
+    "bookmark_count": 5,
+    "impression_count": 3996,
+    "like_count": 46,
+    "quote_count": 2,
+    "reply_count": 2,
+    "retweet_count": 6
+   },
+   "text": "1/ We announced our biggest update to Copilot to date, bringing together Chat, Cowork, Autopilot, and Code into one unified experience:\n\n\u00b7 Daily users grew nearly 50% QoQ, and more than 5X YoY.\n\u00b7 User satisfaction improved nearly 20% QoQ to another all-time high\n\u00b7 Number of https://t.co/T6FhADdzAf"
+  }
+ ]
 }
