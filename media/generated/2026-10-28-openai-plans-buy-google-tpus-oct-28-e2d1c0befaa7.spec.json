@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "story_id": "openai-plans-buy-google-tpus-oct-28",
+  "story_type": "policy",
+  "subject": "OpenAI and Google TPUs",
+  "headline": "OpenAI plans to buy Google TPUs",
+  "source": {
+    "name": "Reuters via The Hindu",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece",
+      "actor": "OpenAI",
+      "action": "Plans to buy Google's TPU AI chips",
+      "status": "reported",
+      "targets": [
+        "Google (Alphabet)"
+      ],
+      "topics": [
+        "Google TPUs",
+        "AI compute",
+        "Terms not disclosed"
+      ]
+    }
+  }
+}

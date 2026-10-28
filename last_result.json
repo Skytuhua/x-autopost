@@ -1,33 +1,33 @@
 {
- "time": "2026-10-28T07:17:17.271152Z",
- "text": "SK hynix posted third-quarter revenue of 104.6 trillion won, up 328% from a year ago, and operating profit of 83.3 trillion won. It says nearly all its DRAM and HBM output through 2029 is sold and expects shortages to last until 2030.",
+ "time": "2026-10-28T07:46:22.446603Z",
+ "text": "OpenAI plans to buy Google's AI chips, The Information reports, citing a person familiar with the matter. No terms were disclosed and OpenAI declined to comment. Last week OpenAI said its models would be available through Google Cloud.",
  "media": [
-  "media/generated/2026-10-28-sk-hynix-q3-2026-record-results-oct-28-064d82080bff.png"
+  "media/generated/2026-10-28-openai-plans-buy-google-tpus-oct-28-e2d1c0befaa7.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2115342121762988032"
+  "2115349443289714688"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115342123277176911\",\"text\":\"SK hynix posted third-quarter revenue of 104.6 trillion won, up 328% from a year ago, and operating profit of 83.3 trillion won. It says nearly all its DRAM and HBM output through 2029 is sold and expects shortages to last until 2030. https://t.co/BNyG9C7LN2\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115349444740919598\",\"text\":\"OpenAI plans to buy Google's AI chips, The Information reports, citing a person familiar with the matter. No terms were disclosed and OpenAI declined to comment. Last week OpenAI said its models would be available through Google Cloud. https://t.co/EdAlqfIcQ8\"}}",
  "visual": {
-  "family": "financial",
-  "variant": "statement",
-  "palette": "ink",
-  "story_id": "sk-hynix-q3-2026-record-results-oct-28",
-  "subject": "SK hynix third-quarter 2026 results",
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "openai-plans-buy-google-tpus-oct-28",
+  "subject": "OpenAI and Google TPUs",
   "source_urls": [
-   "https://news.skhynix.com/en/q3-2026-business-results"
+   "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "6f6dd0b95f8b43fef908873036c5e2e780fc7ee45be6c8d259fe63a72b42d48b",
-  "image_sha256": "ffd985b9f8f81826ef313ad94817f0fa2d85ed99794f474e0d1b679cfd116bfa",
+  "content_sha256": "284f59f875c39bf4b7cb0d376c64998a13181c6ae3fa64c248ec8ebbe857ddd6",
+  "image_sha256": "4b2fa6c86c2610950e63e032a9df50aefbe37e340e5a9ef9650d159cec692d64",
   "qa": {
    "width": 1600,
    "height": 900,

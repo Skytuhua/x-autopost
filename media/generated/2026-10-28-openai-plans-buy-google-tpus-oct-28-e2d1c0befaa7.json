@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "openai-plans-buy-google-tpus-oct-28",
+  "subject": "OpenAI and Google TPUs",
+  "source_urls": [
+    "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "284f59f875c39bf4b7cb0d376c64998a13181c6ae3fa64c248ec8ebbe857ddd6",
+  "image_sha256": "4b2fa6c86c2610950e63e032a9df50aefbe37e340e5a9ef9650d159cec692d64",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
