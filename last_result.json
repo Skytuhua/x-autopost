@@ -1,12 +1,52 @@
 {
- "time": "2026-10-28T09:18:56.167668Z",
- "text": "Felix Rieseberg, an engineering manager at Anthropic, says he stopped giving coding interviews this month because Claude is better at them. He now looks for small prototypes that show taste and judgment.",
- "media": [],
+ "time": "2026-10-28T09:48:31.912264Z",
+ "text": "Qoder is making DeepSeek V4.1 Flash free through Oct 31 for free and paid individual accounts. No claim needed. Download Qoder, sign in and pick DeepSeek Flash. Qoder says daily free use costs 0 credits.",
+ "media": [
+  "media/generated/2026-10-28-qoder-deepseek-v41-flash-free-oct31-34c0e2700047.png"
+ ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
- "media_ids": [],
+ "media_ids": [
+  "2115380184140431360"
+ ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115372735035502640\",\"text\":\"Felix Rieseberg, an engineering manager at Anthropic, says he stopped giving coding interviews this month because Claude is better at them. He now looks for small prototypes that show taste and judgment.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115380186052956459\",\"text\":\"Qoder is making DeepSeek V4.1 Flash free through Oct 31 for free and paid individual accounts. No claim needed. Download Qoder, sign in and pick DeepSeek Flash. Qoder says daily free use costs 0 credits. https://t.co/GV2yQ8Din5\"}}",
+ "visual": {
+  "family": "offer",
+  "variant": "split",
+  "palette": "acid",
+  "story_id": "qoder-deepseek-v41-flash-free-oct31",
+  "subject": "Qoder free DeepSeek V4.1 Flash",
+  "source_urls": [
+   "https://x.com/qoder_ai_ide/status/2115078498121564612"
+  ],
+  "dimensions": [
+   1600,
+   900
+  ],
+  "content_sha256": "f3a7e6d95ead442f1f861290294181ca2bc5f9924e8f17d00ae054c13d48a730",
+  "image_sha256": "aa14b1d1844e0ceb28c034f1b72638b56e2ae323c4f2d8025218a63ffeffa865",
+  "qa": {
+   "width": 1600,
+   "height": 900,
+   "issues": [],
+   "fonts": [
+    {
+     "family": "Manrope",
+     "status": "loaded"
+    },
+    {
+     "family": "Space",
+     "status": "loaded"
+    },
+    {
+     "family": "Instrument",
+     "status": "loaded"
+    }
+   ]
+  },
+  "warnings": []
+ }
 }

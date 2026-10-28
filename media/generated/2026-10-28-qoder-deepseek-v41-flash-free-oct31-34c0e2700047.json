@@ -1,0 +1,36 @@
+{
+  "family": "offer",
+  "variant": "split",
+  "palette": "acid",
+  "story_id": "qoder-deepseek-v41-flash-free-oct31",
+  "subject": "Qoder free DeepSeek V4.1 Flash",
+  "source_urls": [
+    "https://x.com/qoder_ai_ide/status/2115078498121564612"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "f3a7e6d95ead442f1f861290294181ca2bc5f9924e8f17d00ae054c13d48a730",
+  "image_sha256": "aa14b1d1844e0ceb28c034f1b72638b56e2ae323c4f2d8025218a63ffeffa865",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
