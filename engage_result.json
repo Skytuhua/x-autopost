@@ -1,7 +1,42 @@
 {
- "time": "2026-10-27T22:48:18.212425Z",
- "action": "repost",
- "target": "2115207004293853358",
+ "time": "2026-10-28T01:16:04.759817Z",
+ "action": "scan",
+ "target": "",
  "status": 200,
- "body": "{\"data\":{\"rest_id\":\"2115214030868476408\",\"retweeted\":true}}"
+ "posts": [
+  {
+   "user": "demishassabis",
+   "created_at": "2026-10-28T00:02:01.000Z",
+   "edit_history_tweet_ids": [
+    "2115232581230760260"
+   ],
+   "id": "2115232581230760260",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 6660,
+    "like_count": 45,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 1
+   },
+   "text": "We\u2019ve started rolling it out to trusted testers, with wider access coming soon. More info + the link to the Genie 4 waitlist in our blog, can't wait to see what you create with it! https://t.co/jh46gIRr2h"
+  },
+  {
+   "user": "demishassabis",
+   "created_at": "2026-10-27T23:59:42.000Z",
+   "edit_history_tweet_ids": [
+    "2115232001275924722"
+   ],
+   "id": "2115232001275924722",
+   "public_metrics": {
+    "bookmark_count": 65,
+    "impression_count": 29021,
+    "like_count": 740,
+    "quote_count": 11,
+    "reply_count": 73,
+    "retweet_count": 72
+   },
+   "text": "Very excited to share Genie 4, our incredible interactive world model, bringing together real-time physics, reasoning, and audio! Simulations within simulations, makes you wonder just how deep the rabbit hole goes... I have a feeling we will be finding out soon enough... https://t.co/NAAo2aTCey"
+  }
+ ]
 }
