@@ -1,33 +1,33 @@
 {
- "time": "2026-10-28T07:50:25.172234Z",
- "text": "Oracle will offer Google's TPU AI chips on Oracle Cloud starting in 2027, the two companies announced. It's the first time Google's chips will run on a hyperscale cloud outside Google. Capacity ramps up over several years.",
+ "time": "2026-10-28T08:19:24.573442Z",
+ "text": "TPG is in talks to buy British data center group Ark from Elliott at a valuation of about $5 billion, the Financial Times reports. Reuters couldn't verify it, and the FT says a deal isn't guaranteed.",
  "media": [
-  "media/generated/2026-10-28-oracle-google-tpus-oci-oct-27-69de98f004ff.png"
+  "media/generated/2026-10-28-tpg-ark-data-centres-talks-20261028-d938dc8e75f5.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2115350459212759040"
+  "2115357755003564032"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115350460810793294\",\"text\":\"Oracle will offer Google's TPU AI chips on Oracle Cloud starting in 2027, the two companies announced. It's the first time Google's chips will run on a hyperscale cloud outside Google. Capacity ramps up over several years. https://t.co/HWaGLniSoz\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115357756576444647\",\"text\":\"TPG is in talks to buy British data center group Ark from Elliott at a valuation of about $5 billion, the Financial Times reports. Reuters couldn't verify it, and the FT says a deal isn't guaranteed. https://t.co/BtoGFe3s7n\"}}",
  "visual": {
-  "family": "policy",
-  "variant": "branch",
-  "palette": "ivory",
-  "story_id": "oracle-google-tpus-oci-oct-27",
-  "subject": "Oracle and Google TPUs",
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "tpg-ark-data-centres-talks-20261028",
+  "subject": "TPG and Ark Data Centres",
   "source_urls": [
-   "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27"
+   "https://reut.rs/4jLh8Jw"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "79e2a24d65c138dcb627e029a26df8757f50e5aa509b7310a717e67931859691",
-  "image_sha256": "50525279177d52db2d79712c4defaba31a8a4c81e67b7214ba353a5900a3e6ad",
+  "content_sha256": "d4d122ffa7a9dd6fae3f68210854d1f3f666adf72339a7c27351ff2bb239823d",
+  "image_sha256": "442eb26a0caefbd7b62b23174099b31ed90ef243a19443f339c951c47ce32940",
   "qa": {
    "width": 1600,
    "height": 900,

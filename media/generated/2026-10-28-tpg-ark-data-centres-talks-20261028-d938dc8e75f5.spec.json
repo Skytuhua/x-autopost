@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "tpg-ark-data-centres-talks-20261028",
+  "story_type": "acquisition",
+  "subject": "TPG and Ark Data Centres",
+  "headline": "TPG in talks to buy Ark",
+  "source": {
+    "name": "Reuters, citing the Financial Times",
+    "url": "https://reut.rs/4jLh8Jw"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://reut.rs/4jLh8Jw",
+      "value": "~$5B",
+      "label": "Reported valuation: TPG in talks to buy Ark from Elliott",
+      "period": "FT report, Oct 28, 2026"
+    }
+  }
+}

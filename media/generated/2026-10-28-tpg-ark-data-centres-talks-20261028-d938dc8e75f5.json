@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "tpg-ark-data-centres-talks-20261028",
+  "subject": "TPG and Ark Data Centres",
+  "source_urls": [
+    "https://reut.rs/4jLh8Jw"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "d4d122ffa7a9dd6fae3f68210854d1f3f666adf72339a7c27351ff2bb239823d",
+  "image_sha256": "442eb26a0caefbd7b62b23174099b31ed90ef243a19443f339c951c47ce32940",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
