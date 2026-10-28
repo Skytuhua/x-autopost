@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "story_id": "antigravity-free-drops-claude-nov2",
+  "story_type": "policy",
+  "subject": "Google Antigravity free plan models",
+  "headline": "Antigravity Free drops Claude on Nov 2",
+  "source": {
+    "name": "Google Antigravity docs",
+    "url": "https://antigravity.google/docs/models"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://antigravity.google/docs/models",
+      "actor": "Google Antigravity",
+      "action": "Removes Claude 4.6 and GPT-OSS-120b on Nov 2",
+      "status": "confirmed",
+      "targets": [
+        "Free plan",
+        "Google AI Plus plan"
+      ],
+      "topics": [
+        "Gemini 3.8 Flash stays"
+      ]
+    }
+  }
+}

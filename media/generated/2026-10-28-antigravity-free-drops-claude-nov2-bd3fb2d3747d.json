@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "stack",
+  "palette": "ivory",
+  "story_id": "antigravity-free-drops-claude-nov2",
+  "subject": "Google Antigravity free plan models",
+  "source_urls": [
+    "https://antigravity.google/docs/models"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "5fa09ce6487b4156ea22418eb42d906e85024fbbed5c64403a81a970a3a0e75c",
+  "image_sha256": "64cae95c47e9f7f9282ce97d9f8edd45b4db9209d03f9f552198af36e8beb62b",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}
