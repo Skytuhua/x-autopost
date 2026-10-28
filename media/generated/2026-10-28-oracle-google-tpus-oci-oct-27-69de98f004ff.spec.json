@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "story_id": "oracle-google-tpus-oci-oct-27",
+  "story_type": "policy",
+  "subject": "Oracle and Google TPUs",
+  "headline": "Oracle to offer Google TPUs",
+  "source": {
+    "name": "Oracle and Google press release",
+    "url": "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27",
+      "actor": "Oracle",
+      "action": "Adds Google TPUs to its cloud from 2027",
+      "status": "confirmed",
+      "targets": [
+        "Oracle Cloud Infrastructure",
+        "Google Cloud"
+      ],
+      "topics": [
+        "First hyperscaler outside Google",
+        "Multi-year ramp"
+      ]
+    }
+  }
+}
