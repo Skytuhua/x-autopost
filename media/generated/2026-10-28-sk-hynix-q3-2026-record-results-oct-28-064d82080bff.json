@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "sk-hynix-q3-2026-record-results-oct-28",
+  "subject": "SK hynix third-quarter 2026 results",
+  "source_urls": [
+    "https://news.skhynix.com/en/q3-2026-business-results"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "6f6dd0b95f8b43fef908873036c5e2e780fc7ee45be6c8d259fe63a72b42d48b",
+  "image_sha256": "ffd985b9f8f81826ef313ad94817f0fa2d85ed99794f474e0d1b679cfd116bfa",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

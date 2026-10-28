@@ -1,33 +1,33 @@
 {
- "time": "2026-10-27T09:48:58.331783Z",
- "text": "Anthropic's IPO filing says its net revenue retention was about 900% as of Sept 30. That means existing customers spend roughly nine times what they did a year earlier. CNBC cites 108% for the median public cloud software company.",
+ "time": "2026-10-28T07:17:17.271152Z",
+ "text": "SK hynix posted third-quarter revenue of 104.6 trillion won, up 328% from a year ago, and operating profit of 83.3 trillion won. It says nearly all its DRAM and HBM output through 2029 is sold and expects shortages to last until 2030.",
  "media": [
-  "media/generated/2026-10-27-anthropic-s1-net-revenue-retention-0b3dd8e46313.png"
+  "media/generated/2026-10-28-sk-hynix-q3-2026-record-results-oct-28-064d82080bff.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2115017906857644032"
+  "2115342121762988032"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115017908401095026\",\"text\":\"Anthropic's IPO filing says its net revenue retention was about 900% as of Sept 30. That means existing customers spend roughly nine times what they did a year earlier. CNBC cites 108% for the median public cloud software company. https://t.co/GfZIdzpPfn\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115342123277176911\",\"text\":\"SK hynix posted third-quarter revenue of 104.6 trillion won, up 328% from a year ago, and operating profit of 83.3 trillion won. It says nearly all its DRAM and HBM output through 2029 is sold and expects shortages to last until 2030. https://t.co/BNyG9C7LN2\"}}",
  "visual": {
   "family": "financial",
-  "variant": "split",
+  "variant": "statement",
   "palette": "ink",
-  "story_id": "anthropic-s1-net-revenue-retention",
-  "subject": "Anthropic IPO filing",
+  "story_id": "sk-hynix-q3-2026-record-results-oct-28",
+  "subject": "SK hynix third-quarter 2026 results",
   "source_urls": [
-   "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html"
+   "https://news.skhynix.com/en/q3-2026-business-results"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "febd96ce157fd1dba0e2a682beff368c912e1144789dbf5bb8300768bf9a429a",
-  "image_sha256": "c5c8d3e734537dc9c71330540b899eacf69848d9e3bc5c0547d184f2a70d0743",
+  "content_sha256": "6f6dd0b95f8b43fef908873036c5e2e780fc7ee45be6c8d259fe63a72b42d48b",
+  "image_sha256": "ffd985b9f8f81826ef313ad94817f0fa2d85ed99794f474e0d1b679cfd116bfa",
   "qa": {
    "width": 1600,
    "height": 900,

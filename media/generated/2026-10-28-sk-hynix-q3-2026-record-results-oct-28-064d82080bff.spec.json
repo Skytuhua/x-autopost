@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "sk-hynix-q3-2026-record-results-oct-28",
+  "story_type": "earnings",
+  "subject": "SK hynix third-quarter 2026 results",
+  "headline": "SK hynix revenue tops 100T won",
+  "source": {
+    "name": "SK hynix Newsroom",
+    "url": "https://news.skhynix.com/en/q3-2026-business-results"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://news.skhynix.com/en/q3-2026-business-results",
+      "value": "104.6T won",
+      "label": "SK hynix quarterly revenue",
+      "period": "Q3 2026 (Jul to Sep)",
+      "change": "+328%",
+      "change_label": "versus Q3 2025"
+    }
+  }
+}
