@@ -1,0 +1,36 @@
+{
+  "family": "research",
+  "variant": "vertical",
+  "palette": "clay",
+  "story_id": "deepmind-genie-4-oct-27",
+  "subject": "Google DeepMind Genie 4",
+  "source_urls": [
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "071bcade1b3e5ec3411bb92d6fd968e6a1a6a0e8301728e9e1a083d6b3e58fa9",
+  "image_sha256": "a4bd6c13354e39fbcd3bcbc1b398086a66ed0342d80ad1d24bf46b63e9e33a27",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

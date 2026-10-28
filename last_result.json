@@ -1,33 +1,33 @@
 {
- "time": "2026-10-28T07:46:22.446603Z",
- "text": "OpenAI plans to buy Google's AI chips, The Information reports, citing a person familiar with the matter. No terms were disclosed and OpenAI declined to comment. Last week OpenAI said its models would be available through Google Cloud.",
+ "time": "2026-10-28T07:48:23.346492Z",
+ "text": "Google DeepMind announced Genie 4, a world model that generates interactive worlds in real time with sound. You can type prompts to change the weather or add characters mid-scene. It's a research preview for trusted testers, with Google AI Ultra subscribers and API partners next.",
  "media": [
-  "media/generated/2026-10-28-openai-plans-buy-google-tpus-oct-28-e2d1c0befaa7.png"
+  "media/generated/2026-10-28-deepmind-genie-4-oct-27-4b16575fb816.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2115349443289714688"
+  "2115349948971565056"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115349444740919598\",\"text\":\"OpenAI plans to buy Google's AI chips, The Information reports, citing a person familiar with the matter. No terms were disclosed and OpenAI declined to comment. Last week OpenAI said its models would be available through Google Cloud. https://t.co/EdAlqfIcQ8\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115349950502522910\",\"text\":\"Google DeepMind announced Genie 4, a world model that generates interactive worlds in real time with sound. You can type prompts to change the weather or add characters mid-scene. It's a research preview for trusted testers, with Google AI Ultra subscribers and API partners next. https://t.co/sAo93MIv2T\"}}",
  "visual": {
-  "family": "policy",
-  "variant": "stack",
-  "palette": "ivory",
-  "story_id": "openai-plans-buy-google-tpus-oct-28",
-  "subject": "OpenAI and Google TPUs",
+  "family": "research",
+  "variant": "vertical",
+  "palette": "clay",
+  "story_id": "deepmind-genie-4-oct-27",
+  "subject": "Google DeepMind Genie 4",
   "source_urls": [
-   "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece"
+   "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "284f59f875c39bf4b7cb0d376c64998a13181c6ae3fa64c248ec8ebbe857ddd6",
-  "image_sha256": "4b2fa6c86c2610950e63e032a9df50aefbe37e340e5a9ef9650d159cec692d64",
+  "content_sha256": "071bcade1b3e5ec3411bb92d6fd968e6a1a6a0e8301728e9e1a083d6b3e58fa9",
+  "image_sha256": "a4bd6c13354e39fbcd3bcbc1b398086a66ed0342d80ad1d24bf46b63e9e33a27",
   "qa": {
    "width": 1600,
    "height": 900,

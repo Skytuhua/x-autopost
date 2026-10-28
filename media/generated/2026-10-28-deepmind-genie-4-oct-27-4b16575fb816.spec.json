@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "story_id": "deepmind-genie-4-oct-27",
+  "story_type": "model_release",
+  "subject": "Google DeepMind Genie 4",
+  "headline": "Genie 4 world model",
+  "source": {
+    "name": "Google DeepMind",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
+  },
+  "content": {
+    "research": {
+      "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+      "conclusion": "Research preview for trusted testers. Ultra subscribers and API partners are next.",
+      "steps": [
+        {
+          "title": "Prompt a world",
+          "detail": "Describe a scene in text and explore it in real time",
+          "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
+        },
+        {
+          "title": "Steer it live",
+          "detail": "Type prompts to change weather, camera or characters",
+          "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
+        },
+        {
+          "title": "Native audio",
+          "detail": "Music, ambient sound and dialogue generated with the world",
+          "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
+        }
+      ]
+    }
+  }
+}
