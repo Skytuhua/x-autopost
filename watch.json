@@ -1,59 +1,178 @@
 {
- "time": "2026-10-28T15:17:23.057178Z",
+ "time": "2026-10-28T17:17:45.460267Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "MistralAI",
-   "created_at": "2026-10-28T14:01:00.000Z",
+   "user": "GoogleDeepMind",
+   "created_at": "2026-10-28T17:02:21.000Z",
    "edit_history_tweet_ids": [
-    "2115443721227440351"
+    "2115489359415890211"
    ],
-   "id": "2115443721227440351",
+   "id": "2115489359415890211",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 2492,
-    "like_count": 21,
-    "quote_count": 0,
-    "reply_count": 0,
+    "bookmark_count": 4,
+    "impression_count": 5219,
+    "like_count": 73,
+    "quote_count": 1,
+    "reply_count": 4,
     "retweet_count": 1
    },
-   "text": "Served in the EU and US on Mistral AI Cloud Inference. Learn more about Responses API here: https://t.co/VMYCypdO3S"
+   "text": "Carbon can work through complex tasks for days without getting stuck or taking shortcuts \u2013 delivering high-quality, reliable code.\n\nFeedback from an initial group of cyber defenders will help us iterate on guardrails before we expand access soon.\n\nFind out more \u2193"
   },
   {
-   "user": "MistralAI",
-   "created_at": "2026-10-28T14:01:00.000Z",
+   "user": "GoogleDeepMind",
+   "created_at": "2026-10-28T17:02:21.000Z",
    "edit_history_tweet_ids": [
-    "2115443720883454191"
+    "2115489356437651654"
    ],
-   "id": "2115443720883454191",
+   "id": "2115489356437651654",
+   "public_metrics": {
+    "bookmark_count": 53,
+    "impression_count": 22037,
+    "like_count": 628,
+    "quote_count": 78,
+    "reply_count": 84,
+    "retweet_count": 124
+   },
+   "text": "Gemini 4 Carbon is our next frontier model.\n\nIt\u2019s state-of-the-art across cybersecurity and long-horizon capabilities. https://t.co/o7lmCE1ggD"
+  },
+  {
+   "user": "AIatMeta",
+   "created_at": "2026-10-28T17:08:34.000Z",
+   "edit_history_tweet_ids": [
+    "2115490922213589489"
+   ],
+   "id": "2115490922213589489",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1093,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Here\u2019s a look at the hard problems these five universities are tackling:\n\n@Caltech: Expanding our partnership with Caltech to test whether large language models can accelerate innovative research in mathematics and physical sciences \u2013 pushing the boundaries of what AI can do in"
+  },
+  {
+   "user": "AIatMeta",
+   "created_at": "2026-10-28T17:08:33.000Z",
+   "edit_history_tweet_ids": [
+    "2115490919923548307"
+   ],
+   "id": "2115490919923548307",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 3989,
+    "like_count": 12,
+    "quote_count": 0,
+    "reply_count": 4,
+    "retweet_count": 1
+   },
+   "text": "Today we're announcing support for university research at @Caltech, @OhioStateMed, @LSU, @IndianaUniv, and @UTHealthHouston to help advance breakthroughs across science and medicine.\n\nAs part of the support for university researchers, we\u2019ll provide access to our latest Muse https://t.co/mmIGfS7ROD"
+  },
+  {
+   "user": "demishassabis",
+   "created_at": "2026-10-28T17:03:07.000Z",
+   "edit_history_tweet_ids": [
+    "2115489552647557261"
+   ],
+   "id": "2115489552647557261",
+   "public_metrics": {
+    "bookmark_count": 6,
+    "impression_count": 3408,
+    "like_count": 32,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 1
+   },
+   "text": "More info in the blog: https://t.co/WhcraKN0xU"
+  },
+  {
+   "user": "demishassabis",
+   "created_at": "2026-10-28T17:03:07.000Z",
+   "edit_history_tweet_ids": [
+    "2115489550256746502"
+   ],
+   "id": "2115489550256746502",
+   "public_metrics": {
+    "bookmark_count": 25,
+    "impression_count": 14089,
+    "like_count": 492,
+    "quote_count": 11,
+    "reply_count": 53,
+    "retweet_count": 56
+   },
+   "text": "\u26a1Iterating at lightning speed! Gemini 4 Carbon is SOTA across key benchmarks and combines frontier capabilities with deep safety &amp; security research. https://t.co/TC8Y8ziPOI"
+  },
+  {
+   "user": "sundarpichai",
+   "created_at": "2026-10-28T17:01:49.000Z",
+   "edit_history_tweet_ids": [
+    "2115489222442594718"
+   ],
+   "id": "2115489222442594718",
+   "public_metrics": {
+    "bookmark_count": 5,
+    "impression_count": 8056,
+    "like_count": 92,
+    "quote_count": 1,
+    "reply_count": 2,
+    "retweet_count": 3
+   },
+   "text": "Read more about Gemini 4 Carbon below https://t.co/oHqOfkGKXI"
+  },
+  {
+   "user": "sundarpichai",
+   "created_at": "2026-10-28T17:01:48.000Z",
+   "edit_history_tweet_ids": [
+    "2115489219804352921"
+   ],
+   "id": "2115489219804352921",
+   "public_metrics": {
+    "bookmark_count": 122,
+    "impression_count": 53896,
+    "like_count": 1366,
+    "quote_count": 118,
+    "reply_count": 172,
+    "retweet_count": 161
+   },
+   "text": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.\n\nFollowing Argon's release just two weeks ago, Carbon shows the pace at which we\u2019re pushing the frontier, it ranks #1 on the recently updated v5.0 of @ArtificialAnlys https://t.co/GN9LqZ7Zcf"
+  },
+  {
+   "user": "satyanadella",
+   "created_at": "2026-10-28T17:08:19.000Z",
+   "edit_history_tweet_ids": [
+    "2115490858229531002"
+   ],
+   "id": "2115490858229531002",
    "public_metrics": {
     "bookmark_count": 3,
-    "impression_count": 3153,
-    "like_count": 44,
-    "quote_count": 6,
+    "impression_count": 2562,
+    "like_count": 3,
+    "quote_count": 0,
     "reply_count": 3,
-    "retweet_count": 2
+    "retweet_count": 1
    },
-   "text": "We\u2019re also now serving two fast, low-cost models:\n- DeepSeek V4.1 Flash, in public preview. Great for long-context coding and agentic tasks.\n- GLM 5.3 Flash, now generally available. Great for subagents, tool calls and coding tasks."
+   "text": "Read more: https://t.co/tsTdNeK80E"
   },
   {
-   "user": "MistralAI",
-   "created_at": "2026-10-28T14:01:00.000Z",
+   "user": "satyanadella",
+   "created_at": "2026-10-28T17:08:18.000Z",
    "edit_history_tweet_ids": [
-    "2115443720371814478"
+    "2115490856685990244"
    ],
-   "id": "2115443720371814478",
+   "id": "2115490856685990244",
    "public_metrics": {
-    "bookmark_count": 37,
-    "impression_count": 15071,
-    "like_count": 296,
-    "quote_count": 28,
-    "reply_count": 60,
-    "retweet_count": 34
+    "bookmark_count": 8,
+    "impression_count": 9441,
+    "like_count": 41,
+    "quote_count": 1,
+    "reply_count": 13,
+    "retweet_count": 11
    },
-   "text": "Today, we\u2019re introducing the Responses API in public preview, made for building agents on Mistral. \n\nEach response returns the model\u2019s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Completions. \n\nIt works https://t.co/5zgjZgqugd"
+   "text": "We're redefining the SDLC for the agentic era.\n\nLots of GitHub updates this morning at Universe:\n\n\u2022 GitHub Copilot Fusion delivers frontier-level quality, 40% faster and at up to 77% lower cost\n\n\u2022 Our unified Copilot harness is now in Foundry, a managed service for building https://t.co/TgHIoII1zD"
   }
  ]
 }
