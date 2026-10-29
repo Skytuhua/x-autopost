@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "openai-chatgpt-api-credits-2026-10-28",
+  "story_type": "offer",
+  "subject": "OpenAI API credits for ChatGPT subscribers",
+  "headline": "Free API credits for ChatGPT Pro",
+  "source": {
+    "name": "OpenAI developers docs",
+    "url": "https://developers.openai.com/api/docs/guides/chatgpt-api-credits"
+  },
+  "content": {
+    "offer": {
+      "source_url": "https://developers.openai.com/api/docs/guides/chatgpt-api-credits",
+      "benefit": "$100 to $500 a month in free API credits",
+      "eligibility": "Paid ChatGPT Pro or Business, 7+ days old",
+      "deadline": "None stated; unused credits expire monthly"
+    }
+  }
+}

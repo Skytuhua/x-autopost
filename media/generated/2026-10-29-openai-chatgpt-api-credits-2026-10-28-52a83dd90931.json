@@ -1,0 +1,36 @@
+{
+  "family": "offer",
+  "variant": "poster",
+  "palette": "acid",
+  "story_id": "openai-chatgpt-api-credits-2026-10-28",
+  "subject": "OpenAI API credits for ChatGPT subscribers",
+  "source_urls": [
+    "https://developers.openai.com/api/docs/guides/chatgpt-api-credits"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "43ddca5ff70ab717dbad4d1fe1ba4ab2e460fb5386548c681b16520523608dde",
+  "image_sha256": "47d71b142fb31dd55b798f5f8649946f63e918b664fda23cd56c61e9d4e748e2",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

@@ -1,14 +1,52 @@
 {
- "time": "2026-10-29T07:47:46.906154Z",
- "text": "Google announced Gemini 4 Carbon, its strongest model so far. Google says it ranks first on the Artificial Analysis Intelligence Index at 59. Only a small group of cyber defenders can use it for now. Intro price is $2 in and $10 out per million tokens.",
- "media": [],
+ "time": "2026-10-29T07:49:23.617160Z",
+ "text": "OpenAI now gives paid ChatGPT Pro and Business subscribers free API credits: $100, $200 or $500 a month on Pro, depending on tier. Claim it in ChatGPT under Settings, Billing. Subscription must be 7+ days old. Unused credits expire monthly.",
+ "media": [
+  "media/generated/2026-10-29-openai-chatgpt-api-credits-2026-10-28-52a83dd90931.png"
+ ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [
-  "Story image omitted: Image layout rejected: text outside its region: $2 in / $10 out per million tokens, intro price"
+ "warnings": [],
+ "media_ids": [
+  "2115712589288116224"
  ],
- "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115712183619523046\",\"text\":\"Google announced Gemini 4 Carbon, its strongest model so far. Google says it ranks first on the Artificial Analysis Intelligence Index at 59. Only a small group of cyber defenders can use it for now. Intro price is $2 in and $10 out per million tokens.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115712591007744438\",\"text\":\"OpenAI now gives paid ChatGPT Pro and Business subscribers free API credits: $100, $200 or $500 a month on Pro, depending on tier. Claim it in ChatGPT under Settings, Billing. Subscription must be 7+ days old. Unused credits expire monthly. https://t.co/il1l5xPuar\"}}",
+ "visual": {
+  "family": "offer",
+  "variant": "poster",
+  "palette": "acid",
+  "story_id": "openai-chatgpt-api-credits-2026-10-28",
+  "subject": "OpenAI API credits for ChatGPT subscribers",
+  "source_urls": [
+   "https://developers.openai.com/api/docs/guides/chatgpt-api-credits"
+  ],
+  "dimensions": [
+   1600,
+   900
+  ],
+  "content_sha256": "43ddca5ff70ab717dbad4d1fe1ba4ab2e460fb5386548c681b16520523608dde",
+  "image_sha256": "47d71b142fb31dd55b798f5f8649946f63e918b664fda23cd56c61e9d4e748e2",
+  "qa": {
+   "width": 1600,
+   "height": 900,
+   "issues": [],
+   "fonts": [
+    {
+     "family": "Manrope",
+     "status": "loaded"
+    },
+    {
+     "family": "Space",
+     "status": "loaded"
+    },
+    {
+     "family": "Instrument",
+     "status": "loaded"
+    }
+   ]
+  },
+  "warnings": []
+ }
 }
