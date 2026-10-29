@@ -1,0 +1,36 @@
+{
+  "family": "offer",
+  "variant": "split",
+  "palette": "acid",
+  "story_id": "kiro-students-41-more-universities-oct-28",
+  "subject": "Kiro for Students",
+  "source_urls": [
+    "https://kiro.dev/blog/41-more-universities/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "9aeb1a532c6c666c1da8084ee4a7957cad5602bdd7b238c3b0b9b06235c00fc7",
+  "image_sha256": "6bcd299bd45bc3d5a15cb21984393d05d01e213dcac8ee8a51d9f54156b2efc9",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

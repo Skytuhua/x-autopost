@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "story_id": "kiro-students-41-more-universities-oct-28",
+  "story_type": "offer",
+  "subject": "Kiro for Students",
+  "headline": "Kiro is free for students for a year",
+  "source": {
+    "name": "Kiro blog",
+    "url": "https://kiro.dev/blog/41-more-universities/"
+  },
+  "content": {
+    "offer": {
+      "source_url": "https://kiro.dev/blog/41-more-universities/",
+      "benefit": "1 free year of Kiro, 1,000 credits a month",
+      "eligibility": "Students at eligible universities (41 added)",
+      "deadline": "No end date listed; free year from sign-up"
+    }
+  }
+}
