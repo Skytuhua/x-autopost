@@ -1,42 +1,25 @@
 {
- "time": "2026-10-29T14:46:16.153212Z",
+ "time": "2026-10-29T15:45:19.409853Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "MistralAI",
-   "created_at": "2026-10-29T14:21:25.000Z",
+   "user": "AnthropicAI",
+   "created_at": "2026-10-29T15:18:40.000Z",
    "edit_history_tweet_ids": [
-    "2115811245429256498"
+    "2115825653539025142"
    ],
-   "id": "2115811245429256498",
+   "id": "2115825653539025142",
    "public_metrics": {
-    "bookmark_count": 7,
-    "impression_count": 3682,
-    "like_count": 38,
-    "quote_count": 4,
-    "reply_count": 1,
-    "retweet_count": 3
+    "bookmark_count": 87,
+    "impression_count": 49087,
+    "like_count": 814,
+    "quote_count": 28,
+    "reply_count": 140,
+    "retweet_count": 70
    },
-   "text": "https://t.co/NjO1C3c1rj\n\nDownload: https://t.co/umoyZX69n6"
-  },
-  {
-   "user": "MistralAI",
-   "created_at": "2026-10-29T14:21:24.000Z",
-   "edit_history_tweet_ids": [
-    "2115811242556137820"
-   ],
-   "id": "2115811242556137820",
-   "public_metrics": {
-    "bookmark_count": 82,
-    "impression_count": 21027,
-    "like_count": 656,
-    "quote_count": 59,
-    "reply_count": 70,
-    "retweet_count": 95
-   },
-   "text": "Today, we release the weights of a new and improved Le Chonk, advancing the open frontier for agentic coding and cybersecurity.\n\n\ud83d\udcbb Built to build: Le Chonk ranks #1 on @cognition\u2019s FrontierCode among open models, and sets a new benchmark for Pareto efficiency on https://t.co/R9wQ6WTPnl"
+   "text": "We\u2019ve expanded our AI for Science program beyond individual teams to support some of the world\u2019s leading scientific foundations, institutions, and research groups. https://t.co/oTu04tU4Pk"
   }
  ]
 }
