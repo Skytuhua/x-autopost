@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "furiosaai-620m-series-d-oct-28",
+  "story_type": "funding",
+  "subject": "FuriosaAI Series D",
+  "headline": "FuriosaAI raises $620M",
+  "source": {
+    "name": "FuriosaAI",
+    "url": "https://furiosa.ai/blog/furiosaai-620-million-series-d"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://furiosa.ai/blog/furiosaai-620-million-series-d",
+      "value": "$620M",
+      "label": "FuriosaAI Series D funding round",
+      "period": "Announced Oct 28, 2026",
+      "change": "$2.9B",
+      "change_label": "post-money valuation"
+    }
+  }
+}

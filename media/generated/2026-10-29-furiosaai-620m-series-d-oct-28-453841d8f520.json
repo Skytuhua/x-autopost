@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "furiosaai-620m-series-d-oct-28",
+  "subject": "FuriosaAI Series D",
+  "source_urls": [
+    "https://furiosa.ai/blog/furiosaai-620-million-series-d"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "9a46ce0d3c462ec9799a767058e078ce458dcd18c77061343e41cbb4022e5d0b",
+  "image_sha256": "88106a5736b3e7df79de92252ad81a6d8b085da4bb566315dd6fb46ebccea178",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

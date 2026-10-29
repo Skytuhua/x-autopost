@@ -1,33 +1,33 @@
 {
- "time": "2026-10-29T07:21:04.635212Z",
- "text": "Microsoft says its contracted backlog of commercial cloud and AI work rose 73% to $677 billion in the quarter ended Sept 30. Total revenue was $92.3 billion, up 19%, and Microsoft Cloud grew 30% to $63.9 billion.",
+ "time": "2026-10-29T07:22:43.018302Z",
+ "text": "South Korean AI chip startup FuriosaAI raised $620 million in a Series D at a $2.9 billion valuation, it says. South Korea's National Growth Fund put in about $280 million. The company plans to make 20,000 of its RNGD inference cards this year.",
  "media": [
-  "media/generated/2026-10-29-microsoft-fy27-q1-backlog-677b-oct-28-1a73c7e600a3.png"
+  "media/generated/2026-10-29-furiosaai-620m-series-d-oct-28-453841d8f520.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2115705463371350016"
+  "2115705875641815040"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115705464839405676\",\"text\":\"Microsoft says its contracted backlog of commercial cloud and AI work rose 73% to $677 billion in the quarter ended Sept 30. Total revenue was $92.3 billion, up 19%, and Microsoft Cloud grew 30% to $63.9 billion. https://t.co/AjFqPEpbtj\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115705877730583009\",\"text\":\"South Korean AI chip startup FuriosaAI raised $620 million in a Series D at a $2.9 billion valuation, it says. South Korea's National Growth Fund put in about $280 million. The company plans to make 20,000 of its RNGD inference cards this year. https://t.co/cb0Mm3jbPP\"}}",
  "visual": {
   "family": "financial",
-  "variant": "statement",
+  "variant": "split",
   "palette": "ink",
-  "story_id": "microsoft-fy27-q1-backlog-677b-oct-28",
-  "subject": "Microsoft FY2027 Q1 results",
+  "story_id": "furiosaai-620m-series-d-oct-28",
+  "subject": "FuriosaAI Series D",
   "source_urls": [
-   "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/"
+   "https://furiosa.ai/blog/furiosaai-620-million-series-d"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "f59ff57856262e5a265f5e707141a045790e7db08fa6940dbb62ade71cbab492",
-  "image_sha256": "00408ab422034148f210d000825fe69f3180cd096734875bcbae395292beb5ae",
+  "content_sha256": "9a46ce0d3c462ec9799a767058e078ce458dcd18c77061343e41cbb4022e5d0b",
+  "image_sha256": "88106a5736b3e7df79de92252ad81a6d8b085da4bb566315dd6fb46ebccea178",
   "qa": {
    "width": 1600,
    "height": 900,
