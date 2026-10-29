@@ -1,52 +1,14 @@
 {
- "time": "2026-10-29T08:48:32.675671Z",
- "text": "Anthropic wrote to California Governor Gavin Newsom that the state should be able to ask a court to block AI models that pose a serious risk, Politico reports. The letter also asks for outside safety auditors inside labs and risk reports every six months.",
- "media": [
-  "media/generated/2026-10-29-anthropic-newsom-court-block-letter-5c5726a6084a.png"
- ],
+ "time": "2026-10-29T08:50:47.891423Z",
+ "text": "Nvidia released Nemotron 3.5 Transcribe, a free open-weight model that transcribes recordings in 40 languages and labels up to eight speakers. Nvidia says it tops open models on the Hugging Face English speech leaderboard. Get it on Hugging Face.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
- "warnings": [],
- "media_ids": [
-  "2115727475137482752"
+ "warnings": [
+  "Story image omitted: Image layout rejected: text outside its region: Free open speech model, 40 languages; text outside its region: Anyone can download it from Hugging Face or ModelS"
  ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115727476605526323\",\"text\":\"Anthropic wrote to California Governor Gavin Newsom that the state should be able to ask a court to block AI models that pose a serious risk, Politico reports. The letter also asks for outside safety auditors inside labs and risk reports every six months. https://t.co/BxA4QVgZPd\"}}",
- "visual": {
-  "family": "policy",
-  "variant": "branch",
-  "palette": "ivory",
-  "story_id": "anthropic-newsom-court-block-letter",
-  "subject": "Anthropic letter to Gov. Newsom on AI safety rules",
-  "source_urls": [
-   "https://thenextweb.com/news/anthropic-newsom-letter-courts-block-ai-models"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "52858233144dea554cb882016cd60225cec5cc001d8e58a03b1a2eabac66c727",
-  "image_sha256": "b68c1833fc02f4350ccbbcb0b24eaf4cd4f9379f61e8048add240bc1109eac54",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115728042194821464\",\"text\":\"Nvidia released Nemotron 3.5 Transcribe, a free open-weight model that transcribes recordings in 40 languages and labels up to eight speakers. Nvidia says it tops open models on the Hugging Face English speech leaderboard. Get it on Hugging Face.\"}}"
 }
