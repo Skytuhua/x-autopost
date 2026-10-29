@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "microsoft-fy27-q1-backlog-677b-oct-28",
+  "subject": "Microsoft FY2027 Q1 results",
+  "source_urls": [
+    "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "f59ff57856262e5a265f5e707141a045790e7db08fa6940dbb62ade71cbab492",
+  "image_sha256": "00408ab422034148f210d000825fe69f3180cd096734875bcbae395292beb5ae",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

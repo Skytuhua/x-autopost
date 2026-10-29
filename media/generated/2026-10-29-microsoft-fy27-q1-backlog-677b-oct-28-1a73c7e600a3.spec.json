@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "microsoft-fy27-q1-backlog-677b-oct-28",
+  "story_type": "earnings",
+  "subject": "Microsoft FY2027 Q1 results",
+  "headline": "Microsoft backlog hits $677B",
+  "source": {
+    "name": "Microsoft first quarter results",
+    "url": "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/",
+      "value": "$677B",
+      "label": "Commercial remaining performance obligation",
+      "period": "Q1 FY2027, quarter ended Sept 30, 2026",
+      "change": "+73%",
+      "change_label": "vs. the same quarter a year earlier"
+    }
+  }
+}

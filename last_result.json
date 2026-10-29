@@ -1,33 +1,33 @@
 {
- "time": "2026-10-29T07:19:11.750531Z",
- "text": "Google Cloud revenue more than doubled, up 103% to $30.7 billion last quarter, Alphabet says. Microsoft says Azure grew 48%, and TechCrunch puts Azure at $33.2 billion, still slightly bigger. Alphabet shares fell after the report.",
+ "time": "2026-10-29T07:21:04.635212Z",
+ "text": "Microsoft says its contracted backlog of commercial cloud and AI work rose 73% to $677 billion in the quarter ended Sept 30. Total revenue was $92.3 billion, up 19%, and Microsoft Cloud grew 30% to $63.9 billion.",
  "media": [
-  "media/generated/2026-10-29-alphabet-q3-2026-google-cloud-103-oct-28-a57285a8d511.png"
+  "media/generated/2026-10-29-microsoft-fy27-q1-backlog-677b-oct-28-1a73c7e600a3.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2115704989603471361"
+  "2115705463371350016"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115704991272800663\",\"text\":\"Google Cloud revenue more than doubled, up 103% to $30.7 billion last quarter, Alphabet says. Microsoft says Azure grew 48%, and TechCrunch puts Azure at $33.2 billion, still slightly bigger. Alphabet shares fell after the report. https://t.co/GD17l4tK3r\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115705464839405676\",\"text\":\"Microsoft says its contracted backlog of commercial cloud and AI work rose 73% to $677 billion in the quarter ended Sept 30. Total revenue was $92.3 billion, up 19%, and Microsoft Cloud grew 30% to $63.9 billion. https://t.co/AjFqPEpbtj\"}}",
  "visual": {
   "family": "financial",
-  "variant": "split",
+  "variant": "statement",
   "palette": "ink",
-  "story_id": "alphabet-q3-2026-google-cloud-103-oct-28",
-  "subject": "Alphabet Q3 2026 results",
+  "story_id": "microsoft-fy27-q1-backlog-677b-oct-28",
+  "subject": "Microsoft FY2027 Q1 results",
   "source_urls": [
-   "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf"
+   "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "8764f77c058f7f36f32c98d314abc14625feb5345afd3594b208c4d0d5d48014",
-  "image_sha256": "254a090d863bf5513fcd9d45dbbc574aa7c3d82f8d031797813b7b81d16b4221",
+  "content_sha256": "f59ff57856262e5a265f5e707141a045790e7db08fa6940dbb62ade71cbab492",
+  "image_sha256": "00408ab422034148f210d000825fe69f3180cd096734875bcbae395292beb5ae",
   "qa": {
    "width": 1600,
    "height": 900,
