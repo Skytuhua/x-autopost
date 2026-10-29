@@ -1,0 +1,37 @@
+{
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "samsung-q3-2026-operating-profit-107t-oct-29",
+  "subject": "Samsung Electronics Q3 2026 results",
+  "source_urls": [
+    "https://en.yna.co.kr/view/AEN20261029002651320",
+    "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "2be9748d3ec32d74c94d3022e211c3832db54032ca42e1cbc57314a95755f8b5",
+  "image_sha256": "6ac0d923b18682c0678052834d9d0f948ecbc453370333579480aeaaca20ab6b",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

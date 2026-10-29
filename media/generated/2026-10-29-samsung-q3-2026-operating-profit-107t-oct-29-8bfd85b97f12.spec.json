@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "samsung-q3-2026-operating-profit-107t-oct-29",
+  "story_type": "earnings",
+  "subject": "Samsung Electronics Q3 2026 results",
+  "headline": "Samsung tops 100T won profit",
+  "source": {
+    "name": "Samsung Global Newsroom",
+    "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://en.yna.co.kr/view/AEN20261029002651320",
+      "value": "107.4T won",
+      "label": "Quarterly operating profit, about $80B",
+      "period": "Q3 2026 (Jul to Sep)",
+      "change": "+783%",
+      "change_label": "vs a year earlier; revenue 195.3T won, up 127%"
+    }
+  }
+}

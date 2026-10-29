@@ -1,33 +1,34 @@
 {
- "time": "2026-10-29T07:49:23.617160Z",
- "text": "OpenAI now gives paid ChatGPT Pro and Business subscribers free API credits: $100, $200 or $500 a month on Pro, depending on tier. Claim it in ChatGPT under Settings, Billing. Subscription must be 7+ days old. Unused credits expire monthly.",
+ "time": "2026-10-29T08:17:41.554280Z",
+ "text": "Samsung Electronics posted a record operating profit of 107.4 trillion won, about $80 billion, for July to September, it says. It's the first tech company to top 100 trillion won in a quarter. Samsung's shares still slid.",
  "media": [
-  "media/generated/2026-10-29-openai-chatgpt-api-credits-2026-10-28-52a83dd90931.png"
+  "media/generated/2026-10-29-samsung-q3-2026-operating-profit-107t-oct-29-8bfd85b97f12.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2115712589288116224"
+  "2115719711132360704"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115712591007744438\",\"text\":\"OpenAI now gives paid ChatGPT Pro and Business subscribers free API credits: $100, $200 or $500 a month on Pro, depending on tier. Claim it in ChatGPT under Settings, Billing. Subscription must be 7+ days old. Unused credits expire monthly. https://t.co/il1l5xPuar\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115719712554340826\",\"text\":\"Samsung Electronics posted a record operating profit of 107.4 trillion won, about $80 billion, for July to September, it says. It's the first tech company to top 100 trillion won in a quarter. Samsung's shares still slid. https://t.co/SQJ97aftqe\"}}",
  "visual": {
-  "family": "offer",
-  "variant": "poster",
-  "palette": "acid",
-  "story_id": "openai-chatgpt-api-credits-2026-10-28",
-  "subject": "OpenAI API credits for ChatGPT subscribers",
+  "family": "financial",
+  "variant": "statement",
+  "palette": "ink",
+  "story_id": "samsung-q3-2026-operating-profit-107t-oct-29",
+  "subject": "Samsung Electronics Q3 2026 results",
   "source_urls": [
-   "https://developers.openai.com/api/docs/guides/chatgpt-api-credits"
+   "https://en.yna.co.kr/view/AEN20261029002651320",
+   "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "43ddca5ff70ab717dbad4d1fe1ba4ab2e460fb5386548c681b16520523608dde",
-  "image_sha256": "47d71b142fb31dd55b798f5f8649946f63e918b664fda23cd56c61e9d4e748e2",
+  "content_sha256": "2be9748d3ec32d74c94d3022e211c3832db54032ca42e1cbc57314a95755f8b5",
+  "image_sha256": "6ac0d923b18682c0678052834d9d0f948ecbc453370333579480aeaaca20ab6b",
   "qa": {
    "width": 1600,
    "height": 900,
