@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "alphabet-q3-2026-google-cloud-103-oct-28",
+  "subject": "Alphabet Q3 2026 results",
+  "source_urls": [
+    "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "8764f77c058f7f36f32c98d314abc14625feb5345afd3594b208c4d0d5d48014",
+  "image_sha256": "254a090d863bf5513fcd9d45dbbc574aa7c3d82f8d031797813b7b81d16b4221",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

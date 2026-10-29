@@ -1,33 +1,33 @@
 {
- "time": "2026-10-28T11:47:32.584307Z",
- "text": "Upwind, a cloud and AI security startup, has raised $400 million at a $3.8 billion valuation, Bloomberg reports. Bessemer led the round. The company was valued at $1.5 billion in January.",
+ "time": "2026-10-29T07:19:11.750531Z",
+ "text": "Google Cloud revenue more than doubled, up 103% to $30.7 billion last quarter, Alphabet says. Microsoft says Azure grew 48%, and TechCrunch puts Azure at $33.2 billion, still slightly bigger. Alphabet shares fell after the report.",
  "media": [
-  "media/generated/2026-10-28-upwind-400m-3-8b-2026-10-28-5c3b0ab9f612.png"
+  "media/generated/2026-10-29-alphabet-q3-2026-google-cloud-103-oct-28-a57285a8d511.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2115410133954056193"
+  "2115704989603471361"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115410135833022836\",\"text\":\"Upwind, a cloud and AI security startup, has raised $400 million at a $3.8 billion valuation, Bloomberg reports. Bessemer led the round. The company was valued at $1.5 billion in January. https://t.co/IjDdMrboSO\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115704991272800663\",\"text\":\"Google Cloud revenue more than doubled, up 103% to $30.7 billion last quarter, Alphabet says. Microsoft says Azure grew 48%, and TechCrunch puts Azure at $33.2 billion, still slightly bigger. Alphabet shares fell after the report. https://t.co/GD17l4tK3r\"}}",
  "visual": {
   "family": "financial",
-  "variant": "statement",
+  "variant": "split",
   "palette": "ink",
-  "story_id": "upwind-400m-3-8b-2026-10-28",
-  "subject": "Upwind Security funding round",
+  "story_id": "alphabet-q3-2026-google-cloud-103-oct-28",
+  "subject": "Alphabet Q3 2026 results",
   "source_urls": [
-   "https://www.bloomberg.com/news/articles/2026-10-28/ai-cybersecurity-startup-upwind-raises-at-3-8-billion-value"
+   "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "9201c1e59106e3034cf79131e4dd8aa625801e97cda5cdd7c49b86568c135a2f",
-  "image_sha256": "e7b1b44508cc491151f8f0adf8a35c9e0e711b195f9da5a18db920c33b75d4e9",
+  "content_sha256": "8764f77c058f7f36f32c98d314abc14625feb5345afd3594b208c4d0d5d48014",
+  "image_sha256": "254a090d863bf5513fcd9d45dbbc574aa7c3d82f8d031797813b7b81d16b4221",
   "qa": {
    "width": 1600,
    "height": 900,

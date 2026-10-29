@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "alphabet-q3-2026-google-cloud-103-oct-28",
+  "story_type": "earnings",
+  "subject": "Alphabet Q3 2026 results",
+  "headline": "Google Cloud revenue up 103%",
+  "source": {
+    "name": "Alphabet Q3 2026 earnings release",
+    "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
+      "value": "$30.7B",
+      "label": "Google Cloud quarterly revenue",
+      "period": "Q3 2026, quarter ended Sept 30",
+      "change": "+103%",
+      "change_label": "vs. the same quarter a year earlier"
+    }
+  }
+}
