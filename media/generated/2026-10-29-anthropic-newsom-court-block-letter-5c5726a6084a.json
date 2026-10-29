@@ -1,0 +1,36 @@
+{
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "anthropic-newsom-court-block-letter",
+  "subject": "Anthropic letter to Gov. Newsom on AI safety rules",
+  "source_urls": [
+    "https://thenextweb.com/news/anthropic-newsom-letter-courts-block-ai-models"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "52858233144dea554cb882016cd60225cec5cc001d8e58a03b1a2eabac66c727",
+  "image_sha256": "b68c1833fc02f4350ccbbcb0b24eaf4cd4f9379f61e8048add240bc1109eac54",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

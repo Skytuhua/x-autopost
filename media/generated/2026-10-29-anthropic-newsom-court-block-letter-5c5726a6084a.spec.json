@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "story_id": "anthropic-newsom-court-block-letter",
+  "story_type": "policy",
+  "subject": "Anthropic letter to Gov. Newsom on AI safety rules",
+  "headline": "Anthropic backs court orders on risky AI",
+  "source": {
+    "name": "The Next Web",
+    "url": "https://thenextweb.com/news/anthropic-newsom-letter-courts-block-ai-models"
+  },
+  "content": {
+    "policy": {
+      "source_url": "https://thenextweb.com/news/anthropic-newsom-letter-courts-block-ai-models",
+      "actor": "Anthropic",
+      "action": "Proposes courts can block risky AI models",
+      "status": "confirmed",
+      "targets": [
+        "Gov. Gavin Newsom",
+        "California AI safety law"
+      ],
+      "topics": [
+        "Court orders",
+        "Outside auditors",
+        "Six-month risk reports"
+      ]
+    }
+  }
+}

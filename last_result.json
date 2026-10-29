@@ -1,33 +1,33 @@
 {
- "time": "2026-10-29T08:19:36.314900Z",
- "text": "Amazon's Kiro AI coding tool is free for a year for students at 41 more universities. You get 1,000 credits a month plus paid-plan models. Sign in to Kiro, open Settings, then Students, and verify with your school email.",
+ "time": "2026-10-29T08:48:32.675671Z",
+ "text": "Anthropic wrote to California Governor Gavin Newsom that the state should be able to ask a court to block AI models that pose a serious risk, Politico reports. The letter also asks for outside safety auditors inside labs and risk reports every six months.",
  "media": [
-  "media/generated/2026-10-29-kiro-students-41-more-universities-oct-28-b6571ed49478.png"
+  "media/generated/2026-10-29-anthropic-newsom-court-block-letter-5c5726a6084a.png"
  ],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
  "media_ids": [
-  "2115720192403681281"
+  "2115727475137482752"
  ],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115720193863192810\",\"text\":\"Amazon's Kiro AI coding tool is free for a year for students at 41 more universities. You get 1,000 credits a month plus paid-plan models. Sign in to Kiro, open Settings, then Students, and verify with your school email. https://t.co/JBEdjbGSe7\"}}",
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115727476605526323\",\"text\":\"Anthropic wrote to California Governor Gavin Newsom that the state should be able to ask a court to block AI models that pose a serious risk, Politico reports. The letter also asks for outside safety auditors inside labs and risk reports every six months. https://t.co/BxA4QVgZPd\"}}",
  "visual": {
-  "family": "offer",
-  "variant": "split",
-  "palette": "acid",
-  "story_id": "kiro-students-41-more-universities-oct-28",
-  "subject": "Kiro for Students",
+  "family": "policy",
+  "variant": "branch",
+  "palette": "ivory",
+  "story_id": "anthropic-newsom-court-block-letter",
+  "subject": "Anthropic letter to Gov. Newsom on AI safety rules",
   "source_urls": [
-   "https://kiro.dev/blog/41-more-universities/"
+   "https://thenextweb.com/news/anthropic-newsom-letter-courts-block-ai-models"
   ],
   "dimensions": [
    1600,
    900
   ],
-  "content_sha256": "9aeb1a532c6c666c1da8084ee4a7957cad5602bdd7b238c3b0b9b06235c00fc7",
-  "image_sha256": "6bcd299bd45bc3d5a15cb21984393d05d01e213dcac8ee8a51d9f54156b2efc9",
+  "content_sha256": "52858233144dea554cb882016cd60225cec5cc001d8e58a03b1a2eabac66c727",
+  "image_sha256": "b68c1833fc02f4350ccbbcb0b24eaf4cd4f9379f61e8048add240bc1109eac54",
   "qa": {
    "width": 1600,
    "height": 900,
