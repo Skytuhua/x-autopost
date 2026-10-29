@@ -1,25 +1,7 @@
 {
- "time": "2026-10-29T21:47:40.612866Z",
- "action": "scan",
- "target": "",
+ "time": "2026-10-29T21:48:47.814494Z",
+ "action": "repost",
+ "target": "2115896329645723836",
  "status": 200,
- "posts": [
-  {
-   "user": "OpenAI",
-   "created_at": "2026-10-29T19:59:31.000Z",
-   "edit_history_tweet_ids": [
-    "2115896329645723836"
-   ],
-   "id": "2115896329645723836",
-   "public_metrics": {
-    "bookmark_count": 331,
-    "impression_count": 190862,
-    "like_count": 1846,
-    "quote_count": 105,
-    "reply_count": 294,
-    "retweet_count": 114
-   },
-   "text": "Today, we\u2019re sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model\u2019s attempt to access the live internet during training.\n\nSince the Hugging Face incident\u2014when models broke out of an internal cybersecurity"
-  }
- ]
+ "body": "{\"data\":{\"rest_id\":\"2115923831009530188\",\"retweeted\":true}}"
 }
