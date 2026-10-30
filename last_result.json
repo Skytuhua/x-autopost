@@ -1,6 +1,6 @@
 {
- "time": "2026-10-30T12:46:32.223869Z",
- "text": "DoorDash says it will buy Instacart for $17 billion, $65 a share, with both boards approving. Instacart keeps its brand and app, and the deal is expected to close late 2027 or in the first half of 2028.",
+ "time": "2026-10-30T13:17:40.340334Z",
+ "text": "Epoch AI says Z.ai's open-weight GLM 5.3 built working exploits for six recent Firefox versions from published but unshipped fixes, at about $1,000 per version. Epoch says Mozilla patched a related bug in Firefox 159.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
@@ -8,5 +8,5 @@
  "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116149755181163000\",\"text\":\"DoorDash says it will buy Instacart for $17 billion, $65 a share, with both boards approving. Instacart keeps its brand and app, and the deal is expected to close late 2027 or in the first half of 2028.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116157591587856516\",\"text\":\"Epoch AI says https://t.co/aZCOThEypR's open-weight GLM 5.3 built working exploits for six recent Firefox versions from published but unshipped fixes, at about $1,000 per version. Epoch says Mozilla patched a related bug in Firefox 159.\"}}"
 }
