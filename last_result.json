@@ -1,6 +1,6 @@
 {
- "time": "2026-10-30T16:18:01.961505Z",
- "text": "OpenAI says it is launching Private Intelligence, a product that gives businesses stronger controls over their data while using its top models. OpenAI says it is building it with some of its largest customers.",
+ "time": "2026-10-30T17:15:32.865557Z",
+ "text": "Salesforce says it will buy Rune Technologies, a defense software startup whose AI tool helps troops plan supplies even offline. Terms were not disclosed. Salesforce says its defense unit is growing 80% a year, Reuters reports.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
@@ -8,5 +8,5 @@
  "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116202980148162731\",\"text\":\"OpenAI says it is launching Private Intelligence, a product that gives businesses stronger controls over their data while using its top models. OpenAI says it is building it with some of its largest customers.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116217454284169418\",\"text\":\"Salesforce says it will buy Rune Technologies, a defense software startup whose AI tool helps troops plan supplies even offline. Terms were not disclosed. Salesforce says its defense unit is growing 80% a year, Reuters reports.\"}}"
 }
