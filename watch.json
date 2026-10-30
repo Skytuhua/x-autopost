@@ -1,7 +1,25 @@
 {
- "time": "2026-10-30T13:17:22.005325Z",
+ "time": "2026-10-30T15:45:56.258066Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": []
+ "posts": [
+  {
+   "user": "OpenAI",
+   "created_at": "2026-10-30T15:12:35.000Z",
+   "edit_history_tweet_ids": [
+    "2116186509384815084"
+   ],
+   "id": "2116186509384815084",
+   "public_metrics": {
+    "bookmark_count": 133,
+    "impression_count": 83940,
+    "like_count": 912,
+    "quote_count": 44,
+    "reply_count": 190,
+    "retweet_count": 60
+   },
+   "text": "Privacy should advance as fast as intelligence. OpenAI Private Intelligence gives businesses stronger controls over their data while using our most capable models.\n\nWe\u2019re building these protections in close collaboration with some of our largest customers to help businesses apply https://t.co/RWhIX72c09"
+  }
+ ]
 }
