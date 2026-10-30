@@ -1,42 +1,25 @@
 {
- "time": "2026-10-30T19:17:20.561149Z",
+ "time": "2026-10-30T21:46:19.898921Z",
  "action": "scan",
  "target": "",
  "status": 200,
  "posts": [
   {
-   "user": "nvidia",
-   "created_at": "2026-10-30T18:30:32.000Z",
+   "user": "OpenAI",
+   "created_at": "2026-10-30T19:38:20.000Z",
    "edit_history_tweet_ids": [
-    "2116236325351559524"
+    "2116253388883345623"
    ],
-   "id": "2116236325351559524",
+   "id": "2116253388883345623",
    "public_metrics": {
-    "bookmark_count": 9,
-    "impression_count": 11301,
-    "like_count": 80,
-    "quote_count": 0,
-    "reply_count": 20,
-    "retweet_count": 18
+    "bookmark_count": 719,
+    "impression_count": 318960,
+    "like_count": 3732,
+    "quote_count": 128,
+    "reply_count": 398,
+    "retweet_count": 244
    },
-   "text": "Sit back and enjoy the show.\n\nYou\u2019re watching computer graphics and simulation powered by NVIDIA CUDA-X, the software helping scientists and engineers put their ideas to the test.\n\nFrom #NVIDIAGTC Berlin: https://t.co/E8SMc1OBaF"
-  },
-  {
-   "user": "sundarpichai",
-   "created_at": "2026-10-30T18:18:47.000Z",
-   "edit_history_tweet_ids": [
-    "2116233367020859888"
-   ],
-   "id": "2116233367020859888",
-   "public_metrics": {
-    "bookmark_count": 47,
-    "impression_count": 62332,
-    "like_count": 1305,
-    "quote_count": 8,
-    "reply_count": 63,
-    "retweet_count": 82
-   },
-   "text": "\u3053\u3093\u306b\u3061\u306f\u3001\u65e5\u672c\uff01Hello Japan! https://t.co/mMwNT2T8v6"
+   "text": "There are many futures. Which do you want to build? https://t.co/19NY7tgPHM"
   }
  ]
 }
