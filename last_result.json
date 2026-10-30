@@ -1,6 +1,6 @@
 {
- "time": "2026-10-30T08:15:23.296007Z",
- "text": "Intel says Q3 revenue rose 21% to $16.5 billion, but it guided Q4 to $15 billion to $16 billion, below the roughly $17 billion analysts expected. Shares fell more than 20% in extended trading, Bloomberg reports.",
+ "time": "2026-10-30T08:45:32.477980Z",
+ "text": "Cursor says a tampered copy of the Claude Code extension (version 2.1.313) was live in its extension marketplace and hit at most 5,000 users. Cursor says Anthropic did not make it and the attacker server is now offline.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
@@ -8,5 +8,5 @@
  "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116081518569283874\",\"text\":\"Intel says Q3 revenue rose 21% to $16.5 billion, but it guided Q4 to $15 billion to $16 billion, below the roughly $17 billion analysts expected. Shares fell more than 20% in extended trading, Bloomberg reports.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116089106623037687\",\"text\":\"Cursor says a tampered copy of the Claude Code extension (version 2.1.313) was live in its extension marketplace and hit at most 5,000 users. Cursor says Anthropic did not make it and the attacker server is now offline.\"}}"
 }
