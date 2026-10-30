@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "variant": "split",
+  "palette": "ink",
+  "story_id": "alphabet-worst-day-2026-10-30",
+  "subject": "Alphabet",
+  "source_urls": [
+    "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
+  ],
+  "dimensions": [
+    1600,
+    900
+  ],
+  "content_sha256": "3ed541e3f58f5114491037088b02acb51c152fdc6aa66457af31d2c2ca891e41",
+  "image_sha256": "bf317f2a7a04e376af21bf062e167515fc930c5157c2b27991cd31ac689194aa",
+  "qa": {
+    "width": 1600,
+    "height": 900,
+    "issues": [],
+    "fonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      },
+      {
+        "family": "Space",
+        "status": "loaded"
+      },
+      {
+        "family": "Instrument",
+        "status": "loaded"
+      }
+    ]
+  },
+  "warnings": []
+}

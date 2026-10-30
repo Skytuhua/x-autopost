@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "story_id": "alphabet-worst-day-2026-10-30",
+  "story_type": "earnings",
+  "subject": "Alphabet",
+  "headline": "Alphabet's worst day ever",
+  "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
+  },
+  "content": {
+    "financial": {
+      "source_url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+      "value": "-13%",
+      "label": "Alphabet share drop Thursday",
+      "period": "Oct 29, 2026",
+      "change": "-$500B",
+      "change_label": "market value lost"
+    }
+  }
+}
