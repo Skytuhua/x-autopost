@@ -1,6 +1,6 @@
 {
- "time": "2026-10-30T10:46:40.977467Z",
- "text": "Reddit says it is moving to a mostly logged-in experience as search traffic dries up, TechCrunch and Axios report. Ad revenue rose 54% to $847 million, but daily users were flat at 130.3 million.",
+ "time": "2026-10-30T12:46:32.223869Z",
+ "text": "DoorDash says it will buy Instacart for $17 billion, $65 a share, with both boards approving. Instacart keeps its brand and app, and the deal is expected to close late 2027 or in the first half of 2028.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
@@ -8,5 +8,5 @@
  "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116119593508815290\",\"text\":\"Reddit says it is moving to a mostly logged-in experience as search traffic dries up, TechCrunch and Axios report. Ad revenue rose 54% to $847 million, but daily users were flat at 130.3 million.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116149755181163000\",\"text\":\"DoorDash says it will buy Instacart for $17 billion, $65 a share, with both boards approving. Instacart keeps its brand and app, and the deal is expected to close late 2027 or in the first half of 2028.\"}}"
 }
