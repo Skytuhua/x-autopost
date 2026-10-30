@@ -1,25 +1,7 @@
 {
- "time": "2026-10-30T11:45:18.549698Z",
+ "time": "2026-10-30T13:17:22.005325Z",
  "action": "scan",
  "target": "",
  "status": 200,
- "posts": [
-  {
-   "user": "MistralAI",
-   "created_at": "2026-10-30T09:48:50.000Z",
-   "edit_history_tweet_ids": [
-    "2116105034673058023"
-   ],
-   "id": "2116105034673058023",
-   "public_metrics": {
-    "bookmark_count": 20,
-    "impression_count": 13601,
-    "like_count": 349,
-    "quote_count": 5,
-    "reply_count": 55,
-    "retweet_count": 26
-   },
-   "text": "Three weeks of training camp for Le Chonk. No days off.\n\nThanks for putting it to the test, @ThibaultJaigu and @RequestyAI. https://t.co/pgahGD6xmV"
-  }
- ]
+ "posts": []
 }
