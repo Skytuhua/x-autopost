@@ -1,52 +1,12 @@
 {
- "time": "2026-10-30T14:47:10.238640Z",
- "text": "Alphabet shares fell nearly 13% on Thursday, its worst day ever, wiping out about $500 billion in market value, CNBC reports. The drop followed negative free cash flow of $9.07 billion, versus $2.7 billion analysts expected.",
- "media": [
-  "media/generated/2026-10-30-alphabet-worst-day-2026-10-30-e70b62f6493b.png"
- ],
+ "time": "2026-10-30T16:18:01.961505Z",
+ "text": "OpenAI says it is launching Private Intelligence, a product that gives businesses stronger controls over their data while using its top models. OpenAI says it is building it with some of its largest customers.",
+ "media": [],
  "reply_to": "",
  "dry_run": false,
  "preview": false,
  "warnings": [],
- "media_ids": [
-  "2116180114710880256"
- ],
+ "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116180116254421023\",\"text\":\"Alphabet shares fell nearly 13% on Thursday, its worst day ever, wiping out about $500 billion in market value, CNBC reports. The drop followed negative free cash flow of $9.07 billion, versus $2.7 billion analysts expected. https://t.co/RdxvkwPhqY\"}}",
- "visual": {
-  "family": "financial",
-  "variant": "split",
-  "palette": "ink",
-  "story_id": "alphabet-worst-day-2026-10-30",
-  "subject": "Alphabet",
-  "source_urls": [
-   "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
-  ],
-  "dimensions": [
-   1600,
-   900
-  ],
-  "content_sha256": "3ed541e3f58f5114491037088b02acb51c152fdc6aa66457af31d2c2ca891e41",
-  "image_sha256": "bf317f2a7a04e376af21bf062e167515fc930c5157c2b27991cd31ac689194aa",
-  "qa": {
-   "width": 1600,
-   "height": 900,
-   "issues": [],
-   "fonts": [
-    {
-     "family": "Manrope",
-     "status": "loaded"
-    },
-    {
-     "family": "Space",
-     "status": "loaded"
-    },
-    {
-     "family": "Instrument",
-     "status": "loaded"
-    }
-   ]
-  },
-  "warnings": []
- }
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116202980148162731\",\"text\":\"OpenAI says it is launching Private Intelligence, a product that gives businesses stronger controls over their data while using its top models. OpenAI says it is building it with some of its largest customers.\"}}"
 }
