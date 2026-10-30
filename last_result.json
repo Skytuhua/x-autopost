@@ -1,6 +1,6 @@
 {
- "time": "2026-10-29T22:16:34.458475Z",
- "text": "Amazon says third quarter revenue rose 12% to $201.9 billion, with AWS net sales up 39.3%. Fortune reports profit of $20.7 billion missed expectations, as last year included gains from its Anthropic stake.",
+ "time": "2026-10-30T07:16:29.922217Z",
+ "text": "Mistral has released the open weights for Mistral Large 4, TechCrunch reports. The trillion-parameter model has 52 billion active parameters, and Mistral says it leads open-weight models on cybersecurity tasks.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
@@ -8,5 +8,5 @@
  "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2115930823589277738\",\"text\":\"Amazon says third quarter revenue rose 12% to $201.9 billion, with AWS net sales up 39.3%. Fortune reports profit of $20.7 billion missed expectations, as last year included gains from its Anthropic stake.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116066699094917373\",\"text\":\"Mistral has released the open weights for Mistral Large 4, TechCrunch reports. The trillion-parameter model has 52 billion active parameters, and Mistral says it leads open-weight models on cybersecurity tasks.\"}}"
 }
