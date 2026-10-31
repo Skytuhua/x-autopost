@@ -1,6 +1,6 @@
 {
- "time": "2026-10-31T10:47:33.389105Z",
- "text": "Apple says its first Apple Intelligence features reach iPhones in China in December with iOS 27.3, after a developer beta from November 4. Alibaba's Qwen will work inside Siri, Writing Tools and Visual Intelligence. Siri AI is not included.",
+ "time": "2026-10-31T14:16:28.405794Z",
+ "text": "Google, Microsoft, Anthropic and OpenAI say they will support a shared robots.txt standard that lets websites opt out of AI training, SiliconANGLE and The Next Web report. The standard is still upcoming.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
@@ -8,5 +8,5 @@
  "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116482201252512057\",\"text\":\"Apple says its first Apple Intelligence features reach iPhones in China in December with iOS 27.3, after a developer beta from November 4. Alibaba's Qwen will work inside Siri, Writing Tools and Visual Intelligence. Siri AI is not included.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116534776706339043\",\"text\":\"Google, Microsoft, Anthropic and OpenAI say they will support a shared robots.txt standard that lets websites opt out of AI training, SiliconANGLE and The Next Web report. The standard is still upcoming.\"}}"
 }
