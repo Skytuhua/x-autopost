@@ -1,7 +1,7 @@
 {
- "time": "2026-10-31T03:18:48.290922Z",
- "action": "repost",
- "target": "2116349211549843666",
+ "time": "2026-10-31T05:47:21.717978Z",
+ "action": "scan",
+ "target": "",
  "status": 200,
- "body": "{\"data\":{\"rest_id\":\"2116369268317044821\",\"retweeted\":true}}"
+ "posts": []
 }
