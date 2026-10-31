@@ -1,6 +1,6 @@
 {
- "time": "2026-10-31T16:45:35.940517Z",
- "text": "Anthropic says it is renaming Claude's Max plans: Max 5x becomes Max at $100 a month, and Max 20x becomes Ultra at $200. Prices stay the same. It is also dropping the 5-hour usage limit for verified Ultra accounts.",
+ "time": "2026-10-31T18:15:25.884423Z",
+ "text": "Meta built a humanoid robot prototype with Chinese robotics firm Fourier in three months, The Information reports. It weighs about 106 pounds and is called Max internally. Meta is already working on a second version. No launch target has been set.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
@@ -8,5 +8,5 @@
  "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116572305644302599\",\"text\":\"Anthropic says it is renaming Claude's Max plans: Max 5x becomes Max at $100 a month, and Max 20x becomes Ultra at $200. Prices stay the same. It is also dropping the 5-hour usage limit for verified Ultra accounts.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116594912095318268\",\"text\":\"Meta built a humanoid robot prototype with Chinese robotics firm Fourier in three months, The Information reports. It weighs about 106 pounds and is called Max internally. Meta is already working on a second version. No launch target has been set.\"}}"
 }
