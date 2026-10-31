@@ -1,6 +1,6 @@
 {
- "time": "2026-10-31T08:17:33.458050Z",
- "text": "OpenAI has cut its funding round target by $10 billion to about $20 billion, the Financial Times reports via Reuters. The valuation sought fell to $1.25 trillion from $1.4 trillion, and some investors reduced their allocations.",
+ "time": "2026-10-31T08:47:24.301177Z",
+ "text": "S&P Global Ratings cut its outlook on Meta to negative from stable, Reuters reports. It forecasts free cash flow deficits of $39 billion this year and $71 billion in 2027 as AI spending climbs. Meta's AA- rating is unchanged.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
@@ -8,5 +8,5 @@
  "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116444452164194560\",\"text\":\"OpenAI has cut its funding round target by $10 billion to about $20 billion, the Financial Times reports via Reuters. The valuation sought fell to $1.25 trillion from $1.4 trillion, and some investors reduced their allocations.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116451963747352875\",\"text\":\"S&amp;P Global Ratings cut its outlook on Meta to negative from stable, Reuters reports. It forecasts free cash flow deficits of $39 billion this year and $71 billion in 2027 as AI spending climbs. Meta's AA- rating is unchanged.\"}}"
 }
