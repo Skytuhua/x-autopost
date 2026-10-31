@@ -1,6 +1,6 @@
 {
- "time": "2026-10-30T17:15:32.865557Z",
- "text": "Salesforce says it will buy Rune Technologies, a defense software startup whose AI tool helps troops plan supplies even offline. Terms were not disclosed. Salesforce says its defense unit is growing 80% a year, Reuters reports.",
+ "time": "2026-10-31T08:17:33.458050Z",
+ "text": "OpenAI has cut its funding round target by $10 billion to about $20 billion, the Financial Times reports via Reuters. The valuation sought fell to $1.25 trillion from $1.4 trillion, and some investors reduced their allocations.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
@@ -8,5 +8,5 @@
  "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116217454284169418\",\"text\":\"Salesforce says it will buy Rune Technologies, a defense software startup whose AI tool helps troops plan supplies even offline. Terms were not disclosed. Salesforce says its defense unit is growing 80% a year, Reuters reports.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116444452164194560\",\"text\":\"OpenAI has cut its funding round target by $10 billion to about $20 billion, the Financial Times reports via Reuters. The valuation sought fell to $1.25 trillion from $1.4 trillion, and some investors reduced their allocations.\"}}"
 }
