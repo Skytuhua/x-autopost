@@ -1,6 +1,6 @@
 {
- "time": "2026-11-01T05:45:29.752294Z",
- "text": "Salesforce agreed to buy Rune Technologies, a startup making AI logistics software for the US military, for a reported $375 million in cash and stock, per Resilience Media. Salesforce did not disclose terms. Close is expected by January 31.",
+ "time": "2026-11-01T08:45:34.232982Z",
+ "text": "Guidewire says it will buy Hyperexponential, a maker of AI insurance pricing software, for $1.7 billion in cash, Reuters reports. Guidewire sells core software to insurers.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
@@ -8,5 +8,5 @@
  "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116768572546416788\",\"text\":\"Salesforce agreed to buy Rune Technologies, a startup making AI logistics software for the US military, for a reported $375 million in cash and stock, per Resilience Media. Salesforce did not disclose terms. Close is expected by January 31.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116813890080420237\",\"text\":\"Guidewire says it will buy Hyperexponential, a maker of AI insurance pricing software, for $1.7 billion in cash, Reuters reports. Guidewire sells core software to insurers.\"}}"
 }
