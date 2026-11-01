@@ -1,6 +1,6 @@
 {
- "time": "2026-11-01T08:45:34.232982Z",
- "text": "Guidewire says it will buy Hyperexponential, a maker of AI insurance pricing software, for $1.7 billion in cash, Reuters reports. Guidewire sells core software to insurers.",
+ "time": "2026-11-01T12:16:31.652874Z",
+ "text": "DeepSeek has open-sourced Super-Agent, an experimental coding agent that can watch a team's chat for coding problems and suggest fixes, Bloomberg reports. It is MIT licensed on GitHub. DeepSeek calls it a research prototype aimed at Claude Code.",
  "media": [],
  "reply_to": "",
  "dry_run": false,
@@ -8,5 +8,5 @@
  "warnings": [],
  "media_ids": [],
  "status": 201,
- "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116813890080420237\",\"text\":\"Guidewire says it will buy Hyperexponential, a maker of AI insurance pricing software, for $1.7 billion in cash, Reuters reports. Guidewire sells core software to insurers.\"}}"
+ "body": "{\"data\":{\"edit_history_tweet_ids\":[\"\"],\"id\":\"2116866979311071417\",\"text\":\"DeepSeek has open-sourced Super-Agent, an experimental coding agent that can watch a team's chat for coding problems and suggest fixes, Bloomberg reports. It is MIT licensed on GitHub. DeepSeek calls it a research prototype aimed at Claude Code.\"}}"
 }
